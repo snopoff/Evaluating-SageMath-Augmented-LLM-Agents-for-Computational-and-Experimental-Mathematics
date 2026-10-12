@@ -1,0 +1,86 @@
+from typing import Any, Callable
+
+from langchain_core.tools import BaseTool, tool
+from pydantic import BaseModel
+
+from src.agent.schemas import SageExecArgs, SageFinalAnswerArgs
+from src.agent.verification import normalize_verification_payload
+from src.sage.runtime import SageRuntime
+SAGE_EXEC_TOOL_NAME = "sage_exec"
+FINAL_ANSWER_TOOL_NAME = "submit_final_answer"
+
+
+def make_sage_exec_tool(runtime: SageRuntime, usage_notes: str = "") -> BaseTool:
+    description = (
+        "Execute Sage script code inside Docker. Sage preparser syntax is allowed, "
+        "including R.<x> declarations and ^ exponentiation. Assign the final value to RESULT."
+    )
+    if usage_notes.strip():
+        description = f"{description}\n\nUsage notes:\n{usage_notes.strip()}"
+
+    @tool(
+        SAGE_EXEC_TOOL_NAME,
+        description=description,
+        args_schema=SageExecArgs,
+        response_format="content_and_artifact",
+    )
+    def _sage_exec(code: str, result_var: str = "RESULT") -> tuple[str, dict[str, Any]]:
+        result = runtime.execute_sage_code(
+            code=code,
+            result_var=result_var,
+        )
+
+        content = result.result_plain
+        if not content and result.stdout.strip():
+            content = result.stdout.strip()
+        if result.status != "ok":
+            content = result.error or result.stderr.strip() or "Sage execution failed"
+
+        verification = normalize_verification_payload(result.result_data)
+        artifact = {
+            "ok": result.status == "ok",
+            "status": result.status,
+            "error_kind": getattr(result, "error_kind", ""),
+            "exit_code": getattr(result, "exit_code", None),
+            "runtime_ms": result.runtime_ms,
+            "stderr": result.stderr,
+            "result_latex": result.result_latex,
+            "result_data": result.result_data,
+            "verification": verification,
+            "code": code,
+            "result_var": result_var,
+        }
+        return content, artifact
+
+    return _sage_exec
+
+
+def make_submit_final_answer_tool(args_schema: type[BaseModel] = SageFinalAnswerArgs) -> BaseTool:
+    @tool(FINAL_ANSWER_TOOL_NAME, args_schema=args_schema)
+    def _submit_final_answer(
+        final_answer: str,
+        sympy_answer: str | list[str],
+        explanation: str,
+        confidence: int,
+        verified_claims: list[str] | None = None,
+    ) -> str:
+        """Submit the structured final answer to the math problem."""
+
+        payload_kwargs: dict[str, Any] = {
+            "final_answer": final_answer,
+            "sympy_answer": sympy_answer,
+            "explanation": explanation,
+            "confidence": confidence,
+        }
+        if "verified_claims" in getattr(args_schema, "model_fields", {}):
+            payload_kwargs["verified_claims"] = verified_claims
+
+        payload = args_schema(**payload_kwargs)
+        return payload.model_dump_json()
+
+    return _submit_final_answer
+
+
+AVAILABLE_TOOLS: dict[str, Callable[..., BaseTool]] = {
+    SAGE_EXEC_TOOL_NAME: make_sage_exec_tool,
+}

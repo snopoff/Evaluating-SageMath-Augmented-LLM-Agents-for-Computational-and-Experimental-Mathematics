@@ -1,0 +1,37 @@
+{
+  "configurations": 20,
+  "items": 133,
+  "evaluations": 5320,
+  "source_papers": 88,
+  "hybrid_accepts": {
+    "no_tool": 1456,
+    "tool": 1673
+  },
+  "symbolic_accepts": {
+    "no_tool": 1034,
+    "tool": 1103
+  },
+  "mean_hybrid_gain_pp": 8.157894736842106,
+  "mean_symbolic_gain_pp": 2.593984962406015,
+  "hybrid_item_bootstrap_ci_pp": [
+    5.827067669172932,
+    10.676691729323307
+  ],
+  "hybrid_source_paper_bootstrap_ci_pp": [
+    5.604012381393196,
+    11.25
+  ],
+  "symbolic_source_paper_bootstrap_ci_pp": [
+    0.5042016806722691,
+    4.795123617219775
+  ],
+  "holm_significant_models": [
+    "Opus 4.7",
+    "Qwen 3.7 Max",
+    "MiniMax M3",
+    "DeepSeek V3.2"
+  ],
+  "bootstrap_samples": 20000,
+  "seed": 20260727,
+  "variance_scope": "items/source papers; no repeated-generation variance"
+}

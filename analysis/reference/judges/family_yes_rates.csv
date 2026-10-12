@@ -1,0 +1,17 @@
+judge_model,generator_group,yes,valid,yes_rate
+anthropic:claude-opus-4-7,other_family,672,2120,0.3169811320754717
+anthropic:claude-opus-4-7,own_family,175,436,0.4013761467889908
+anthropic:claude-sonnet-4-6,other_family,66,279,0.23655913978494625
+anthropic:claude-sonnet-4-6,own_family,58,137,0.4233576642335766
+anthropic:claude-sonnet-5,other_family,462,1471,0.3140720598232495
+anthropic:claude-sonnet-5,own_family,114,286,0.3986013986013986
+google:gemini-3.1-pro-preview,other_family,49,158,0.310126582278481
+google:gemini-3.5-flash,other_family,128,405,0.3160493827160494
+google:gemini-3.5-flash,own_family,101,278,0.36330935251798563
+openai:gpt-5.4,other_family,38,168,0.2261904761904762
+openai:gpt-5.4,own_family,173,442,0.3914027149321267
+openai:gpt-5.5,other_family,787,2586,0.3043310131477185
+openai:gpt-5.5,own_family,232,584,0.3972602739726027
+openai:gpt-5.6-sol,other_family,50,149,0.33557046979865773
+openrouter:deepseek/deepseek-v4-pro,other_family,886,2628,0.3371385083713851
+openrouter:deepseek/deepseek-v4-pro,own_family,129,542,0.23800738007380073

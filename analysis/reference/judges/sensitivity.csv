@@ -1,0 +1,201 @@
+configuration,mode,dropped_real_judge,accepted_lower,unavailable_three_votes,accuracy_lower,accuracy_upper
+gpt-5.6-sol,no_tool,openrouter:deepseek/deepseek-v4-pro,64,69,0.48120300751879697,1.0
+gpt-5.6-sol,no_tool,google:gemini-3.5-flash,64,69,0.48120300751879697,1.0
+gpt-5.6-sol,no_tool,anthropic:claude-opus-4-7,64,69,0.48120300751879697,1.0
+gpt-5.6-sol,no_tool,openai:gpt-5.5,64,69,0.48120300751879697,1.0
+gpt-5.6-sol,no_tool,all recorded votes from generator family,93,0,0.6992481203007519,0.6992481203007519
+gpt-5.6-sol,tool,openrouter:deepseek/deepseek-v4-pro,68,65,0.5112781954887218,1.0
+gpt-5.6-sol,tool,google:gemini-3.5-flash,68,65,0.5112781954887218,1.0
+gpt-5.6-sol,tool,anthropic:claude-opus-4-7,68,65,0.5112781954887218,1.0
+gpt-5.6-sol,tool,openai:gpt-5.5,68,65,0.5112781954887218,1.0
+gpt-5.6-sol,tool,all recorded votes from generator family,100,0,0.7518796992481203,0.7518796992481203
+gpt,no_tool,openrouter:deepseek/deepseek-v4-pro,91,0,0.6842105263157895,0.6842105263157895
+gpt,no_tool,google:gemini-3.5-flash,90,0,0.6766917293233082,0.6766917293233082
+gpt,no_tool,anthropic:claude-opus-4-7,89,0,0.6691729323308271,0.6691729323308271
+gpt,no_tool,openai:gpt-5.5,90,0,0.6766917293233082,0.6766917293233082
+gpt,no_tool,all recorded votes from generator family,90,0,0.6766917293233082,0.6766917293233082
+gpt,tool,openrouter:deepseek/deepseek-v4-pro,100,0,0.7518796992481203,0.7518796992481203
+gpt,tool,google:gemini-3.5-flash,98,0,0.7368421052631579,0.7368421052631579
+gpt,tool,anthropic:claude-opus-4-7,98,0,0.7368421052631579,0.7368421052631579
+gpt,tool,openai:gpt-5.5,100,0,0.7518796992481203,0.7518796992481203
+gpt,tool,all recorded votes from generator family,100,0,0.7518796992481203,0.7518796992481203
+opus-4-8,no_tool,openrouter:deepseek/deepseek-v4-pro,65,68,0.48872180451127817,1.0
+opus-4-8,no_tool,google:gemini-3.5-flash,88,0,0.6616541353383458,0.6616541353383458
+opus-4-8,no_tool,anthropic:claude-opus-4-7,65,68,0.48872180451127817,1.0
+opus-4-8,no_tool,openai:gpt-5.5,65,68,0.48872180451127817,1.0
+opus-4-8,no_tool,all recorded votes from generator family,87,0,0.6541353383458647,0.6541353383458647
+opus-4-8,tool,openrouter:deepseek/deepseek-v4-pro,63,70,0.47368421052631576,1.0
+opus-4-8,tool,google:gemini-3.5-flash,98,0,0.7368421052631579,0.7368421052631579
+opus-4-8,tool,anthropic:claude-opus-4-7,63,70,0.47368421052631576,1.0
+opus-4-8,tool,openai:gpt-5.5,63,70,0.47368421052631576,1.0
+opus-4-8,tool,all recorded votes from generator family,96,0,0.7218045112781954,0.7218045112781954
+opus,no_tool,openrouter:deepseek/deepseek-v4-pro,61,72,0.45864661654135336,1.0
+opus,no_tool,google:gemini-3.5-flash,83,0,0.6240601503759399,0.6240601503759399
+opus,no_tool,anthropic:claude-opus-4-7,61,72,0.45864661654135336,1.0
+opus,no_tool,openai:gpt-5.5,61,72,0.45864661654135336,1.0
+opus,no_tool,all recorded votes from generator family,83,0,0.6240601503759399,0.6240601503759399
+opus,tool,openrouter:deepseek/deepseek-v4-pro,61,72,0.45864661654135336,1.0
+opus,tool,google:gemini-3.5-flash,97,0,0.7293233082706767,0.7293233082706767
+opus,tool,anthropic:claude-opus-4-7,61,72,0.45864661654135336,1.0
+opus,tool,openai:gpt-5.5,61,72,0.45864661654135336,1.0
+opus,tool,all recorded votes from generator family,96,0,0.7218045112781954,0.7218045112781954
+fugu,no_tool,openrouter:deepseek/deepseek-v4-pro,60,73,0.45112781954887216,1.0
+fugu,no_tool,google:gemini-3.5-flash,89,0,0.6691729323308271,0.6691729323308271
+fugu,no_tool,anthropic:claude-opus-4-7,60,73,0.45112781954887216,1.0
+fugu,no_tool,openai:gpt-5.5,60,73,0.45112781954887216,1.0
+fugu,no_tool,all recorded votes from generator family,89,0,0.6691729323308271,0.6691729323308271
+fugu,tool,openrouter:deepseek/deepseek-v4-pro,59,74,0.44360902255639095,1.0
+fugu,tool,google:gemini-3.5-flash,96,1,0.7218045112781954,0.7293233082706767
+fugu,tool,anthropic:claude-opus-4-7,59,74,0.44360902255639095,1.0
+fugu,tool,openai:gpt-5.5,59,74,0.44360902255639095,1.0
+fugu,tool,all recorded votes from generator family,96,0,0.7218045112781954,0.7218045112781954
+gemini-3.1,no_tool,openrouter:deepseek/deepseek-v4-pro,89,0,0.6691729323308271,0.6691729323308271
+gemini-3.1,no_tool,google:gemini-3.5-flash,89,0,0.6691729323308271,0.6691729323308271
+gemini-3.1,no_tool,anthropic:claude-opus-4-7,89,0,0.6691729323308271,0.6691729323308271
+gemini-3.1,no_tool,openai:gpt-5.5,89,0,0.6691729323308271,0.6691729323308271
+gemini-3.1,no_tool,all recorded votes from generator family,89,0,0.6691729323308271,0.6691729323308271
+gemini-3.1,tool,openrouter:deepseek/deepseek-v4-pro,93,0,0.6992481203007519,0.6992481203007519
+gemini-3.1,tool,google:gemini-3.5-flash,93,0,0.6992481203007519,0.6992481203007519
+gemini-3.1,tool,anthropic:claude-opus-4-7,93,0,0.6992481203007519,0.6992481203007519
+gemini-3.1,tool,openai:gpt-5.5,93,0,0.6992481203007519,0.6992481203007519
+gemini-3.1,tool,all recorded votes from generator family,93,0,0.6992481203007519,0.6992481203007519
+qwen,no_tool,openrouter:deepseek/deepseek-v4-pro,38,95,0.2857142857142857,1.0
+qwen,no_tool,google:gemini-3.5-flash,56,0,0.42105263157894735,0.42105263157894735
+qwen,no_tool,anthropic:claude-opus-4-7,38,95,0.2857142857142857,1.0
+qwen,no_tool,openai:gpt-5.5,38,95,0.2857142857142857,1.0
+qwen,no_tool,all recorded votes from generator family,56,0,0.42105263157894735,0.42105263157894735
+qwen,tool,openrouter:deepseek/deepseek-v4-pro,60,73,0.45112781954887216,1.0
+qwen,tool,google:gemini-3.5-flash,94,0,0.706766917293233,0.706766917293233
+qwen,tool,anthropic:claude-opus-4-7,60,73,0.45112781954887216,1.0
+qwen,tool,openai:gpt-5.5,60,73,0.45112781954887216,1.0
+qwen,tool,all recorded votes from generator family,93,0,0.6992481203007519,0.6992481203007519
+gpt-5.6-terra,no_tool,openrouter:deepseek/deepseek-v4-pro,60,73,0.45112781954887216,1.0
+gpt-5.6-terra,no_tool,google:gemini-3.5-flash,60,73,0.45112781954887216,1.0
+gpt-5.6-terra,no_tool,anthropic:claude-opus-4-7,60,73,0.45112781954887216,1.0
+gpt-5.6-terra,no_tool,openai:gpt-5.5,60,73,0.45112781954887216,1.0
+gpt-5.6-terra,no_tool,all recorded votes from generator family,87,0,0.6541353383458647,0.6541353383458647
+gpt-5.6-terra,tool,openrouter:deepseek/deepseek-v4-pro,62,71,0.46616541353383456,1.0
+gpt-5.6-terra,tool,google:gemini-3.5-flash,62,71,0.46616541353383456,1.0
+gpt-5.6-terra,tool,anthropic:claude-opus-4-7,62,71,0.46616541353383456,1.0
+gpt-5.6-terra,tool,openai:gpt-5.5,62,71,0.46616541353383456,1.0
+gpt-5.6-terra,tool,all recorded votes from generator family,91,0,0.6842105263157895,0.6842105263157895
+gemini,no_tool,openrouter:deepseek/deepseek-v4-pro,82,0,0.6165413533834586,0.6165413533834586
+gemini,no_tool,google:gemini-3.5-flash,81,0,0.6090225563909775,0.6090225563909775
+gemini,no_tool,anthropic:claude-opus-4-7,81,0,0.6090225563909775,0.6090225563909775
+gemini,no_tool,openai:gpt-5.5,82,0,0.6165413533834586,0.6165413533834586
+gemini,no_tool,all recorded votes from generator family,81,0,0.6090225563909775,0.6090225563909775
+gemini,tool,openrouter:deepseek/deepseek-v4-pro,89,0,0.6691729323308271,0.6691729323308271
+gemini,tool,google:gemini-3.5-flash,88,0,0.6616541353383458,0.6616541353383458
+gemini,tool,anthropic:claude-opus-4-7,88,0,0.6616541353383458,0.6616541353383458
+gemini,tool,openai:gpt-5.5,89,0,0.6691729323308271,0.6691729323308271
+gemini,tool,all recorded votes from generator family,88,0,0.6616541353383458,0.6616541353383458
+sonnet,no_tool,openrouter:deepseek/deepseek-v4-pro,56,77,0.42105263157894735,1.0
+sonnet,no_tool,google:gemini-3.5-flash,79,0,0.5939849624060151,0.5939849624060151
+sonnet,no_tool,anthropic:claude-opus-4-7,56,77,0.42105263157894735,1.0
+sonnet,no_tool,openai:gpt-5.5,56,77,0.42105263157894735,1.0
+sonnet,no_tool,all recorded votes from generator family,79,0,0.5939849624060151,0.5939849624060151
+sonnet,tool,openrouter:deepseek/deepseek-v4-pro,56,77,0.42105263157894735,1.0
+sonnet,tool,google:gemini-3.5-flash,88,0,0.6616541353383458,0.6616541353383458
+sonnet,tool,anthropic:claude-opus-4-7,56,77,0.42105263157894735,1.0
+sonnet,tool,openai:gpt-5.5,56,77,0.42105263157894735,1.0
+sonnet,tool,all recorded votes from generator family,88,0,0.6616541353383458,0.6616541353383458
+kimi-k3,no_tool,openrouter:deepseek/deepseek-v4-pro,60,73,0.45112781954887216,1.0
+kimi-k3,no_tool,google:gemini-3.5-flash,80,0,0.6015037593984962,0.6015037593984962
+kimi-k3,no_tool,anthropic:claude-opus-4-7,60,73,0.45112781954887216,1.0
+kimi-k3,no_tool,openai:gpt-5.5,60,73,0.45112781954887216,1.0
+kimi-k3,no_tool,all recorded votes from generator family,80,0,0.6015037593984962,0.6015037593984962
+kimi-k3,tool,openrouter:deepseek/deepseek-v4-pro,57,76,0.42857142857142855,1.0
+kimi-k3,tool,google:gemini-3.5-flash,86,2,0.6466165413533834,0.6616541353383458
+kimi-k3,tool,anthropic:claude-opus-4-7,57,76,0.42857142857142855,1.0
+kimi-k3,tool,openai:gpt-5.5,57,76,0.42857142857142855,1.0
+kimi-k3,tool,all recorded votes from generator family,87,0,0.6541353383458647,0.6541353383458647
+deepseek-v4-pro,no_tool,openrouter:deepseek/deepseek-v4-pro,53,80,0.39849624060150374,1.0
+deepseek-v4-pro,no_tool,google:gemini-3.5-flash,69,1,0.518796992481203,0.5263157894736842
+deepseek-v4-pro,no_tool,anthropic:claude-opus-4-7,53,80,0.39849624060150374,1.0
+deepseek-v4-pro,no_tool,openai:gpt-5.5,53,80,0.39849624060150374,1.0
+deepseek-v4-pro,no_tool,all recorded votes from generator family,70,0,0.5263157894736842,0.5263157894736842
+deepseek-v4-pro,tool,openrouter:deepseek/deepseek-v4-pro,47,86,0.3533834586466165,1.0
+deepseek-v4-pro,tool,google:gemini-3.5-flash,86,0,0.6466165413533834,0.6466165413533834
+deepseek-v4-pro,tool,anthropic:claude-opus-4-7,47,86,0.3533834586466165,1.0
+deepseek-v4-pro,tool,openai:gpt-5.5,47,86,0.3533834586466165,1.0
+deepseek-v4-pro,tool,all recorded votes from generator family,84,0,0.631578947368421,0.631578947368421
+glm,no_tool,openrouter:deepseek/deepseek-v4-pro,52,81,0.39097744360902253,1.0
+glm,no_tool,google:gemini-3.5-flash,71,0,0.5338345864661654,0.5338345864661654
+glm,no_tool,anthropic:claude-opus-4-7,52,81,0.39097744360902253,1.0
+glm,no_tool,openai:gpt-5.5,52,81,0.39097744360902253,1.0
+glm,no_tool,all recorded votes from generator family,71,0,0.5338345864661654,0.5338345864661654
+glm,tool,openrouter:deepseek/deepseek-v4-pro,56,77,0.42105263157894735,1.0
+glm,tool,google:gemini-3.5-flash,84,0,0.631578947368421,0.631578947368421
+glm,tool,anthropic:claude-opus-4-7,56,77,0.42105263157894735,1.0
+glm,tool,openai:gpt-5.5,56,77,0.42105263157894735,1.0
+glm,tool,all recorded votes from generator family,83,0,0.6240601503759399,0.6240601503759399
+kimi,no_tool,openrouter:deepseek/deepseek-v4-pro,53,80,0.39849624060150374,1.0
+kimi,no_tool,google:gemini-3.5-flash,77,0,0.5789473684210527,0.5789473684210527
+kimi,no_tool,anthropic:claude-opus-4-7,53,80,0.39849624060150374,1.0
+kimi,no_tool,openai:gpt-5.5,53,80,0.39849624060150374,1.0
+kimi,no_tool,all recorded votes from generator family,76,0,0.5714285714285714,0.5714285714285714
+kimi,tool,openrouter:deepseek/deepseek-v4-pro,52,81,0.39097744360902253,1.0
+kimi,tool,google:gemini-3.5-flash,79,0,0.5939849624060151,0.5939849624060151
+kimi,tool,anthropic:claude-opus-4-7,52,81,0.39097744360902253,1.0
+kimi,tool,openai:gpt-5.5,52,81,0.39097744360902253,1.0
+kimi,tool,all recorded votes from generator family,78,0,0.5864661654135338,0.5864661654135338
+gpt-5.6-luna,no_tool,openrouter:deepseek/deepseek-v4-pro,53,80,0.39849624060150374,1.0
+gpt-5.6-luna,no_tool,google:gemini-3.5-flash,53,80,0.39849624060150374,1.0
+gpt-5.6-luna,no_tool,anthropic:claude-opus-4-7,53,80,0.39849624060150374,1.0
+gpt-5.6-luna,no_tool,openai:gpt-5.5,53,80,0.39849624060150374,1.0
+gpt-5.6-luna,no_tool,all recorded votes from generator family,69,0,0.518796992481203,0.518796992481203
+gpt-5.6-luna,tool,openrouter:deepseek/deepseek-v4-pro,49,84,0.3684210526315789,1.0
+gpt-5.6-luna,tool,google:gemini-3.5-flash,49,84,0.3684210526315789,1.0
+gpt-5.6-luna,tool,anthropic:claude-opus-4-7,49,84,0.3684210526315789,1.0
+gpt-5.6-luna,tool,openai:gpt-5.5,49,84,0.3684210526315789,1.0
+gpt-5.6-luna,tool,all recorded votes from generator family,74,0,0.556390977443609,0.556390977443609
+minimax,no_tool,openrouter:deepseek/deepseek-v4-pro,35,98,0.2631578947368421,1.0
+minimax,no_tool,google:gemini-3.5-flash,51,0,0.38345864661654133,0.38345864661654133
+minimax,no_tool,anthropic:claude-opus-4-7,35,98,0.2631578947368421,1.0
+minimax,no_tool,openai:gpt-5.5,35,98,0.2631578947368421,1.0
+minimax,no_tool,all recorded votes from generator family,51,0,0.38345864661654133,0.38345864661654133
+minimax,tool,openrouter:deepseek/deepseek-v4-pro,50,83,0.37593984962406013,1.0
+minimax,tool,google:gemini-3.5-flash,74,0,0.556390977443609,0.556390977443609
+minimax,tool,anthropic:claude-opus-4-7,50,83,0.37593984962406013,1.0
+minimax,tool,openai:gpt-5.5,50,83,0.37593984962406013,1.0
+minimax,tool,all recorded votes from generator family,74,0,0.556390977443609,0.556390977443609
+mistral,no_tool,openrouter:deepseek/deepseek-v4-pro,51,82,0.38345864661654133,1.0
+mistral,no_tool,google:gemini-3.5-flash,51,82,0.38345864661654133,1.0
+mistral,no_tool,anthropic:claude-opus-4-7,51,82,0.38345864661654133,1.0
+mistral,no_tool,openai:gpt-5.5,51,82,0.38345864661654133,1.0
+mistral,no_tool,all recorded votes from generator family,65,0,0.48872180451127817,0.48872180451127817
+mistral,tool,openrouter:deepseek/deepseek-v4-pro,47,86,0.3533834586466165,1.0
+mistral,tool,google:gemini-3.5-flash,47,86,0.3533834586466165,1.0
+mistral,tool,anthropic:claude-opus-4-7,47,86,0.3533834586466165,1.0
+mistral,tool,openai:gpt-5.5,47,86,0.3533834586466165,1.0
+mistral,tool,all recorded votes from generator family,68,0,0.5112781954887218,0.5112781954887218
+deepseek,no_tool,openrouter:deepseek/deepseek-v4-pro,29,104,0.21804511278195488,1.0
+deepseek,no_tool,google:gemini-3.5-flash,47,0,0.3533834586466165,0.3533834586466165
+deepseek,no_tool,anthropic:claude-opus-4-7,29,104,0.21804511278195488,1.0
+deepseek,no_tool,openai:gpt-5.5,29,104,0.21804511278195488,1.0
+deepseek,no_tool,all recorded votes from generator family,46,0,0.3458646616541353,0.3458646616541353
+deepseek,tool,openrouter:deepseek/deepseek-v4-pro,65,0,0.48872180451127817,0.48872180451127817
+deepseek,tool,google:gemini-3.5-flash,65,0,0.48872180451127817,0.48872180451127817
+deepseek,tool,anthropic:claude-opus-4-7,67,0,0.5037593984962406,0.5037593984962406
+deepseek,tool,openai:gpt-5.5,67,0,0.5037593984962406,0.5037593984962406
+deepseek,tool,all recorded votes from generator family,65,0,0.48872180451127817,0.48872180451127817
+grok,no_tool,openrouter:deepseek/deepseek-v4-pro,27,106,0.20300751879699247,1.0
+grok,no_tool,google:gemini-3.5-flash,62,0,0.46616541353383456,0.46616541353383456
+grok,no_tool,anthropic:claude-opus-4-7,27,106,0.20300751879699247,1.0
+grok,no_tool,openai:gpt-5.5,27,106,0.20300751879699247,1.0
+grok,no_tool,all recorded votes from generator family,62,0,0.46616541353383456,0.46616541353383456
+grok,tool,openrouter:deepseek/deepseek-v4-pro,64,0,0.48120300751879697,0.48120300751879697
+grok,tool,google:gemini-3.5-flash,65,0,0.48872180451127817,0.48872180451127817
+grok,tool,anthropic:claude-opus-4-7,64,0,0.48120300751879697,0.48120300751879697
+grok,tool,openai:gpt-5.5,65,0,0.48872180451127817,0.48872180451127817
+grok,tool,all recorded votes from generator family,64,0,0.48120300751879697,0.48120300751879697
+deepseek-v4,no_tool,openrouter:deepseek/deepseek-v4-pro,32,101,0.24060150375939848,1.0
+deepseek-v4,no_tool,google:gemini-3.5-flash,43,0,0.3233082706766917,0.3233082706766917
+deepseek-v4,no_tool,anthropic:claude-opus-4-7,32,101,0.24060150375939848,1.0
+deepseek-v4,no_tool,openai:gpt-5.5,32,101,0.24060150375939848,1.0
+deepseek-v4,no_tool,all recorded votes from generator family,44,0,0.3308270676691729,0.3308270676691729
+deepseek-v4,tool,openrouter:deepseek/deepseek-v4-pro,73,0,0.5488721804511278,0.5488721804511278
+deepseek-v4,tool,google:gemini-3.5-flash,73,0,0.5488721804511278,0.5488721804511278
+deepseek-v4,tool,anthropic:claude-opus-4-7,72,0,0.5413533834586466,0.5413533834586466
+deepseek-v4,tool,openai:gpt-5.5,74,0,0.556390977443609,0.556390977443609
+deepseek-v4,tool,all recorded votes from generator family,73,0,0.5488721804511278,0.5488721804511278

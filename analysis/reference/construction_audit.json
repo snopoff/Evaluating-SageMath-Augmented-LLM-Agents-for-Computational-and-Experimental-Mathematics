@@ -1,0 +1,9 @@
+{
+  "counts": {
+    "source_633": 633,
+    "normalized_219": 219,
+    "evaluation_133": 133
+  },
+  "evaluation_subset_of_normalized": true,
+  "analysis_scope": "Category counts for the released source metadata, normalized pool and exact evaluation set; retention 219 to 133."
+}

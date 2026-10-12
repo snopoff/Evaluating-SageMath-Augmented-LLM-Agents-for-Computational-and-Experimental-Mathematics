@@ -1,0 +1,1122 @@
+{
+ "2205.03200": {
+  "primary": "math.GT",
+  "published": "2022-05-06"
+ },
+ "2205.02067": {
+  "primary": "math.AG",
+  "published": "2022-05-04"
+ },
+ "2205.02467": {
+  "primary": "math.AP",
+  "published": "2022-05-05"
+ },
+ "2205.02634": {
+  "primary": "math.CO",
+  "published": "2022-05-05"
+ },
+ "2205.05394": {
+  "primary": "math.CO",
+  "published": "2022-05-11"
+ },
+ "2205.08032": {
+  "primary": "cs.CC",
+  "published": "2022-05-17"
+ },
+ "2205.07189": {
+  "primary": "math.CO",
+  "published": "2022-05-15"
+ },
+ "2205.07025": {
+  "primary": "cs.CG",
+  "published": "2022-05-14"
+ },
+ "2205.00596": {
+  "primary": "math.GR",
+  "published": "2022-05-02"
+ },
+ "2205.00866": {
+  "primary": "math.CO",
+  "published": "2022-05-02"
+ },
+ "2205.11120": {
+  "primary": "math.GT",
+  "published": "2022-05-23"
+ },
+ "2205.09686": {
+  "primary": "math.CO",
+  "published": "2022-05-19"
+ },
+ "2205.13198": {
+  "primary": "cs.IT",
+  "published": "2022-05-26"
+ },
+ "2205.04767": {
+  "primary": "math.AG",
+  "published": "2022-05-10"
+ },
+ "2205.03791": {
+  "primary": "math.CO",
+  "published": "2022-05-08"
+ },
+ "2205.05118": {
+  "primary": "math.CO",
+  "published": "2022-05-10"
+ },
+ "2205.03451": {
+  "primary": "math.GT",
+  "published": "2022-05-06"
+ },
+ "2205.01146": {
+  "primary": "math.DG",
+  "published": "2022-05-02"
+ },
+ "2205.07492": {
+  "primary": "math.AG",
+  "published": "2022-05-16"
+ },
+ "2205.10645": {
+  "primary": "math.PR",
+  "published": "2022-05-21"
+ },
+ "2205.11768": {
+  "primary": "math.DG",
+  "published": "2022-05-24"
+ },
+ "2205.03260": {
+  "primary": "math.OC",
+  "published": "2022-05-06"
+ },
+ "2205.07961": {
+  "primary": "math.CV",
+  "published": "2022-05-16"
+ },
+ "2205.07998": {
+  "primary": "math.FA",
+  "published": "2022-05-16"
+ },
+ "2205.09033": {
+  "primary": "math.HO",
+  "published": "2022-05-18"
+ },
+ "2205.13318": {
+  "primary": "math.AG",
+  "published": "2022-05-26"
+ },
+ "2205.13078": {
+  "primary": "math.FA",
+  "published": "2022-05-25"
+ },
+ "2205.04660": {
+  "primary": "math.CO",
+  "published": "2022-05-10"
+ },
+ "2205.04380": {
+  "primary": "math.DG",
+  "published": "2022-05-09"
+ },
+ "2205.04456": {
+  "primary": "math.AG",
+  "published": "2022-05-09"
+ },
+ "2205.05229": {
+  "primary": "math.AP",
+  "published": "2022-05-11"
+ },
+ "2205.07346": {
+  "primary": "cs.IT",
+  "published": "2022-05-15"
+ },
+ "2205.07710": {
+  "primary": "math.CO",
+  "published": "2022-05-16"
+ },
+ "2205.00647": {
+  "primary": "math.OC",
+  "published": "2022-05-02"
+ },
+ "2205.00702": {
+  "primary": "math.AG",
+  "published": "2022-05-02"
+ },
+ "2205.01734": {
+  "primary": "math.CO",
+  "published": "2022-05-03"
+ },
+ "2205.02578": {
+  "primary": "math.GR",
+  "published": "2022-05-05"
+ },
+ "2205.03191": {
+  "primary": "math.NT",
+  "published": "2022-05-06"
+ },
+ "2205.03397": {
+  "primary": "math.FA",
+  "published": "2022-05-06"
+ },
+ "2205.05743": {
+  "primary": "math.PR",
+  "published": "2022-05-11"
+ },
+ "2205.07165": {
+  "primary": "math.NT",
+  "published": "2022-05-15"
+ },
+ "2205.07111": {
+  "primary": "math.CV",
+  "published": "2022-05-14"
+ },
+ "2205.12774": {
+  "primary": "math.GT",
+  "published": "2022-05-25"
+ },
+ "2205.13309": {
+  "primary": "math.CO",
+  "published": "2022-05-26"
+ },
+ "2205.11621": {
+  "primary": "math.CO",
+  "published": "2022-05-23"
+ },
+ "2205.12786": {
+  "primary": "math.NT",
+  "published": "2022-05-25"
+ },
+ "2205.06956": {
+  "primary": "math.CO",
+  "published": "2022-05-14"
+ },
+ "2205.07010": {
+  "primary": "math.CO",
+  "published": "2022-05-14"
+ },
+ "2205.13592": {
+  "primary": "math.CO",
+  "published": "2022-05-26"
+ },
+ "2205.05210": {
+  "primary": "math.FA",
+  "published": "2022-05-10"
+ },
+ "2205.06223": {
+  "primary": "math.CO",
+  "published": "2022-05-12"
+ },
+ "2205.05724": {
+  "primary": "math.CO",
+  "published": "2022-05-11"
+ },
+ "2205.14043": {
+  "primary": "math.NT",
+  "published": "2022-05-27"
+ },
+ "2205.03188": {
+  "primary": "math.CO",
+  "published": "2022-05-06"
+ },
+ "2205.03752": {
+  "primary": "cs.IT",
+  "published": "2022-05-08"
+ },
+ "2205.01013": {
+  "primary": "math.GT",
+  "published": "2022-05-02"
+ },
+ "2205.00799": {
+  "primary": "econ.TH",
+  "published": "2022-05-02"
+ },
+ "2205.08453": {
+  "primary": "math.AT",
+  "published": "2022-05-17"
+ },
+ "2205.06122": {
+  "primary": "math.GT",
+  "published": "2022-05-12"
+ },
+ "2205.00438": {
+  "primary": "math.GR",
+  "published": "2022-05-01"
+ },
+ "2205.00527": {
+  "primary": "math.CO",
+  "published": "2022-05-01"
+ },
+ "2205.08466": {
+  "primary": "math.NT",
+  "published": "2022-05-17"
+ },
+ "2205.07317": {
+  "primary": "cs.DM",
+  "published": "2022-05-15"
+ },
+ "2205.03577": {
+  "primary": "cs.CC",
+  "published": "2022-05-07"
+ },
+ "2205.05247": {
+  "primary": "math.NT",
+  "published": "2022-05-11"
+ },
+ "2205.04574": {
+  "primary": "math.AP",
+  "published": "2022-05-09"
+ },
+ "2205.03965": {
+  "primary": "math.CO",
+  "published": "2022-05-08"
+ },
+ "2205.04019": {
+  "primary": "eess.SP",
+  "published": "2022-05-09"
+ },
+ "2205.04082": {
+  "primary": "math.CO",
+  "published": "2022-05-09"
+ },
+ "2205.04880": {
+  "primary": "math.PR",
+  "published": "2022-05-10"
+ },
+ "2205.01320": {
+  "primary": "math.CA",
+  "published": "2022-05-03"
+ },
+ "2205.01894": {
+  "primary": "math.CO",
+  "published": "2022-05-04"
+ },
+ "2205.11287": {
+  "primary": "math.AG",
+  "published": "2022-05-23"
+ },
+ "2205.10644": {
+  "primary": "math.LO",
+  "published": "2022-05-21"
+ },
+ "2205.13381": {
+  "primary": "math.SG",
+  "published": "2022-05-26"
+ },
+ "2205.11129": {
+  "primary": "math.CO",
+  "published": "2022-05-23"
+ },
+ "2205.04811": {
+  "primary": "math.RT",
+  "published": "2022-05-10"
+ },
+ "2205.13995": {
+  "primary": "math.NT",
+  "published": "2022-05-27"
+ },
+ "2205.12838": {
+  "primary": "math.OC",
+  "published": "2022-05-25"
+ },
+ "2205.07599": {
+  "primary": "math.FA",
+  "published": "2022-05-16"
+ },
+ "2205.08964": {
+  "primary": "cs.IT",
+  "published": "2022-05-18"
+ },
+ "2205.02968": {
+  "primary": "math.PR",
+  "published": "2022-05-06"
+ },
+ "2205.09368": {
+  "primary": "math.NT",
+  "published": "2022-05-19"
+ },
+ "2205.09657": {
+  "primary": "math.AC",
+  "published": "2022-05-19"
+ },
+ "2205.02196": {
+  "primary": "math.RA",
+  "published": "2022-05-04"
+ },
+ "2205.05274": {
+  "primary": "math.CO",
+  "published": "2022-05-11"
+ },
+ "2205.03922": {
+  "primary": "math.DS",
+  "published": "2022-05-08"
+ },
+ "2205.03928": {
+  "primary": "math.CO",
+  "published": "2022-05-08"
+ },
+ "2205.04916": {
+  "primary": "math.CO",
+  "published": "2022-05-10"
+ },
+ "2205.11066": {
+  "primary": "math.FA",
+  "published": "2022-05-23"
+ },
+ "2205.11364": {
+  "primary": "math.OC",
+  "published": "2022-05-23"
+ },
+ "2205.13062": {
+  "primary": "math.CA",
+  "published": "2022-05-25"
+ },
+ "2205.05713": {
+  "primary": "math.AG",
+  "published": "2022-05-11"
+ },
+ "2205.02276": {
+  "primary": "math.CO",
+  "published": "2022-05-04"
+ },
+ "2205.13823": {
+  "primary": "math.FA",
+  "published": "2022-05-27"
+ },
+ "2205.13180": {
+  "primary": "math.NT",
+  "published": "2022-05-26"
+ },
+ "2205.01660": {
+  "primary": "math.RA",
+  "published": "2022-05-03"
+ },
+ "2205.08802": {
+  "primary": "math.GT",
+  "published": "2022-05-18"
+ },
+ "2205.13581": {
+  "primary": "math.CO",
+  "published": "2022-05-26"
+ },
+ "2205.09222": {
+  "primary": "math.CO",
+  "published": "2022-05-18"
+ },
+ "2206.14843": {
+  "primary": "math.GR",
+  "published": "2022-06-28"
+ },
+ "2206.14174": {
+  "primary": "math.GT",
+  "published": "2022-06-28"
+ },
+ "2206.14653": {
+  "primary": "math.CA",
+  "published": "2022-06-29"
+ },
+ "2206.14783": {
+  "primary": "math.NT",
+  "published": "2022-06-29"
+ },
+ "2205.15189": {
+  "primary": "math.CO",
+  "published": "2022-05-30"
+ },
+ "2412.04195": {
+  "primary": "math.AC",
+  "published": "2024-12-05"
+ },
+ "2412.07314": {
+  "primary": "math.CA",
+  "published": "2024-12-10"
+ },
+ "2412.02620": {
+  "primary": "q-bio.MN",
+  "published": "2024-12-03"
+ },
+ "2412.08884": {
+  "primary": "math.DS",
+  "published": "2024-12-12"
+ },
+ "2412.11225": {
+  "primary": "math.GT",
+  "published": "2024-12-15"
+ },
+ "2412.11508": {
+  "primary": "math.NT",
+  "published": "2024-12-16"
+ },
+ "2205.15369": {
+  "primary": "math.GR",
+  "published": "2022-05-30"
+ },
+ "2206.14950": {
+  "primary": "math-ph",
+  "published": "2022-06-29"
+ },
+ "2412.11646": {
+  "primary": "cs.LG",
+  "published": "2024-12-16"
+ },
+ "2412.11528": {
+  "primary": "math.CO",
+  "published": "2024-12-16"
+ },
+ "2412.04740": {
+  "primary": "math.AP",
+  "published": "2024-12-06"
+ },
+ "2412.02042": {
+  "primary": "math.GT",
+  "published": "2024-12-02"
+ },
+ "2205.14255": {
+  "primary": "math.GT",
+  "published": "2022-05-27"
+ },
+ "2412.05500": {
+  "primary": "math.AG",
+  "published": "2024-12-07"
+ },
+ "2412.11283": {
+  "primary": "math.RA",
+  "published": "2024-12-15"
+ },
+ "2412.11697": {
+  "primary": "math.CV",
+  "published": "2024-12-16"
+ },
+ "2412.07054": {
+  "primary": "math.NT",
+  "published": "2024-12-09"
+ },
+ "2412.08400": {
+  "primary": "math.PR",
+  "published": "2024-12-11"
+ },
+ "2412.08415": {
+  "primary": "math.SG",
+  "published": "2024-12-11"
+ },
+ "2412.07483": {
+  "primary": "math.AG",
+  "published": "2024-12-10"
+ },
+ "2205.15728": {
+  "primary": "math.RA",
+  "published": "2022-05-30"
+ },
+ "2206.13877": {
+  "primary": "math.CO",
+  "published": "2022-06-28"
+ },
+ "2206.14250": {
+  "primary": "math.DG",
+  "published": "2022-06-28"
+ },
+ "2205.14924": {
+  "primary": "math.DS",
+  "published": "2022-05-30"
+ },
+ "2205.15013": {
+  "primary": "math.CO",
+  "published": "2022-05-30"
+ },
+ "2412.05068": {
+  "primary": "math.DG",
+  "published": "2024-12-06"
+ },
+ "2412.04316": {
+  "primary": "eess.SY",
+  "published": "2024-12-05"
+ },
+ "2412.08917": {
+  "primary": "math.AC",
+  "published": "2024-12-12"
+ },
+ "2412.10862": {
+  "primary": "math.GT",
+  "published": "2024-12-14"
+ },
+ "2412.03834": {
+  "primary": "math.CA",
+  "published": "2024-12-05"
+ },
+ "2412.06402": {
+  "primary": "math.CO",
+  "published": "2024-12-09"
+ },
+ "2412.06659": {
+  "primary": "math.AC",
+  "published": "2024-12-09"
+ },
+ "2412.08621": {
+  "primary": "math.AC",
+  "published": "2024-12-11"
+ },
+ "2412.05945": {
+  "primary": "math.AC",
+  "published": "2024-12-08"
+ },
+ "2412.08595": {
+  "primary": "math.NA",
+  "published": "2024-12-11"
+ },
+ "2412.04579": {
+  "primary": "math.PR",
+  "published": "2024-12-05"
+ },
+ "2412.03234": {
+  "primary": "math.RT",
+  "published": "2024-12-04"
+ },
+ "2205.15032": {
+  "primary": "math.CO",
+  "published": "2022-05-30"
+ },
+ "2205.15082": {
+  "primary": "math.PR",
+  "published": "2022-05-30"
+ },
+ "2205.14771": {
+  "primary": "math.SG",
+  "published": "2022-05-29"
+ },
+ "2206.14182": {
+  "primary": "cs.IT",
+  "published": "2022-06-28"
+ },
+ "2412.09904": {
+  "primary": "math.CO",
+  "published": "2024-12-13"
+ },
+ "2412.11999": {
+  "primary": "math.CO",
+  "published": "2024-12-16"
+ },
+ "2412.07561": {
+  "primary": "math.AP",
+  "published": "2024-12-10"
+ },
+ "2412.07396": {
+  "primary": "math.HO",
+  "published": "2024-12-10"
+ },
+ "2412.02902": {
+  "primary": "math.GM",
+  "published": "2024-12-03"
+ },
+ "2206.14088": {
+  "primary": "math.RT",
+  "published": "2022-06-28"
+ },
+ "2412.10837": {
+  "primary": "cs.LG",
+  "published": "2024-12-14"
+ },
+ "2412.05503": {
+  "primary": "math.PR",
+  "published": "2024-12-07"
+ },
+ "2412.09695": {
+  "primary": "cs.IT",
+  "published": "2024-12-12"
+ },
+ "2412.04962": {
+  "primary": "math.CO",
+  "published": "2024-12-06"
+ },
+ "2412.08075": {
+  "primary": "math.CO",
+  "published": "2024-12-11"
+ },
+ "2412.10880": {
+  "primary": "math.HO",
+  "published": "2024-12-14"
+ },
+ "2412.11473": {
+  "primary": "math.FA",
+  "published": "2024-12-16"
+ },
+ "2412.05588": {
+  "primary": "math.RA",
+  "published": "2024-12-07"
+ },
+ "2412.11933": {
+  "primary": "math.NT",
+  "published": "2024-12-16"
+ },
+ "2412.02123": {
+  "primary": "math.CA",
+  "published": "2024-12-03"
+ },
+ "2412.09885": {
+  "primary": "math.CO",
+  "published": "2024-12-13"
+ },
+ "2412.06635": {
+  "primary": "math.AG",
+  "published": "2024-12-09"
+ },
+ "2206.13625": {
+  "primary": "math.NT",
+  "published": "2022-06-27"
+ },
+ "2205.15418": {
+  "primary": "econ.TH",
+  "published": "2022-05-30"
+ },
+ "2205.14604": {
+  "primary": "math.NT",
+  "published": "2022-05-29"
+ },
+ "2412.11227": {
+  "primary": "math.MG",
+  "published": "2024-12-15"
+ },
+ "2412.11406": {
+  "primary": "math.AG",
+  "published": "2024-12-16"
+ },
+ "2412.07510": {
+  "primary": "math.CO",
+  "published": "2024-12-10"
+ },
+ "2412.06848": {
+  "primary": "stat.ME",
+  "published": "2024-12-08"
+ },
+ "2412.11415": {
+  "primary": "math.NT",
+  "published": "2024-12-16"
+ },
+ "2205.15024": {
+  "primary": "math.GR",
+  "published": "2022-05-25"
+ },
+ "2412.11163": {
+  "primary": "math.CO",
+  "published": "2024-12-15"
+ },
+ "2412.06705": {
+  "primary": "math.CO",
+  "published": "2024-12-09"
+ },
+ "2412.08727": {
+  "primary": "math.GT",
+  "published": "2024-12-11"
+ },
+ "2206.13662": {
+  "primary": "math.AG",
+  "published": "2022-06-27"
+ },
+ "2206.13592": {
+  "primary": "math.CO",
+  "published": "2022-06-27"
+ },
+ "2206.14564": {
+  "primary": "math.CO",
+  "published": "2022-06-29"
+ },
+ "2205.14555": {
+  "primary": "cs.IT",
+  "published": "2022-05-29"
+ },
+ "2205.14689": {
+  "primary": "math.NT",
+  "published": "2022-05-29"
+ },
+ "2206.13640": {
+  "primary": "math.GT",
+  "published": "2022-06-27"
+ },
+ "2412.03135": {
+  "primary": "math.SG",
+  "published": "2024-12-04"
+ },
+ "2412.09713": {
+  "primary": "math.DS",
+  "published": "2024-12-12"
+ },
+ "2412.04848": {
+  "primary": "cs.CR",
+  "published": "2024-12-06"
+ },
+ "2412.09515": {
+  "primary": "math.RA",
+  "published": "2024-12-12"
+ },
+ "2412.02681": {
+  "primary": "math-ph",
+  "published": "2024-12-03"
+ },
+ "2412.02494": {
+  "primary": "math.AT",
+  "published": "2024-12-03"
+ },
+ "2412.04161": {
+  "primary": "math.AP",
+  "published": "2024-12-05"
+ },
+ "2412.06123": {
+  "primary": "math.RA",
+  "published": "2024-12-09"
+ },
+ "2412.03383": {
+  "primary": "quant-ph",
+  "published": "2024-12-04"
+ },
+ "2412.10602": {
+  "primary": "math.RA",
+  "published": "2024-12-13"
+ },
+ "2412.03500": {
+  "primary": "math.NT",
+  "published": "2024-12-04"
+ },
+ "2412.07308": {
+  "primary": "math.NT",
+  "published": "2024-12-10"
+ },
+ "2412.11358": {
+  "primary": "math.CO",
+  "published": "2024-12-16"
+ },
+ "2412.05494": {
+  "primary": "math.GR",
+  "published": "2024-12-07"
+ },
+ "2412.06331": {
+  "primary": "math.CO",
+  "published": "2024-12-09"
+ },
+ "2412.04952": {
+  "primary": "math.NT",
+  "published": "2024-12-06"
+ },
+ "2206.13409": {
+  "primary": "math.CO",
+  "published": "2022-06-27"
+ },
+ "2412.09848": {
+  "primary": "math.AG",
+  "published": "2024-12-13"
+ },
+ "2412.15866": {
+  "primary": "math.CA",
+  "published": "2024-12-20"
+ },
+ "2412.14059": {
+  "primary": "math.CA",
+  "published": "2024-12-18"
+ },
+ "2412.18761": {
+  "primary": "math.PR",
+  "published": "2024-12-25"
+ },
+ "2412.19752": {
+  "primary": "math.PR",
+  "published": "2024-12-27"
+ },
+ "2412.19618": {
+  "primary": "math.CO",
+  "published": "2024-12-27"
+ },
+ "2412.17324": {
+  "primary": "math.RT",
+  "published": "2024-12-23"
+ },
+ "2412.14813": {
+  "primary": "math.AP",
+  "published": "2024-12-19"
+ },
+ "2412.20001": {
+  "primary": "math.CO",
+  "published": "2024-12-28"
+ },
+ "2412.13215": {
+  "primary": "math.AP",
+  "published": "2024-12-14"
+ },
+ "2412.18968": {
+  "primary": "math.AP",
+  "published": "2024-12-25"
+ },
+ "2412.18841": {
+  "primary": "math.AC",
+  "published": "2024-12-25"
+ },
+ "2412.20841": {
+  "primary": "math.DG",
+  "published": "2024-12-30"
+ },
+ "2412.13056": {
+  "primary": "math.GR",
+  "published": "2024-12-17"
+ },
+ "2412.21021": {
+  "primary": "math.CO",
+  "published": "2024-12-30"
+ },
+ "2412.14345": {
+  "primary": "math.GR",
+  "published": "2024-12-18"
+ },
+ "2412.13906": {
+  "primary": "math.CO",
+  "published": "2024-12-18"
+ },
+ "2501.01383": {
+  "primary": "math.CO",
+  "published": "2024-12-29"
+ },
+ "2412.18949": {
+  "primary": "math.MG",
+  "published": "2024-12-25"
+ },
+ "2412.20137": {
+  "primary": "math.DS",
+  "published": "2024-12-28"
+ },
+ "2412.19681": {
+  "primary": "math.RT",
+  "published": "2024-12-27"
+ },
+ "2412.19397": {
+  "primary": "math.AP",
+  "published": "2024-12-27"
+ },
+ "2412.16957": {
+  "primary": "math.AG",
+  "published": "2024-12-22"
+ },
+ "2412.16993": {
+  "primary": "math.AG",
+  "published": "2024-12-22"
+ },
+ "2412.13634": {
+  "primary": "math.HO",
+  "published": "2024-12-18"
+ },
+ "2412.14423": {
+  "primary": "stat.ME",
+  "published": "2024-12-19"
+ },
+ "2412.17157": {
+  "primary": "math.SG",
+  "published": "2024-12-22"
+ },
+ "2412.13118": {
+  "primary": "math.AP",
+  "published": "2024-12-17"
+ },
+ "2412.13754": {
+  "primary": "cs.LG",
+  "published": "2024-12-18"
+ },
+ "2412.19895": {
+  "primary": "math.SP",
+  "published": "2024-12-27"
+ },
+ "2412.19223": {
+  "primary": "math.RA",
+  "published": "2024-12-26"
+ },
+ "2412.17480": {
+  "primary": "math.GR",
+  "published": "2024-12-23"
+ },
+ "2412.20443": {
+  "primary": "math.NT",
+  "published": "2024-12-29"
+ },
+ "2412.20562": {
+  "primary": "math.CO",
+  "published": "2024-12-29"
+ },
+ "2412.15688": {
+  "primary": "math.CO",
+  "published": "2024-12-20"
+ },
+ "2412.13075": {
+  "primary": "math.NT",
+  "published": "2024-12-17"
+ },
+ "2412.13975": {
+  "primary": "math.PR",
+  "published": "2024-12-18"
+ },
+ "2412.16368": {
+  "primary": "math.CO",
+  "published": "2024-12-20"
+ },
+ "2412.17500": {
+  "primary": "math.CO",
+  "published": "2024-12-23"
+ },
+ "2412.18623": {
+  "primary": "math.CO",
+  "published": "2024-12-17"
+ },
+ "2412.13424": {
+  "primary": "math.AC",
+  "published": "2024-12-18"
+ },
+ "2412.12608": {
+  "primary": "math.NA",
+  "published": "2024-12-17"
+ },
+ "2412.12607": {
+  "primary": "math.OC",
+  "published": "2024-12-17"
+ },
+ "2412.14410": {
+  "primary": "math.GT",
+  "published": "2024-12-18"
+ },
+ "2412.16606": {
+  "primary": "math.CO",
+  "published": "2024-12-21"
+ },
+ "2412.16437": {
+  "primary": "math.PR",
+  "published": "2024-12-21"
+ },
+ "2412.15626": {
+  "primary": "math.PR",
+  "published": "2024-12-20"
+ },
+ "2412.17916": {
+  "primary": "stat.ML",
+  "published": "2024-12-23"
+ },
+ "2412.15767": {
+  "primary": "math.NT",
+  "published": "2024-12-20"
+ },
+ "2412.16314": {
+  "primary": "math.GT",
+  "published": "2024-12-20"
+ },
+ "2412.18425": {
+  "primary": "math.CO",
+  "published": "2024-12-24"
+ },
+ "2412.18809": {
+  "primary": "math.AP",
+  "published": "2024-12-25"
+ },
+ "2412.13583": {
+  "primary": "math-ph",
+  "published": "2024-12-18"
+ },
+ "2412.20775": {
+  "primary": "math.CO",
+  "published": "2024-12-30"
+ },
+ "2412.18692": {
+  "primary": "math.NT",
+  "published": "2024-12-24"
+ },
+ "2412.16193": {
+  "primary": "math.NT",
+  "published": "2024-12-16"
+ },
+ "2412.12070": {
+  "primary": "math.NT",
+  "published": "2024-12-16"
+ },
+ "2412.14389": {
+  "primary": "math.DG",
+  "published": "2024-12-18"
+ },
+ "2412.21012": {
+  "primary": "math.QA",
+  "published": "2024-12-30"
+ },
+ "2412.19095": {
+  "primary": "math.CO",
+  "published": "2024-12-26"
+ },
+ "2412.12921": {
+  "primary": "math.AT",
+  "published": "2024-12-17"
+ },
+ "2412.15366": {
+  "primary": "cs.IT",
+  "published": "2024-12-19"
+ },
+ "2412.12130": {
+  "primary": "math.NT",
+  "published": "2024-12-05"
+ },
+ "2412.13675": {
+  "primary": "math.GR",
+  "published": "2024-12-18"
+ },
+ "2412.15096": {
+  "primary": "math.AG",
+  "published": "2024-12-19"
+ },
+ "2412.17000": {
+  "primary": "math.RT",
+  "published": "2024-12-22"
+ },
+ "2501.00171": {
+  "primary": "math.NT",
+  "published": "2024-12-30"
+ },
+ "2412.16941": {
+  "primary": "math.CO",
+  "published": "2024-12-22"
+ },
+ "2412.12633": {
+  "primary": "math.CO",
+  "published": "2024-12-17"
+ },
+ "2412.14277": {
+  "primary": "math.NT",
+  "published": "2024-12-18"
+ },
+ "2412.13748": {
+  "primary": "cs.IT",
+  "published": "2024-12-18"
+ },
+ "2412.17930": {
+  "primary": "math.CO",
+  "published": "2024-12-23"
+ },
+ "2412.17233": {
+  "primary": "math.CO",
+  "published": "2024-12-23"
+ },
+ "2412.20700": {
+  "primary": "cs.DS",
+  "published": "2024-12-30"
+ },
+ "2412.20652": {
+  "primary": "math.GT",
+  "published": "2024-12-30"
+ },
+ "2412.19258": {
+  "primary": "math.CO",
+  "published": "2024-12-26"
+ },
+ "2412.20778": {
+  "primary": "math.AP",
+  "published": "2024-12-30"
+ },
+ "2412.13929": {
+  "primary": "math.OC",
+  "published": "2024-12-18"
+ },
+ "2412.18555": {
+  "primary": "math.AP",
+  "published": "2024-12-24"
+ },
+ "2412.16629": {
+  "primary": "math.NT",
+  "published": "2024-12-21"
+ },
+ "2412.19536": {
+  "primary": "math.CV",
+  "published": "2024-12-27"
+ }
+}

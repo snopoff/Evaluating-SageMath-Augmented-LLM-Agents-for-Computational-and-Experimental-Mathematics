@@ -1,0 +1,10 @@
+defaults:
+  - benchmark: default
+  - _self_
+
+mode: benchmark
+progress_logs: true
+
+benchmark:
+  config:
+    predictions_path: data/results/grok/tool/full.json

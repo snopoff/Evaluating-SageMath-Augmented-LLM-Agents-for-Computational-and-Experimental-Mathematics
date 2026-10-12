@@ -1,0 +1,23 @@
+defaults:
+  - model: google
+  - controller: default
+  - sage: default
+  - context7: default
+  - logger: console
+  - generate_predictions: default
+  - _self_
+  - tool_mode: tool
+
+model_name: gemini-3.1-pro-preview
+mode: generate_predictions
+progress_logs: true
+
+generate_predictions:
+  config:
+    dataset_path: data/processed/problems_to_run.json
+    start_with: 0
+    limit: -1
+
+controller:
+  config:
+    num_finalization_retries: 0

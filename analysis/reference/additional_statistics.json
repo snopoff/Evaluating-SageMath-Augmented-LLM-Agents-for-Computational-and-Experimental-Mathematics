@@ -1,0 +1,79 @@
+{
+  "summary": {
+    "models": 20,
+    "items": 133,
+    "mean_gain": 0.08157894736842106,
+    "mean_gain_item_bootstrap_ci": [
+      0.05827067669172932,
+      0.10676691729323308
+    ],
+    "mean_gain_model_bootstrap_ci": [
+      0.05714285714285713,
+      0.11090225563909777
+    ],
+    "mean_gain_crossed_bootstrap_ci": [
+      0.045112781954887216,
+      0.12330827067669173
+    ],
+    "item_bootstrap_samples": 200000,
+    "model_bootstrap_samples": 200000,
+    "crossed_bootstrap_samples": 100000,
+    "positive_models": 20,
+    "zero_gain_models": 0,
+    "model_sign_test_p_one_sided": 9.5367431640625e-07,
+    "model_sign_test_p_two_sided": 1.9073486328125e-06,
+    "model_intervals_excluding_zero": 10,
+    "per_model_mcnemar_p_below_0_05": 9,
+    "per_model_mcnemar_holm_below_0_05": 4,
+    "per_model_mcnemar_holm_significant_models": [
+      "Opus 4.7",
+      "Qwen 3.7 Max",
+      "MiniMax M3",
+      "DeepSeek V3.2"
+    ]
+  },
+  "top_group_pairwise": [
+    {
+      "first_model": "GPT-5.6 Sol",
+      "second_model": "GPT-5.5",
+      "n": 133,
+      "first_correct": 101,
+      "second_correct": 100,
+      "difference": 0.007518796992481203,
+      "difference_ci_lo": -0.05263157894736842,
+      "difference_ci_hi": 0.06766917293233082,
+      "first_only_correct": 9,
+      "second_only_correct": 8,
+      "mcnemar_p_two_sided": 1.0,
+      "mcnemar_p_holm_3": 1.0
+    },
+    {
+      "first_model": "GPT-5.6 Sol",
+      "second_model": "Opus 4.8",
+      "n": 133,
+      "first_correct": 101,
+      "second_correct": 98,
+      "difference": 0.022556390977443608,
+      "difference_ci_lo": -0.045112781954887216,
+      "difference_ci_hi": 0.09022556390977443,
+      "first_only_correct": 13,
+      "second_only_correct": 10,
+      "mcnemar_p_two_sided": 0.6776394844055176,
+      "mcnemar_p_holm_3": 1.0
+    },
+    {
+      "first_model": "GPT-5.5",
+      "second_model": "Opus 4.8",
+      "n": 133,
+      "first_correct": 100,
+      "second_correct": 98,
+      "difference": 0.015037593984962405,
+      "difference_ci_lo": -0.045112781954887216,
+      "difference_ci_hi": 0.07518796992481203,
+      "first_only_correct": 9,
+      "second_only_correct": 7,
+      "mcnemar_p_two_sided": 0.803619384765625,
+      "mcnemar_p_holm_3": 1.0
+    }
+  ]
+}

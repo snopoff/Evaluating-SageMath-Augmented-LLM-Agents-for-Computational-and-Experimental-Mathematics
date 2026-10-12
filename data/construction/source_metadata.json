@@ -1,0 +1,5699 @@
+[
+  {
+    "id": "realmathbenchmark-00001",
+    "index": 1,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.03791v1",
+    "arxiv_id": "2205.03791",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00002",
+    "index": 2,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2206.14250v1",
+    "arxiv_id": "2206.14250",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00003",
+    "index": 3,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.01013v3",
+    "arxiv_id": "2205.01013",
+    "arxiv_version": 3
+  },
+  {
+    "id": "realmathbenchmark-00004",
+    "index": 4,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.06122v1",
+    "arxiv_id": "2205.06122",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00005",
+    "index": 5,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.02902v1",
+    "arxiv_id": "2412.02902",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00006",
+    "index": 6,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.16993v1",
+    "arxiv_id": "2412.16993",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00007",
+    "index": 7,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.15688v1",
+    "arxiv_id": "2412.15688",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00008",
+    "index": 8,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.16629v1",
+    "arxiv_id": "2412.16629",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00009",
+    "index": 9,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.19095v1",
+    "arxiv_id": "2412.19095",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00010",
+    "index": 10,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.17324v1",
+    "arxiv_id": "2412.17324",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00011",
+    "index": 11,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2206.14783v1",
+    "arxiv_id": "2206.14783",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00012",
+    "index": 12,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.04195v1",
+    "arxiv_id": "2412.04195",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00013",
+    "index": 13,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.07189v1",
+    "arxiv_id": "2205.07189",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00014",
+    "index": 14,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.11621v1",
+    "arxiv_id": "2205.11621",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00015",
+    "index": 15,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.08884v1",
+    "arxiv_id": "2412.08884",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00016",
+    "index": 16,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.18555v1",
+    "arxiv_id": "2412.18555",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00017",
+    "index": 17,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.07010v1",
+    "arxiv_id": "2205.07010",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00018",
+    "index": 18,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.16368v1",
+    "arxiv_id": "2412.16368",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00019",
+    "index": 19,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2206.13877v2",
+    "arxiv_id": "2206.13877",
+    "arxiv_version": 2
+  },
+  {
+    "id": "realmathbenchmark-00020",
+    "index": 20,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.05500v2",
+    "arxiv_id": "2412.05500",
+    "arxiv_version": 2
+  },
+  {
+    "id": "realmathbenchmark-00021",
+    "index": 21,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.11933v2",
+    "arxiv_id": "2412.11933",
+    "arxiv_version": 2
+  },
+  {
+    "id": "realmathbenchmark-00022",
+    "index": 22,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2501.01383v2",
+    "arxiv_id": "2501.01383",
+    "arxiv_version": 2
+  },
+  {
+    "id": "realmathbenchmark-00023",
+    "index": 23,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.03260v3",
+    "arxiv_id": "2205.03260",
+    "arxiv_version": 3
+  },
+  {
+    "id": "realmathbenchmark-00024",
+    "index": 24,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.03135v1",
+    "arxiv_id": "2412.03135",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00025",
+    "index": 25,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.13995v3",
+    "arxiv_id": "2205.13995",
+    "arxiv_version": 3
+  },
+  {
+    "id": "realmathbenchmark-00026",
+    "index": 26,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.20562v1",
+    "arxiv_id": "2412.20562",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00027",
+    "index": 27,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.15369v1",
+    "arxiv_id": "2205.15369",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00028",
+    "index": 28,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.05945v3",
+    "arxiv_id": "2412.05945",
+    "arxiv_version": 3
+  },
+  {
+    "id": "realmathbenchmark-00029",
+    "index": 29,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.14255v2",
+    "arxiv_id": "2205.14255",
+    "arxiv_version": 2
+  },
+  {
+    "id": "realmathbenchmark-00030",
+    "index": 30,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.11697v1",
+    "arxiv_id": "2412.11697",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00031",
+    "index": 31,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.18555v1",
+    "arxiv_id": "2412.18555",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00032",
+    "index": 32,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.07054v1",
+    "arxiv_id": "2412.07054",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00033",
+    "index": 33,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.05494v1",
+    "arxiv_id": "2412.05494",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00034",
+    "index": 34,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.20562v1",
+    "arxiv_id": "2412.20562",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00035",
+    "index": 35,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.20652v1",
+    "arxiv_id": "2412.20652",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00036",
+    "index": 36,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.11999v2",
+    "arxiv_id": "2412.11999",
+    "arxiv_version": 2
+  },
+  {
+    "id": "realmathbenchmark-00037",
+    "index": 37,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.09657v1",
+    "arxiv_id": "2205.09657",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00038",
+    "index": 38,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.01320v1",
+    "arxiv_id": "2205.01320",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00039",
+    "index": 39,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2206.14843v1",
+    "arxiv_id": "2206.14843",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00040",
+    "index": 40,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.03260v3",
+    "arxiv_id": "2205.03260",
+    "arxiv_version": 3
+  },
+  {
+    "id": "realmathbenchmark-00041",
+    "index": 41,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.16993v1",
+    "arxiv_id": "2412.16993",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00042",
+    "index": 42,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.12633v2",
+    "arxiv_id": "2412.12633",
+    "arxiv_version": 2
+  },
+  {
+    "id": "realmathbenchmark-00043",
+    "index": 43,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.05274v1",
+    "arxiv_id": "2205.05274",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00044",
+    "index": 44,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.19536v1",
+    "arxiv_id": "2412.19536",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00045",
+    "index": 45,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.11358v1",
+    "arxiv_id": "2412.11358",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00046",
+    "index": 46,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.07010v1",
+    "arxiv_id": "2205.07010",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00047",
+    "index": 47,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.13381v1",
+    "arxiv_id": "2205.13381",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00048",
+    "index": 48,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.18555v1",
+    "arxiv_id": "2412.18555",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00049",
+    "index": 49,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.18425v1",
+    "arxiv_id": "2412.18425",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00050",
+    "index": 50,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.09686v1",
+    "arxiv_id": "2205.09686",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00051",
+    "index": 51,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.19752v1",
+    "arxiv_id": "2412.19752",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00052",
+    "index": 52,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.17916v1",
+    "arxiv_id": "2412.17916",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00053",
+    "index": 53,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.04195v1",
+    "arxiv_id": "2412.04195",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00054",
+    "index": 54,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.01734v1",
+    "arxiv_id": "2205.01734",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00055",
+    "index": 55,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.13592v1",
+    "arxiv_id": "2205.13592",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00056",
+    "index": 56,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.11933v2",
+    "arxiv_id": "2412.11933",
+    "arxiv_version": 2
+  },
+  {
+    "id": "realmathbenchmark-00057",
+    "index": 57,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.00866v2",
+    "arxiv_id": "2205.00866",
+    "arxiv_version": 2
+  },
+  {
+    "id": "realmathbenchmark-00058",
+    "index": 58,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.05494v1",
+    "arxiv_id": "2412.05494",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00059",
+    "index": 59,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.04019v1",
+    "arxiv_id": "2205.04019",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00060",
+    "index": 60,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.15688v1",
+    "arxiv_id": "2412.15688",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00061",
+    "index": 61,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2206.13877v2",
+    "arxiv_id": "2206.13877",
+    "arxiv_version": 2
+  },
+  {
+    "id": "realmathbenchmark-00062",
+    "index": 62,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.09033v3",
+    "arxiv_id": "2205.09033",
+    "arxiv_version": 3
+  },
+  {
+    "id": "realmathbenchmark-00063",
+    "index": 63,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.13198v1",
+    "arxiv_id": "2205.13198",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00064",
+    "index": 64,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.06956v1",
+    "arxiv_id": "2205.06956",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00065",
+    "index": 65,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.03791v1",
+    "arxiv_id": "2205.03791",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00066",
+    "index": 66,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.02902v1",
+    "arxiv_id": "2412.02902",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00067",
+    "index": 67,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.02902v1",
+    "arxiv_id": "2412.02902",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00068",
+    "index": 68,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.19095v1",
+    "arxiv_id": "2412.19095",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00069",
+    "index": 69,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.04811v2",
+    "arxiv_id": "2205.04811",
+    "arxiv_version": 2
+  },
+  {
+    "id": "realmathbenchmark-00070",
+    "index": 70,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.13309v1",
+    "arxiv_id": "2205.13309",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00071",
+    "index": 71,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.04316v1",
+    "arxiv_id": "2412.04316",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00072",
+    "index": 72,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.05274v1",
+    "arxiv_id": "2205.05274",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00073",
+    "index": 73,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.16957v4",
+    "arxiv_id": "2412.16957",
+    "arxiv_version": 4
+  },
+  {
+    "id": "realmathbenchmark-00074",
+    "index": 74,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.12774v2",
+    "arxiv_id": "2205.12774",
+    "arxiv_version": 2
+  },
+  {
+    "id": "realmathbenchmark-00075",
+    "index": 75,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.16993v1",
+    "arxiv_id": "2412.16993",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00076",
+    "index": 76,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.06223v1",
+    "arxiv_id": "2205.06223",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00077",
+    "index": 77,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.02620v1",
+    "arxiv_id": "2412.02620",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00078",
+    "index": 78,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.11933v2",
+    "arxiv_id": "2412.11933",
+    "arxiv_version": 2
+  },
+  {
+    "id": "realmathbenchmark-00079",
+    "index": 79,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.05494v1",
+    "arxiv_id": "2412.05494",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00080",
+    "index": 80,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.11415v4",
+    "arxiv_id": "2412.11415",
+    "arxiv_version": 4
+  },
+  {
+    "id": "realmathbenchmark-00081",
+    "index": 81,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.05503v1",
+    "arxiv_id": "2412.05503",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00082",
+    "index": 82,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.19895v1",
+    "arxiv_id": "2412.19895",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00083",
+    "index": 83,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.15688v1",
+    "arxiv_id": "2412.15688",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00084",
+    "index": 84,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.11999v2",
+    "arxiv_id": "2412.11999",
+    "arxiv_version": 2
+  },
+  {
+    "id": "realmathbenchmark-00085",
+    "index": 85,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2206.13409v3",
+    "arxiv_id": "2206.13409",
+    "arxiv_version": 3
+  },
+  {
+    "id": "realmathbenchmark-00086",
+    "index": 86,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.15688v1",
+    "arxiv_id": "2412.15688",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00087",
+    "index": 87,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.15418v1",
+    "arxiv_id": "2205.15418",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00088",
+    "index": 88,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.02494v2",
+    "arxiv_id": "2412.02494",
+    "arxiv_version": 2
+  },
+  {
+    "id": "realmathbenchmark-00089",
+    "index": 89,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.03791v1",
+    "arxiv_id": "2205.03791",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00090",
+    "index": 90,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.01894v1",
+    "arxiv_id": "2205.01894",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00091",
+    "index": 91,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.02902v1",
+    "arxiv_id": "2412.02902",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00092",
+    "index": 92,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.01894v1",
+    "arxiv_id": "2205.01894",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00093",
+    "index": 93,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.05713v4",
+    "arxiv_id": "2205.05713",
+    "arxiv_version": 4
+  },
+  {
+    "id": "realmathbenchmark-00094",
+    "index": 94,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.14604v1",
+    "arxiv_id": "2205.14604",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00095",
+    "index": 95,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.11933v2",
+    "arxiv_id": "2412.11933",
+    "arxiv_version": 2
+  },
+  {
+    "id": "realmathbenchmark-00096",
+    "index": 96,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.14771v3",
+    "arxiv_id": "2205.14771",
+    "arxiv_version": 3
+  },
+  {
+    "id": "realmathbenchmark-00097",
+    "index": 97,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.03260v3",
+    "arxiv_id": "2205.03260",
+    "arxiv_version": 3
+  },
+  {
+    "id": "realmathbenchmark-00098",
+    "index": 98,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.17000v1",
+    "arxiv_id": "2412.17000",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00099",
+    "index": 99,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.05945v3",
+    "arxiv_id": "2412.05945",
+    "arxiv_version": 3
+  },
+  {
+    "id": "realmathbenchmark-00100",
+    "index": 100,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.09885v1",
+    "arxiv_id": "2412.09885",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00101",
+    "index": 101,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.11508v1",
+    "arxiv_id": "2412.11508",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00102",
+    "index": 102,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.06123v1",
+    "arxiv_id": "2412.06123",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00103",
+    "index": 103,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.07189v1",
+    "arxiv_id": "2205.07189",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00104",
+    "index": 104,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.13215v3",
+    "arxiv_id": "2412.13215",
+    "arxiv_version": 3
+  },
+  {
+    "id": "realmathbenchmark-00105",
+    "index": 105,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.13381v1",
+    "arxiv_id": "2205.13381",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00106",
+    "index": 106,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.05743v1",
+    "arxiv_id": "2205.05743",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00107",
+    "index": 107,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.14043v1",
+    "arxiv_id": "2205.14043",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00108",
+    "index": 108,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.04161v1",
+    "arxiv_id": "2412.04161",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00109",
+    "index": 109,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.15767v1",
+    "arxiv_id": "2412.15767",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00110",
+    "index": 110,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.04962v1",
+    "arxiv_id": "2412.04962",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00111",
+    "index": 111,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.09686v1",
+    "arxiv_id": "2205.09686",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00112",
+    "index": 112,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.08466v2",
+    "arxiv_id": "2205.08466",
+    "arxiv_version": 2
+  },
+  {
+    "id": "realmathbenchmark-00113",
+    "index": 113,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.04380v2",
+    "arxiv_id": "2205.04380",
+    "arxiv_version": 2
+  },
+  {
+    "id": "realmathbenchmark-00114",
+    "index": 114,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.08964v2",
+    "arxiv_id": "2205.08964",
+    "arxiv_version": 2
+  },
+  {
+    "id": "realmathbenchmark-00115",
+    "index": 115,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.06848v1",
+    "arxiv_id": "2412.06848",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00116",
+    "index": 116,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2206.13877v2",
+    "arxiv_id": "2206.13877",
+    "arxiv_version": 2
+  },
+  {
+    "id": "realmathbenchmark-00117",
+    "index": 117,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.17480v1",
+    "arxiv_id": "2412.17480",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00118",
+    "index": 118,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2206.13640v3",
+    "arxiv_id": "2206.13640",
+    "arxiv_version": 3
+  },
+  {
+    "id": "realmathbenchmark-00119",
+    "index": 119,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.02681v1",
+    "arxiv_id": "2412.02681",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00120",
+    "index": 120,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.16193v1",
+    "arxiv_id": "2412.16193",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00121",
+    "index": 121,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.13581v2",
+    "arxiv_id": "2205.13581",
+    "arxiv_version": 2
+  },
+  {
+    "id": "realmathbenchmark-00122",
+    "index": 122,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.12070v1",
+    "arxiv_id": "2412.12070",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00123",
+    "index": 123,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.11933v2",
+    "arxiv_id": "2412.11933",
+    "arxiv_version": 2
+  },
+  {
+    "id": "realmathbenchmark-00124",
+    "index": 124,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.11933v2",
+    "arxiv_id": "2412.11933",
+    "arxiv_version": 2
+  },
+  {
+    "id": "realmathbenchmark-00125",
+    "index": 125,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.15688v1",
+    "arxiv_id": "2412.15688",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00126",
+    "index": 126,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.13748v1",
+    "arxiv_id": "2412.13748",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00127",
+    "index": 127,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.11933v2",
+    "arxiv_id": "2412.11933",
+    "arxiv_version": 2
+  },
+  {
+    "id": "realmathbenchmark-00128",
+    "index": 128,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.03260v3",
+    "arxiv_id": "2205.03260",
+    "arxiv_version": 3
+  },
+  {
+    "id": "realmathbenchmark-00129",
+    "index": 129,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.11621v1",
+    "arxiv_id": "2205.11621",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00130",
+    "index": 130,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.03928v1",
+    "arxiv_id": "2205.03928",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00131",
+    "index": 131,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.18809v1",
+    "arxiv_id": "2412.18809",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00132",
+    "index": 132,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.14277v1",
+    "arxiv_id": "2412.14277",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00133",
+    "index": 133,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.02067v1",
+    "arxiv_id": "2205.02067",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00134",
+    "index": 134,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.06331v1",
+    "arxiv_id": "2412.06331",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00135",
+    "index": 135,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.11933v2",
+    "arxiv_id": "2412.11933",
+    "arxiv_version": 2
+  },
+  {
+    "id": "realmathbenchmark-00136",
+    "index": 136,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.11933v2",
+    "arxiv_id": "2412.11933",
+    "arxiv_version": 2
+  },
+  {
+    "id": "realmathbenchmark-00137",
+    "index": 137,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.06848v1",
+    "arxiv_id": "2412.06848",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00138",
+    "index": 138,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.11406v1",
+    "arxiv_id": "2412.11406",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00139",
+    "index": 139,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.02634v1",
+    "arxiv_id": "2205.02634",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00140",
+    "index": 140,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.11933v2",
+    "arxiv_id": "2412.11933",
+    "arxiv_version": 2
+  },
+  {
+    "id": "realmathbenchmark-00141",
+    "index": 141,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.05588v2",
+    "arxiv_id": "2412.05588",
+    "arxiv_version": 2
+  },
+  {
+    "id": "realmathbenchmark-00142",
+    "index": 142,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.13118v1",
+    "arxiv_id": "2412.13118",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00143",
+    "index": 143,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.03500v2",
+    "arxiv_id": "2412.03500",
+    "arxiv_version": 2
+  },
+  {
+    "id": "realmathbenchmark-00144",
+    "index": 144,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.05274v1",
+    "arxiv_id": "2205.05274",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00145",
+    "index": 145,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.08075v2",
+    "arxiv_id": "2412.08075",
+    "arxiv_version": 2
+  },
+  {
+    "id": "realmathbenchmark-00146",
+    "index": 146,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.05274v1",
+    "arxiv_id": "2205.05274",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00147",
+    "index": 147,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.11225v1",
+    "arxiv_id": "2412.11225",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00148",
+    "index": 148,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.06123v1",
+    "arxiv_id": "2412.06123",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00149",
+    "index": 149,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.08453v3",
+    "arxiv_id": "2205.08453",
+    "arxiv_version": 3
+  },
+  {
+    "id": "realmathbenchmark-00150",
+    "index": 150,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.06331v1",
+    "arxiv_id": "2412.06331",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00151",
+    "index": 151,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.16314v1",
+    "arxiv_id": "2412.16314",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00152",
+    "index": 152,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.20001v2",
+    "arxiv_id": "2412.20001",
+    "arxiv_version": 2
+  },
+  {
+    "id": "realmathbenchmark-00153",
+    "index": 153,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.12130v1",
+    "arxiv_id": "2412.12130",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00154",
+    "index": 154,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.06659v1",
+    "arxiv_id": "2412.06659",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00155",
+    "index": 155,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.08400v1",
+    "arxiv_id": "2412.08400",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00156",
+    "index": 156,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.05394v1",
+    "arxiv_id": "2205.05394",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00157",
+    "index": 157,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.05724v1",
+    "arxiv_id": "2205.05724",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00158",
+    "index": 158,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.03260v3",
+    "arxiv_id": "2205.03260",
+    "arxiv_version": 3
+  },
+  {
+    "id": "realmathbenchmark-00159",
+    "index": 159,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.02578v2",
+    "arxiv_id": "2205.02578",
+    "arxiv_version": 2
+  },
+  {
+    "id": "realmathbenchmark-00160",
+    "index": 160,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.13381v1",
+    "arxiv_id": "2205.13381",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00161",
+    "index": 161,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.04811v2",
+    "arxiv_id": "2205.04811",
+    "arxiv_version": 2
+  },
+  {
+    "id": "realmathbenchmark-00162",
+    "index": 162,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.14255v2",
+    "arxiv_id": "2205.14255",
+    "arxiv_version": 2
+  },
+  {
+    "id": "realmathbenchmark-00163",
+    "index": 163,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2206.13877v2",
+    "arxiv_id": "2206.13877",
+    "arxiv_version": 2
+  },
+  {
+    "id": "realmathbenchmark-00164",
+    "index": 164,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.11364v1",
+    "arxiv_id": "2205.11364",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00165",
+    "index": 165,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.11933v2",
+    "arxiv_id": "2412.11933",
+    "arxiv_version": 2
+  },
+  {
+    "id": "realmathbenchmark-00166",
+    "index": 166,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.05724v1",
+    "arxiv_id": "2205.05724",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00167",
+    "index": 167,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.11999v2",
+    "arxiv_id": "2412.11999",
+    "arxiv_version": 2
+  },
+  {
+    "id": "realmathbenchmark-00168",
+    "index": 168,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.15369v1",
+    "arxiv_id": "2205.15369",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00169",
+    "index": 169,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.00866v2",
+    "arxiv_id": "2205.00866",
+    "arxiv_version": 2
+  },
+  {
+    "id": "realmathbenchmark-00170",
+    "index": 170,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.11933v2",
+    "arxiv_id": "2412.11933",
+    "arxiv_version": 2
+  },
+  {
+    "id": "realmathbenchmark-00171",
+    "index": 171,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.11227v2",
+    "arxiv_id": "2412.11227",
+    "arxiv_version": 2
+  },
+  {
+    "id": "realmathbenchmark-00172",
+    "index": 172,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.03191v7",
+    "arxiv_id": "2205.03191",
+    "arxiv_version": 7
+  },
+  {
+    "id": "realmathbenchmark-00173",
+    "index": 173,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2501.00171v1",
+    "arxiv_id": "2501.00171",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00174",
+    "index": 174,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.04916v1",
+    "arxiv_id": "2205.04916",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00175",
+    "index": 175,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2206.14088v2",
+    "arxiv_id": "2206.14088",
+    "arxiv_version": 2
+  },
+  {
+    "id": "realmathbenchmark-00176",
+    "index": 176,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.08727v1",
+    "arxiv_id": "2412.08727",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00177",
+    "index": 177,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.14423v2",
+    "arxiv_id": "2412.14423",
+    "arxiv_version": 2
+  },
+  {
+    "id": "realmathbenchmark-00178",
+    "index": 178,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.11999v2",
+    "arxiv_id": "2412.11999",
+    "arxiv_version": 2
+  },
+  {
+    "id": "realmathbenchmark-00179",
+    "index": 179,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.07998v1",
+    "arxiv_id": "2205.07998",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00180",
+    "index": 180,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.14689v1",
+    "arxiv_id": "2205.14689",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00181",
+    "index": 181,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.11933v2",
+    "arxiv_id": "2412.11933",
+    "arxiv_version": 2
+  },
+  {
+    "id": "realmathbenchmark-00182",
+    "index": 182,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.13180v3",
+    "arxiv_id": "2205.13180",
+    "arxiv_version": 3
+  },
+  {
+    "id": "realmathbenchmark-00183",
+    "index": 183,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.01894v1",
+    "arxiv_id": "2205.01894",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00184",
+    "index": 184,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.07346v2",
+    "arxiv_id": "2205.07346",
+    "arxiv_version": 2
+  },
+  {
+    "id": "realmathbenchmark-00185",
+    "index": 185,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.03397v2",
+    "arxiv_id": "2205.03397",
+    "arxiv_version": 2
+  },
+  {
+    "id": "realmathbenchmark-00186",
+    "index": 186,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.14924v2",
+    "arxiv_id": "2205.14924",
+    "arxiv_version": 2
+  },
+  {
+    "id": "realmathbenchmark-00187",
+    "index": 187,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.04195v1",
+    "arxiv_id": "2412.04195",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00188",
+    "index": 188,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.07510v1",
+    "arxiv_id": "2412.07510",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00189",
+    "index": 189,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.18623v2",
+    "arxiv_id": "2412.18623",
+    "arxiv_version": 2
+  },
+  {
+    "id": "realmathbenchmark-00190",
+    "index": 190,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.03451v2",
+    "arxiv_id": "2205.03451",
+    "arxiv_version": 2
+  },
+  {
+    "id": "realmathbenchmark-00191",
+    "index": 191,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2206.14653v1",
+    "arxiv_id": "2206.14653",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00192",
+    "index": 192,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2206.14174v1",
+    "arxiv_id": "2206.14174",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00193",
+    "index": 193,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.08621v2",
+    "arxiv_id": "2412.08621",
+    "arxiv_version": 2
+  },
+  {
+    "id": "realmathbenchmark-00194",
+    "index": 194,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.11697v1",
+    "arxiv_id": "2412.11697",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00195",
+    "index": 195,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.11933v2",
+    "arxiv_id": "2412.11933",
+    "arxiv_version": 2
+  },
+  {
+    "id": "realmathbenchmark-00196",
+    "index": 196,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.04579v1",
+    "arxiv_id": "2412.04579",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00197",
+    "index": 197,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.11933v2",
+    "arxiv_id": "2412.11933",
+    "arxiv_version": 2
+  },
+  {
+    "id": "realmathbenchmark-00198",
+    "index": 198,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.18761v1",
+    "arxiv_id": "2412.18761",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00199",
+    "index": 199,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.02494v2",
+    "arxiv_id": "2412.02494",
+    "arxiv_version": 2
+  },
+  {
+    "id": "realmathbenchmark-00200",
+    "index": 200,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.00438v1",
+    "arxiv_id": "2205.00438",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00201",
+    "index": 201,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.04161v1",
+    "arxiv_id": "2412.04161",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00202",
+    "index": 202,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.06122v1",
+    "arxiv_id": "2205.06122",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00203",
+    "index": 203,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.11225v1",
+    "arxiv_id": "2412.11225",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00204",
+    "index": 204,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.14813v2",
+    "arxiv_id": "2412.14813",
+    "arxiv_version": 2
+  },
+  {
+    "id": "realmathbenchmark-00205",
+    "index": 205,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.16629v1",
+    "arxiv_id": "2412.16629",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00206",
+    "index": 206,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.19895v1",
+    "arxiv_id": "2412.19895",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00207",
+    "index": 207,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.07317v2",
+    "arxiv_id": "2205.07317",
+    "arxiv_version": 2
+  },
+  {
+    "id": "realmathbenchmark-00208",
+    "index": 208,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.18425v1",
+    "arxiv_id": "2412.18425",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00209",
+    "index": 209,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.02902v1",
+    "arxiv_id": "2412.02902",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00210",
+    "index": 210,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.03260v3",
+    "arxiv_id": "2205.03260",
+    "arxiv_version": 3
+  },
+  {
+    "id": "realmathbenchmark-00211",
+    "index": 211,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.11999v2",
+    "arxiv_id": "2412.11999",
+    "arxiv_version": 2
+  },
+  {
+    "id": "realmathbenchmark-00212",
+    "index": 212,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.02494v2",
+    "arxiv_id": "2412.02494",
+    "arxiv_version": 2
+  },
+  {
+    "id": "realmathbenchmark-00213",
+    "index": 213,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.03234v3",
+    "arxiv_id": "2412.03234",
+    "arxiv_version": 3
+  },
+  {
+    "id": "realmathbenchmark-00214",
+    "index": 214,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.18949v1",
+    "arxiv_id": "2412.18949",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00215",
+    "index": 215,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.20775v6",
+    "arxiv_id": "2412.20775",
+    "arxiv_version": 6
+  },
+  {
+    "id": "realmathbenchmark-00216",
+    "index": 216,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.16368v1",
+    "arxiv_id": "2412.16368",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00217",
+    "index": 217,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2206.13592v3",
+    "arxiv_id": "2206.13592",
+    "arxiv_version": 3
+  },
+  {
+    "id": "realmathbenchmark-00218",
+    "index": 218,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.07998v1",
+    "arxiv_id": "2205.07998",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00219",
+    "index": 219,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.19223v1",
+    "arxiv_id": "2412.19223",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00220",
+    "index": 220,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.01894v1",
+    "arxiv_id": "2205.01894",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00221",
+    "index": 221,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.13592v1",
+    "arxiv_id": "2205.13592",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00222",
+    "index": 222,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.08802v3",
+    "arxiv_id": "2205.08802",
+    "arxiv_version": 3
+  },
+  {
+    "id": "realmathbenchmark-00223",
+    "index": 223,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.11358v1",
+    "arxiv_id": "2412.11358",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00224",
+    "index": 224,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.04579v1",
+    "arxiv_id": "2412.04579",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00225",
+    "index": 225,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.13198v1",
+    "arxiv_id": "2205.13198",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00226",
+    "index": 226,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.02123v3",
+    "arxiv_id": "2412.02123",
+    "arxiv_version": 3
+  },
+  {
+    "id": "realmathbenchmark-00227",
+    "index": 227,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.19752v1",
+    "arxiv_id": "2412.19752",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00228",
+    "index": 228,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.19618v1",
+    "arxiv_id": "2412.19618",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00229",
+    "index": 229,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.14604v1",
+    "arxiv_id": "2205.14604",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00230",
+    "index": 230,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.13581v2",
+    "arxiv_id": "2205.13581",
+    "arxiv_version": 2
+  },
+  {
+    "id": "realmathbenchmark-00231",
+    "index": 231,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.11415v4",
+    "arxiv_id": "2412.11415",
+    "arxiv_version": 4
+  },
+  {
+    "id": "realmathbenchmark-00232",
+    "index": 232,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.11933v2",
+    "arxiv_id": "2412.11933",
+    "arxiv_version": 2
+  },
+  {
+    "id": "realmathbenchmark-00233",
+    "index": 233,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.20775v6",
+    "arxiv_id": "2412.20775",
+    "arxiv_version": 6
+  },
+  {
+    "id": "realmathbenchmark-00234",
+    "index": 234,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.13078v1",
+    "arxiv_id": "2205.13078",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00235",
+    "index": 235,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.18949v1",
+    "arxiv_id": "2412.18949",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00236",
+    "index": 236,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.19752v1",
+    "arxiv_id": "2412.19752",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00237",
+    "index": 237,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.03260v3",
+    "arxiv_id": "2205.03260",
+    "arxiv_version": 3
+  },
+  {
+    "id": "realmathbenchmark-00238",
+    "index": 238,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.15626v1",
+    "arxiv_id": "2412.15626",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00239",
+    "index": 239,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.09657v1",
+    "arxiv_id": "2205.09657",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00240",
+    "index": 240,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.13180v3",
+    "arxiv_id": "2205.13180",
+    "arxiv_version": 3
+  },
+  {
+    "id": "realmathbenchmark-00241",
+    "index": 241,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.19095v1",
+    "arxiv_id": "2412.19095",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00242",
+    "index": 242,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.21012v1",
+    "arxiv_id": "2412.21012",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00243",
+    "index": 243,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.08595v1",
+    "arxiv_id": "2412.08595",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00244",
+    "index": 244,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.13075v1",
+    "arxiv_id": "2412.13075",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00245",
+    "index": 245,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.07599v10",
+    "arxiv_id": "2205.07599",
+    "arxiv_version": 10
+  },
+  {
+    "id": "realmathbenchmark-00246",
+    "index": 246,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2206.13877v2",
+    "arxiv_id": "2206.13877",
+    "arxiv_version": 2
+  },
+  {
+    "id": "realmathbenchmark-00247",
+    "index": 247,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.16193v1",
+    "arxiv_id": "2412.16193",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00248",
+    "index": 248,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.11933v2",
+    "arxiv_id": "2412.11933",
+    "arxiv_version": 2
+  },
+  {
+    "id": "realmathbenchmark-00249",
+    "index": 249,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.00799v1",
+    "arxiv_id": "2205.00799",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00250",
+    "index": 250,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.04740v1",
+    "arxiv_id": "2412.04740",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00251",
+    "index": 251,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.04456v1",
+    "arxiv_id": "2205.04456",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00252",
+    "index": 252,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.13583v1",
+    "arxiv_id": "2412.13583",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00253",
+    "index": 253,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.16606v1",
+    "arxiv_id": "2412.16606",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00254",
+    "index": 254,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.13198v1",
+    "arxiv_id": "2205.13198",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00255",
+    "index": 255,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.19752v1",
+    "arxiv_id": "2412.19752",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00256",
+    "index": 256,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2206.13662v3",
+    "arxiv_id": "2206.13662",
+    "arxiv_version": 3
+  },
+  {
+    "id": "realmathbenchmark-00257",
+    "index": 257,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.06223v1",
+    "arxiv_id": "2205.06223",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00258",
+    "index": 258,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.05274v1",
+    "arxiv_id": "2205.05274",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00259",
+    "index": 259,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.04767v3",
+    "arxiv_id": "2205.04767",
+    "arxiv_version": 3
+  },
+  {
+    "id": "realmathbenchmark-00260",
+    "index": 260,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.16629v1",
+    "arxiv_id": "2412.16629",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00261",
+    "index": 261,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.17233v1",
+    "arxiv_id": "2412.17233",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00262",
+    "index": 262,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.07961v1",
+    "arxiv_id": "2205.07961",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00263",
+    "index": 263,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.13424v1",
+    "arxiv_id": "2412.13424",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00264",
+    "index": 264,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.07346v2",
+    "arxiv_id": "2205.07346",
+    "arxiv_version": 2
+  },
+  {
+    "id": "realmathbenchmark-00265",
+    "index": 265,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.11473v1",
+    "arxiv_id": "2412.11473",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00266",
+    "index": 266,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.11120v1",
+    "arxiv_id": "2205.11120",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00267",
+    "index": 267,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.04952v1",
+    "arxiv_id": "2412.04952",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00268",
+    "index": 268,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.11768v3",
+    "arxiv_id": "2205.11768",
+    "arxiv_version": 3
+  },
+  {
+    "id": "realmathbenchmark-00269",
+    "index": 269,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.00527v2",
+    "arxiv_id": "2205.00527",
+    "arxiv_version": 2
+  },
+  {
+    "id": "realmathbenchmark-00270",
+    "index": 270,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.03834v2",
+    "arxiv_id": "2412.03834",
+    "arxiv_version": 2
+  },
+  {
+    "id": "realmathbenchmark-00271",
+    "index": 271,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.11933v2",
+    "arxiv_id": "2412.11933",
+    "arxiv_version": 2
+  },
+  {
+    "id": "realmathbenchmark-00272",
+    "index": 272,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.00866v2",
+    "arxiv_id": "2205.00866",
+    "arxiv_version": 2
+  },
+  {
+    "id": "realmathbenchmark-00273",
+    "index": 273,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.04380v2",
+    "arxiv_id": "2205.04380",
+    "arxiv_version": 2
+  },
+  {
+    "id": "realmathbenchmark-00274",
+    "index": 274,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.13180v3",
+    "arxiv_id": "2205.13180",
+    "arxiv_version": 3
+  },
+  {
+    "id": "realmathbenchmark-00275",
+    "index": 275,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.19095v1",
+    "arxiv_id": "2412.19095",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00276",
+    "index": 276,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.05247v1",
+    "arxiv_id": "2205.05247",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00277",
+    "index": 277,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.00647v2",
+    "arxiv_id": "2205.00647",
+    "arxiv_version": 2
+  },
+  {
+    "id": "realmathbenchmark-00278",
+    "index": 278,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.09904v2",
+    "arxiv_id": "2412.09904",
+    "arxiv_version": 2
+  },
+  {
+    "id": "realmathbenchmark-00279",
+    "index": 279,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.07111v2",
+    "arxiv_id": "2205.07111",
+    "arxiv_version": 2
+  },
+  {
+    "id": "realmathbenchmark-00280",
+    "index": 280,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.11933v2",
+    "arxiv_id": "2412.11933",
+    "arxiv_version": 2
+  },
+  {
+    "id": "realmathbenchmark-00281",
+    "index": 281,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.17233v1",
+    "arxiv_id": "2412.17233",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00282",
+    "index": 282,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.14423v2",
+    "arxiv_id": "2412.14423",
+    "arxiv_version": 2
+  },
+  {
+    "id": "realmathbenchmark-00283",
+    "index": 283,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2206.13625v1",
+    "arxiv_id": "2206.13625",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00284",
+    "index": 284,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.07710v2",
+    "arxiv_id": "2205.07710",
+    "arxiv_version": 2
+  },
+  {
+    "id": "realmathbenchmark-00285",
+    "index": 285,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.11933v2",
+    "arxiv_id": "2412.11933",
+    "arxiv_version": 2
+  },
+  {
+    "id": "realmathbenchmark-00286",
+    "index": 286,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.18761v1",
+    "arxiv_id": "2412.18761",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00287",
+    "index": 287,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.03791v1",
+    "arxiv_id": "2205.03791",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00288",
+    "index": 288,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.05945v3",
+    "arxiv_id": "2412.05945",
+    "arxiv_version": 3
+  },
+  {
+    "id": "realmathbenchmark-00289",
+    "index": 289,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.11528v1",
+    "arxiv_id": "2412.11528",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00290",
+    "index": 290,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.14345v1",
+    "arxiv_id": "2412.14345",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00291",
+    "index": 291,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.03791v1",
+    "arxiv_id": "2205.03791",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00292",
+    "index": 292,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.05229v2",
+    "arxiv_id": "2205.05229",
+    "arxiv_version": 2
+  },
+  {
+    "id": "realmathbenchmark-00293",
+    "index": 293,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.06402v2",
+    "arxiv_id": "2412.06402",
+    "arxiv_version": 2
+  },
+  {
+    "id": "realmathbenchmark-00294",
+    "index": 294,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.18949v1",
+    "arxiv_id": "2412.18949",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00295",
+    "index": 295,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.12838v10",
+    "arxiv_id": "2205.12838",
+    "arxiv_version": 10
+  },
+  {
+    "id": "realmathbenchmark-00296",
+    "index": 296,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.13318v1",
+    "arxiv_id": "2205.13318",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00297",
+    "index": 297,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.07998v1",
+    "arxiv_id": "2205.07998",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00298",
+    "index": 298,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.03791v1",
+    "arxiv_id": "2205.03791",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00299",
+    "index": 299,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.21021v1",
+    "arxiv_id": "2412.21021",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00300",
+    "index": 300,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.08453v3",
+    "arxiv_id": "2205.08453",
+    "arxiv_version": 3
+  },
+  {
+    "id": "realmathbenchmark-00301",
+    "index": 301,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.11646v1",
+    "arxiv_id": "2412.11646",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00302",
+    "index": 302,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.00438v1",
+    "arxiv_id": "2205.00438",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00303",
+    "index": 303,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.11163v1",
+    "arxiv_id": "2412.11163",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00304",
+    "index": 304,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.11473v1",
+    "arxiv_id": "2412.11473",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00305",
+    "index": 305,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.15096v2",
+    "arxiv_id": "2412.15096",
+    "arxiv_version": 2
+  },
+  {
+    "id": "realmathbenchmark-00306",
+    "index": 306,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.09222v2",
+    "arxiv_id": "2205.09222",
+    "arxiv_version": 2
+  },
+  {
+    "id": "realmathbenchmark-00307",
+    "index": 307,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.19752v1",
+    "arxiv_id": "2412.19752",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00308",
+    "index": 308,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.13381v1",
+    "arxiv_id": "2205.13381",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00309",
+    "index": 309,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.05588v2",
+    "arxiv_id": "2412.05588",
+    "arxiv_version": 2
+  },
+  {
+    "id": "realmathbenchmark-00310",
+    "index": 310,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.04660v2",
+    "arxiv_id": "2205.04660",
+    "arxiv_version": 2
+  },
+  {
+    "id": "realmathbenchmark-00311",
+    "index": 311,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.06705v3",
+    "arxiv_id": "2412.06705",
+    "arxiv_version": 3
+  },
+  {
+    "id": "realmathbenchmark-00312",
+    "index": 312,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.18623v2",
+    "arxiv_id": "2412.18623",
+    "arxiv_version": 2
+  },
+  {
+    "id": "realmathbenchmark-00313",
+    "index": 313,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2206.13877v2",
+    "arxiv_id": "2206.13877",
+    "arxiv_version": 2
+  },
+  {
+    "id": "realmathbenchmark-00314",
+    "index": 314,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.13823v7",
+    "arxiv_id": "2205.13823",
+    "arxiv_version": 7
+  },
+  {
+    "id": "realmathbenchmark-00315",
+    "index": 315,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.06848v1",
+    "arxiv_id": "2412.06848",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00316",
+    "index": 316,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.13929v2",
+    "arxiv_id": "2412.13929",
+    "arxiv_version": 2
+  },
+  {
+    "id": "realmathbenchmark-00317",
+    "index": 317,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.20778v2",
+    "arxiv_id": "2412.20778",
+    "arxiv_version": 2
+  },
+  {
+    "id": "realmathbenchmark-00318",
+    "index": 318,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.15626v1",
+    "arxiv_id": "2412.15626",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00319",
+    "index": 319,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.13381v1",
+    "arxiv_id": "2205.13381",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00320",
+    "index": 320,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.11163v1",
+    "arxiv_id": "2412.11163",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00321",
+    "index": 321,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.20841v1",
+    "arxiv_id": "2412.20841",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00322",
+    "index": 322,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.13180v3",
+    "arxiv_id": "2205.13180",
+    "arxiv_version": 3
+  },
+  {
+    "id": "realmathbenchmark-00323",
+    "index": 323,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.12786v3",
+    "arxiv_id": "2205.12786",
+    "arxiv_version": 3
+  },
+  {
+    "id": "realmathbenchmark-00324",
+    "index": 324,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.05210v5",
+    "arxiv_id": "2205.05210",
+    "arxiv_version": 5
+  },
+  {
+    "id": "realmathbenchmark-00325",
+    "index": 325,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.01894v1",
+    "arxiv_id": "2205.01894",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00326",
+    "index": 326,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.00527v2",
+    "arxiv_id": "2205.00527",
+    "arxiv_version": 2
+  },
+  {
+    "id": "realmathbenchmark-00327",
+    "index": 327,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.11933v2",
+    "arxiv_id": "2412.11933",
+    "arxiv_version": 2
+  },
+  {
+    "id": "realmathbenchmark-00328",
+    "index": 328,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.09713v1",
+    "arxiv_id": "2412.09713",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00329",
+    "index": 329,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.13754v1",
+    "arxiv_id": "2412.13754",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00330",
+    "index": 330,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.07483v1",
+    "arxiv_id": "2412.07483",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00331",
+    "index": 331,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.11933v2",
+    "arxiv_id": "2412.11933",
+    "arxiv_version": 2
+  },
+  {
+    "id": "realmathbenchmark-00332",
+    "index": 332,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.11933v2",
+    "arxiv_id": "2412.11933",
+    "arxiv_version": 2
+  },
+  {
+    "id": "realmathbenchmark-00333",
+    "index": 333,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.18425v1",
+    "arxiv_id": "2412.18425",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00334",
+    "index": 334,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.14771v3",
+    "arxiv_id": "2205.14771",
+    "arxiv_version": 3
+  },
+  {
+    "id": "realmathbenchmark-00335",
+    "index": 335,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.16993v1",
+    "arxiv_id": "2412.16993",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00336",
+    "index": 336,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.01146v3",
+    "arxiv_id": "2205.01146",
+    "arxiv_version": 3
+  },
+  {
+    "id": "realmathbenchmark-00337",
+    "index": 337,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.03260v3",
+    "arxiv_id": "2205.03260",
+    "arxiv_version": 3
+  },
+  {
+    "id": "realmathbenchmark-00338",
+    "index": 338,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.07189v1",
+    "arxiv_id": "2205.07189",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00339",
+    "index": 339,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.03260v3",
+    "arxiv_id": "2205.03260",
+    "arxiv_version": 3
+  },
+  {
+    "id": "realmathbenchmark-00340",
+    "index": 340,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.03791v1",
+    "arxiv_id": "2205.03791",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00341",
+    "index": 341,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.04880v1",
+    "arxiv_id": "2205.04880",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00342",
+    "index": 342,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.08727v1",
+    "arxiv_id": "2412.08727",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00343",
+    "index": 343,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.11999v2",
+    "arxiv_id": "2412.11999",
+    "arxiv_version": 2
+  },
+  {
+    "id": "realmathbenchmark-00344",
+    "index": 344,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.20443v4",
+    "arxiv_id": "2412.20443",
+    "arxiv_version": 4
+  },
+  {
+    "id": "realmathbenchmark-00345",
+    "index": 345,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.11933v2",
+    "arxiv_id": "2412.11933",
+    "arxiv_version": 2
+  },
+  {
+    "id": "realmathbenchmark-00346",
+    "index": 346,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.14059v1",
+    "arxiv_id": "2412.14059",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00347",
+    "index": 347,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.08032v1",
+    "arxiv_id": "2205.08032",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00348",
+    "index": 348,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.06123v1",
+    "arxiv_id": "2412.06123",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00349",
+    "index": 349,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.21012v1",
+    "arxiv_id": "2412.21012",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00350",
+    "index": 350,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.14555v1",
+    "arxiv_id": "2205.14555",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00351",
+    "index": 351,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.03965v1",
+    "arxiv_id": "2205.03965",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00352",
+    "index": 352,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.19095v1",
+    "arxiv_id": "2412.19095",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00353",
+    "index": 353,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.05247v1",
+    "arxiv_id": "2205.05247",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00354",
+    "index": 354,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.07189v1",
+    "arxiv_id": "2205.07189",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00355",
+    "index": 355,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.11933v2",
+    "arxiv_id": "2412.11933",
+    "arxiv_version": 2
+  },
+  {
+    "id": "realmathbenchmark-00356",
+    "index": 356,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.18623v2",
+    "arxiv_id": "2412.18623",
+    "arxiv_version": 2
+  },
+  {
+    "id": "realmathbenchmark-00357",
+    "index": 357,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.18841v1",
+    "arxiv_id": "2412.18841",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00358",
+    "index": 358,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.11999v2",
+    "arxiv_id": "2412.11999",
+    "arxiv_version": 2
+  },
+  {
+    "id": "realmathbenchmark-00359",
+    "index": 359,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.06122v1",
+    "arxiv_id": "2205.06122",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00360",
+    "index": 360,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.14255v2",
+    "arxiv_id": "2205.14255",
+    "arxiv_version": 2
+  },
+  {
+    "id": "realmathbenchmark-00361",
+    "index": 361,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.01894v1",
+    "arxiv_id": "2205.01894",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00362",
+    "index": 362,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.03928v1",
+    "arxiv_id": "2205.03928",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00363",
+    "index": 363,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.20137v1",
+    "arxiv_id": "2412.20137",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00364",
+    "index": 364,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.19618v1",
+    "arxiv_id": "2412.19618",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00365",
+    "index": 365,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.18425v1",
+    "arxiv_id": "2412.18425",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00366",
+    "index": 366,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2206.14174v1",
+    "arxiv_id": "2206.14174",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00367",
+    "index": 367,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.07492v2",
+    "arxiv_id": "2205.07492",
+    "arxiv_version": 2
+  },
+  {
+    "id": "realmathbenchmark-00368",
+    "index": 368,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.07025v1",
+    "arxiv_id": "2205.07025",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00369",
+    "index": 369,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.15189v1",
+    "arxiv_id": "2205.15189",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00370",
+    "index": 370,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.11933v2",
+    "arxiv_id": "2412.11933",
+    "arxiv_version": 2
+  },
+  {
+    "id": "realmathbenchmark-00371",
+    "index": 371,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.13056v1",
+    "arxiv_id": "2412.13056",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00372",
+    "index": 372,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.03791v1",
+    "arxiv_id": "2205.03791",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00373",
+    "index": 373,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.07346v2",
+    "arxiv_id": "2205.07346",
+    "arxiv_version": 2
+  },
+  {
+    "id": "realmathbenchmark-00374",
+    "index": 374,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.13592v1",
+    "arxiv_id": "2205.13592",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00375",
+    "index": 375,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.05118v2",
+    "arxiv_id": "2205.05118",
+    "arxiv_version": 2
+  },
+  {
+    "id": "realmathbenchmark-00376",
+    "index": 376,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.19618v1",
+    "arxiv_id": "2412.19618",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00377",
+    "index": 377,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.13381v1",
+    "arxiv_id": "2205.13381",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00378",
+    "index": 378,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.03752v3",
+    "arxiv_id": "2205.03752",
+    "arxiv_version": 3
+  },
+  {
+    "id": "realmathbenchmark-00379",
+    "index": 379,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.18949v1",
+    "arxiv_id": "2412.18949",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00380",
+    "index": 380,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.07346v2",
+    "arxiv_id": "2205.07346",
+    "arxiv_version": 2
+  },
+  {
+    "id": "realmathbenchmark-00381",
+    "index": 381,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.18623v2",
+    "arxiv_id": "2412.18623",
+    "arxiv_version": 2
+  },
+  {
+    "id": "realmathbenchmark-00382",
+    "index": 382,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.16368v1",
+    "arxiv_id": "2412.16368",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00383",
+    "index": 383,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2206.14950v3",
+    "arxiv_id": "2206.14950",
+    "arxiv_version": 3
+  },
+  {
+    "id": "realmathbenchmark-00384",
+    "index": 384,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.04848v2",
+    "arxiv_id": "2412.04848",
+    "arxiv_version": 2
+  },
+  {
+    "id": "realmathbenchmark-00385",
+    "index": 385,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.12070v1",
+    "arxiv_id": "2412.12070",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00386",
+    "index": 386,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.05118v2",
+    "arxiv_id": "2205.05118",
+    "arxiv_version": 2
+  },
+  {
+    "id": "realmathbenchmark-00387",
+    "index": 387,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.05274v1",
+    "arxiv_id": "2205.05274",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00388",
+    "index": 388,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.04579v1",
+    "arxiv_id": "2412.04579",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00389",
+    "index": 389,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.08917v1",
+    "arxiv_id": "2412.08917",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00390",
+    "index": 390,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.11225v1",
+    "arxiv_id": "2412.11225",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00391",
+    "index": 391,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2206.13409v3",
+    "arxiv_id": "2206.13409",
+    "arxiv_version": 3
+  },
+  {
+    "id": "realmathbenchmark-00392",
+    "index": 392,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.04574v2",
+    "arxiv_id": "2205.04574",
+    "arxiv_version": 2
+  },
+  {
+    "id": "realmathbenchmark-00393",
+    "index": 393,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.09515v1",
+    "arxiv_id": "2412.09515",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00394",
+    "index": 394,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.00596v1",
+    "arxiv_id": "2205.00596",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00395",
+    "index": 395,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.11528v1",
+    "arxiv_id": "2412.11528",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00396",
+    "index": 396,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.06635v1",
+    "arxiv_id": "2412.06635",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00397",
+    "index": 397,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.15866v1",
+    "arxiv_id": "2412.15866",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00398",
+    "index": 398,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2206.14182v1",
+    "arxiv_id": "2206.14182",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00399",
+    "index": 399,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.16368v1",
+    "arxiv_id": "2412.16368",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00400",
+    "index": 400,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.13906v1",
+    "arxiv_id": "2412.13906",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00401",
+    "index": 401,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.06705v3",
+    "arxiv_id": "2412.06705",
+    "arxiv_version": 3
+  },
+  {
+    "id": "realmathbenchmark-00402",
+    "index": 402,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.20562v1",
+    "arxiv_id": "2412.20562",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00403",
+    "index": 403,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.01660v1",
+    "arxiv_id": "2205.01660",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00404",
+    "index": 404,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.04082v1",
+    "arxiv_id": "2205.04082",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00405",
+    "index": 405,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.01013v3",
+    "arxiv_id": "2205.01013",
+    "arxiv_version": 3
+  },
+  {
+    "id": "realmathbenchmark-00406",
+    "index": 406,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.09368v5",
+    "arxiv_id": "2205.09368",
+    "arxiv_version": 5
+  },
+  {
+    "id": "realmathbenchmark-00407",
+    "index": 407,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2206.14088v2",
+    "arxiv_id": "2206.14088",
+    "arxiv_version": 2
+  },
+  {
+    "id": "realmathbenchmark-00408",
+    "index": 408,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.15082v1",
+    "arxiv_id": "2205.15082",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00409",
+    "index": 409,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.11473v1",
+    "arxiv_id": "2412.11473",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00410",
+    "index": 410,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.18692v1",
+    "arxiv_id": "2412.18692",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00411",
+    "index": 411,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.17500v1",
+    "arxiv_id": "2412.17500",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00412",
+    "index": 412,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.13381v1",
+    "arxiv_id": "2205.13381",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00413",
+    "index": 413,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.03791v1",
+    "arxiv_id": "2205.03791",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00414",
+    "index": 414,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.11933v2",
+    "arxiv_id": "2412.11933",
+    "arxiv_version": 2
+  },
+  {
+    "id": "realmathbenchmark-00415",
+    "index": 415,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.19258v1",
+    "arxiv_id": "2412.19258",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00416",
+    "index": 416,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.14043v1",
+    "arxiv_id": "2205.14043",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00417",
+    "index": 417,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2206.13592v3",
+    "arxiv_id": "2206.13592",
+    "arxiv_version": 3
+  },
+  {
+    "id": "realmathbenchmark-00418",
+    "index": 418,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.10602v2",
+    "arxiv_id": "2412.10602",
+    "arxiv_version": 2
+  },
+  {
+    "id": "realmathbenchmark-00419",
+    "index": 419,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.02902v1",
+    "arxiv_id": "2412.02902",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00420",
+    "index": 420,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.06848v1",
+    "arxiv_id": "2412.06848",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00421",
+    "index": 421,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.09695v2",
+    "arxiv_id": "2412.09695",
+    "arxiv_version": 2
+  },
+  {
+    "id": "realmathbenchmark-00422",
+    "index": 422,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.15013v5",
+    "arxiv_id": "2205.15013",
+    "arxiv_version": 5
+  },
+  {
+    "id": "realmathbenchmark-00423",
+    "index": 423,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.04574v2",
+    "arxiv_id": "2205.04574",
+    "arxiv_version": 2
+  },
+  {
+    "id": "realmathbenchmark-00424",
+    "index": 424,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.05274v1",
+    "arxiv_id": "2205.05274",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00425",
+    "index": 425,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.13118v1",
+    "arxiv_id": "2412.13118",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00426",
+    "index": 426,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.00527v2",
+    "arxiv_id": "2205.00527",
+    "arxiv_version": 2
+  },
+  {
+    "id": "realmathbenchmark-00427",
+    "index": 427,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.08415v2",
+    "arxiv_id": "2412.08415",
+    "arxiv_version": 2
+  },
+  {
+    "id": "realmathbenchmark-00428",
+    "index": 428,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.11120v1",
+    "arxiv_id": "2205.11120",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00429",
+    "index": 429,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.01734v1",
+    "arxiv_id": "2205.01734",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00430",
+    "index": 430,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.15369v1",
+    "arxiv_id": "2205.15369",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00431",
+    "index": 431,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2206.13625v1",
+    "arxiv_id": "2206.13625",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00432",
+    "index": 432,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.01734v1",
+    "arxiv_id": "2205.01734",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00433",
+    "index": 433,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.13381v1",
+    "arxiv_id": "2205.13381",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00434",
+    "index": 434,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.11227v2",
+    "arxiv_id": "2412.11227",
+    "arxiv_version": 2
+  },
+  {
+    "id": "realmathbenchmark-00435",
+    "index": 435,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.11066v1",
+    "arxiv_id": "2205.11066",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00436",
+    "index": 436,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.19618v1",
+    "arxiv_id": "2412.19618",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00437",
+    "index": 437,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.08621v2",
+    "arxiv_id": "2412.08621",
+    "arxiv_version": 2
+  },
+  {
+    "id": "realmathbenchmark-00438",
+    "index": 438,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.13748v1",
+    "arxiv_id": "2412.13748",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00439",
+    "index": 439,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.20775v6",
+    "arxiv_id": "2412.20775",
+    "arxiv_version": 6
+  },
+  {
+    "id": "realmathbenchmark-00440",
+    "index": 440,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.11933v2",
+    "arxiv_id": "2412.11933",
+    "arxiv_version": 2
+  },
+  {
+    "id": "realmathbenchmark-00441",
+    "index": 441,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.17930v2",
+    "arxiv_id": "2412.17930",
+    "arxiv_version": 2
+  },
+  {
+    "id": "realmathbenchmark-00442",
+    "index": 442,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.14345v1",
+    "arxiv_id": "2412.14345",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00443",
+    "index": 443,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.11621v1",
+    "arxiv_id": "2205.11621",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00444",
+    "index": 444,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.11528v1",
+    "arxiv_id": "2412.11528",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00445",
+    "index": 445,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.18692v1",
+    "arxiv_id": "2412.18692",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00446",
+    "index": 446,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2501.00171v1",
+    "arxiv_id": "2501.00171",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00447",
+    "index": 447,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.20700v1",
+    "arxiv_id": "2412.20700",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00448",
+    "index": 448,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.13592v1",
+    "arxiv_id": "2205.13592",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00449",
+    "index": 449,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.14389v1",
+    "arxiv_id": "2412.14389",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00450",
+    "index": 450,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.13381v1",
+    "arxiv_id": "2205.13381",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00451",
+    "index": 451,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.19895v1",
+    "arxiv_id": "2412.19895",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00452",
+    "index": 452,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.11933v2",
+    "arxiv_id": "2412.11933",
+    "arxiv_version": 2
+  },
+  {
+    "id": "realmathbenchmark-00453",
+    "index": 453,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.15626v1",
+    "arxiv_id": "2412.15626",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00454",
+    "index": 454,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.00702v3",
+    "arxiv_id": "2205.00702",
+    "arxiv_version": 3
+  },
+  {
+    "id": "realmathbenchmark-00455",
+    "index": 455,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.09368v5",
+    "arxiv_id": "2205.09368",
+    "arxiv_version": 5
+  },
+  {
+    "id": "realmathbenchmark-00456",
+    "index": 456,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.16437v1",
+    "arxiv_id": "2412.16437",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00457",
+    "index": 457,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.09713v1",
+    "arxiv_id": "2412.09713",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00458",
+    "index": 458,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.19258v1",
+    "arxiv_id": "2412.19258",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00459",
+    "index": 459,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.19681v1",
+    "arxiv_id": "2412.19681",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00460",
+    "index": 460,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2206.13409v3",
+    "arxiv_id": "2206.13409",
+    "arxiv_version": 3
+  },
+  {
+    "id": "realmathbenchmark-00461",
+    "index": 461,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.14410v1",
+    "arxiv_id": "2412.14410",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00462",
+    "index": 462,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.19752v1",
+    "arxiv_id": "2412.19752",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00463",
+    "index": 463,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.06705v3",
+    "arxiv_id": "2412.06705",
+    "arxiv_version": 3
+  },
+  {
+    "id": "realmathbenchmark-00464",
+    "index": 464,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.01013v3",
+    "arxiv_id": "2205.01013",
+    "arxiv_version": 3
+  },
+  {
+    "id": "realmathbenchmark-00465",
+    "index": 465,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.02968v1",
+    "arxiv_id": "2205.02968",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00466",
+    "index": 466,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.07308v2",
+    "arxiv_id": "2412.07308",
+    "arxiv_version": 2
+  },
+  {
+    "id": "realmathbenchmark-00467",
+    "index": 467,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.01734v1",
+    "arxiv_id": "2205.01734",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00468",
+    "index": 468,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.16193v1",
+    "arxiv_id": "2412.16193",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00469",
+    "index": 469,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.05068v1",
+    "arxiv_id": "2412.05068",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00470",
+    "index": 470,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.13381v1",
+    "arxiv_id": "2205.13381",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00471",
+    "index": 471,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.03577v1",
+    "arxiv_id": "2205.03577",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00472",
+    "index": 472,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.07189v1",
+    "arxiv_id": "2205.07189",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00473",
+    "index": 473,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.03260v3",
+    "arxiv_id": "2205.03260",
+    "arxiv_version": 3
+  },
+  {
+    "id": "realmathbenchmark-00474",
+    "index": 474,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.00866v2",
+    "arxiv_id": "2205.00866",
+    "arxiv_version": 2
+  },
+  {
+    "id": "realmathbenchmark-00475",
+    "index": 475,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.20562v1",
+    "arxiv_id": "2412.20562",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00476",
+    "index": 476,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.02902v1",
+    "arxiv_id": "2412.02902",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00477",
+    "index": 477,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.21012v1",
+    "arxiv_id": "2412.21012",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00478",
+    "index": 478,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2206.14564v1",
+    "arxiv_id": "2206.14564",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00479",
+    "index": 479,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.17930v2",
+    "arxiv_id": "2412.17930",
+    "arxiv_version": 2
+  },
+  {
+    "id": "realmathbenchmark-00480",
+    "index": 480,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.21021v1",
+    "arxiv_id": "2412.21021",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00481",
+    "index": 481,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.03260v3",
+    "arxiv_id": "2205.03260",
+    "arxiv_version": 3
+  },
+  {
+    "id": "realmathbenchmark-00482",
+    "index": 482,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.11933v2",
+    "arxiv_id": "2412.11933",
+    "arxiv_version": 2
+  },
+  {
+    "id": "realmathbenchmark-00483",
+    "index": 483,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.11358v1",
+    "arxiv_id": "2412.11358",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00484",
+    "index": 484,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.05394v1",
+    "arxiv_id": "2205.05394",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00485",
+    "index": 485,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.12786v3",
+    "arxiv_id": "2205.12786",
+    "arxiv_version": 3
+  },
+  {
+    "id": "realmathbenchmark-00486",
+    "index": 486,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.11933v2",
+    "arxiv_id": "2412.11933",
+    "arxiv_version": 2
+  },
+  {
+    "id": "realmathbenchmark-00487",
+    "index": 487,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.03383v1",
+    "arxiv_id": "2412.03383",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00488",
+    "index": 488,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.13634v1",
+    "arxiv_id": "2412.13634",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00489",
+    "index": 489,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2206.13877v2",
+    "arxiv_id": "2206.13877",
+    "arxiv_version": 2
+  },
+  {
+    "id": "realmathbenchmark-00490",
+    "index": 490,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.12774v2",
+    "arxiv_id": "2205.12774",
+    "arxiv_version": 2
+  },
+  {
+    "id": "realmathbenchmark-00491",
+    "index": 491,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.13198v1",
+    "arxiv_id": "2205.13198",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00492",
+    "index": 492,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.06705v3",
+    "arxiv_id": "2412.06705",
+    "arxiv_version": 3
+  },
+  {
+    "id": "realmathbenchmark-00493",
+    "index": 493,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.07025v1",
+    "arxiv_id": "2205.07025",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00494",
+    "index": 494,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.11999v2",
+    "arxiv_id": "2412.11999",
+    "arxiv_version": 2
+  },
+  {
+    "id": "realmathbenchmark-00495",
+    "index": 495,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.08032v1",
+    "arxiv_id": "2205.08032",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00496",
+    "index": 496,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.11999v2",
+    "arxiv_id": "2412.11999",
+    "arxiv_version": 2
+  },
+  {
+    "id": "realmathbenchmark-00497",
+    "index": 497,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.02042v1",
+    "arxiv_id": "2412.02042",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00498",
+    "index": 498,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.09368v5",
+    "arxiv_id": "2205.09368",
+    "arxiv_version": 5
+  },
+  {
+    "id": "realmathbenchmark-00499",
+    "index": 499,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.03922v2",
+    "arxiv_id": "2205.03922",
+    "arxiv_version": 2
+  },
+  {
+    "id": "realmathbenchmark-00500",
+    "index": 500,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.06659v1",
+    "arxiv_id": "2412.06659",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00501",
+    "index": 501,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.02578v2",
+    "arxiv_id": "2205.02578",
+    "arxiv_version": 2
+  },
+  {
+    "id": "realmathbenchmark-00502",
+    "index": 502,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.07314v1",
+    "arxiv_id": "2412.07314",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00503",
+    "index": 503,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.00596v1",
+    "arxiv_id": "2205.00596",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00504",
+    "index": 504,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.11933v2",
+    "arxiv_id": "2412.11933",
+    "arxiv_version": 2
+  },
+  {
+    "id": "realmathbenchmark-00505",
+    "index": 505,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.16606v1",
+    "arxiv_id": "2412.16606",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00506",
+    "index": 506,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.13995v3",
+    "arxiv_id": "2205.13995",
+    "arxiv_version": 3
+  },
+  {
+    "id": "realmathbenchmark-00507",
+    "index": 507,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.16193v1",
+    "arxiv_id": "2412.16193",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00508",
+    "index": 508,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.13675v1",
+    "arxiv_id": "2412.13675",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00509",
+    "index": 509,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.13381v1",
+    "arxiv_id": "2205.13381",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00510",
+    "index": 510,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.05494v1",
+    "arxiv_id": "2412.05494",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00511",
+    "index": 511,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.05724v1",
+    "arxiv_id": "2205.05724",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00512",
+    "index": 512,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.19397v1",
+    "arxiv_id": "2412.19397",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00513",
+    "index": 513,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.13581v2",
+    "arxiv_id": "2205.13581",
+    "arxiv_version": 2
+  },
+  {
+    "id": "realmathbenchmark-00514",
+    "index": 514,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.02902v1",
+    "arxiv_id": "2412.02902",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00515",
+    "index": 515,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.03234v3",
+    "arxiv_id": "2412.03234",
+    "arxiv_version": 3
+  },
+  {
+    "id": "realmathbenchmark-00516",
+    "index": 516,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.17480v1",
+    "arxiv_id": "2412.17480",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00517",
+    "index": 517,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.06331v1",
+    "arxiv_id": "2412.06331",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00518",
+    "index": 518,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.03188v2",
+    "arxiv_id": "2205.03188",
+    "arxiv_version": 2
+  },
+  {
+    "id": "realmathbenchmark-00519",
+    "index": 519,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.11697v1",
+    "arxiv_id": "2412.11697",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00520",
+    "index": 520,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.10862v1",
+    "arxiv_id": "2412.10862",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00521",
+    "index": 521,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.11287v2",
+    "arxiv_id": "2205.11287",
+    "arxiv_version": 2
+  },
+  {
+    "id": "realmathbenchmark-00522",
+    "index": 522,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.11473v1",
+    "arxiv_id": "2412.11473",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00523",
+    "index": 523,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.13381v1",
+    "arxiv_id": "2205.13381",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00524",
+    "index": 524,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.04660v2",
+    "arxiv_id": "2205.04660",
+    "arxiv_version": 2
+  },
+  {
+    "id": "realmathbenchmark-00525",
+    "index": 525,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.02276v2",
+    "arxiv_id": "2205.02276",
+    "arxiv_version": 2
+  },
+  {
+    "id": "realmathbenchmark-00526",
+    "index": 526,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.17157v2",
+    "arxiv_id": "2412.17157",
+    "arxiv_version": 2
+  },
+  {
+    "id": "realmathbenchmark-00527",
+    "index": 527,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.11999v2",
+    "arxiv_id": "2412.11999",
+    "arxiv_version": 2
+  },
+  {
+    "id": "realmathbenchmark-00528",
+    "index": 528,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.00866v2",
+    "arxiv_id": "2205.00866",
+    "arxiv_version": 2
+  },
+  {
+    "id": "realmathbenchmark-00529",
+    "index": 529,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.10837v1",
+    "arxiv_id": "2412.10837",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00530",
+    "index": 530,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.10880v1",
+    "arxiv_id": "2412.10880",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00531",
+    "index": 531,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.11646v1",
+    "arxiv_id": "2412.11646",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00532",
+    "index": 532,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.10862v1",
+    "arxiv_id": "2412.10862",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00533",
+    "index": 533,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.05274v1",
+    "arxiv_id": "2205.05274",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00534",
+    "index": 534,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.15366v1",
+    "arxiv_id": "2412.15366",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00535",
+    "index": 535,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.02276v2",
+    "arxiv_id": "2205.02276",
+    "arxiv_version": 2
+  },
+  {
+    "id": "realmathbenchmark-00536",
+    "index": 536,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.04082v1",
+    "arxiv_id": "2205.04082",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00537",
+    "index": 537,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.04161v1",
+    "arxiv_id": "2412.04161",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00538",
+    "index": 538,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.00438v1",
+    "arxiv_id": "2205.00438",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00539",
+    "index": 539,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.16941v1",
+    "arxiv_id": "2412.16941",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00540",
+    "index": 540,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2501.00171v1",
+    "arxiv_id": "2501.00171",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00541",
+    "index": 541,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.11933v2",
+    "arxiv_id": "2412.11933",
+    "arxiv_version": 2
+  },
+  {
+    "id": "realmathbenchmark-00542",
+    "index": 542,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.09368v5",
+    "arxiv_id": "2205.09368",
+    "arxiv_version": 5
+  },
+  {
+    "id": "realmathbenchmark-00543",
+    "index": 543,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.13381v1",
+    "arxiv_id": "2205.13381",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00544",
+    "index": 544,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.02634v1",
+    "arxiv_id": "2205.02634",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00545",
+    "index": 545,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.07189v1",
+    "arxiv_id": "2205.07189",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00546",
+    "index": 546,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.02902v1",
+    "arxiv_id": "2412.02902",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00547",
+    "index": 547,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.12786v3",
+    "arxiv_id": "2205.12786",
+    "arxiv_version": 3
+  },
+  {
+    "id": "realmathbenchmark-00548",
+    "index": 548,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.20001v2",
+    "arxiv_id": "2412.20001",
+    "arxiv_version": 2
+  },
+  {
+    "id": "realmathbenchmark-00549",
+    "index": 549,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.12921v2",
+    "arxiv_id": "2412.12921",
+    "arxiv_version": 2
+  },
+  {
+    "id": "realmathbenchmark-00550",
+    "index": 550,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.05229v2",
+    "arxiv_id": "2205.05229",
+    "arxiv_version": 2
+  },
+  {
+    "id": "realmathbenchmark-00551",
+    "index": 551,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.14277v1",
+    "arxiv_id": "2412.14277",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00552",
+    "index": 552,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.06848v1",
+    "arxiv_id": "2412.06848",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00553",
+    "index": 553,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.09848v2",
+    "arxiv_id": "2412.09848",
+    "arxiv_version": 2
+  },
+  {
+    "id": "realmathbenchmark-00554",
+    "index": 554,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.12786v3",
+    "arxiv_id": "2205.12786",
+    "arxiv_version": 3
+  },
+  {
+    "id": "realmathbenchmark-00555",
+    "index": 555,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.11999v2",
+    "arxiv_id": "2412.11999",
+    "arxiv_version": 2
+  },
+  {
+    "id": "realmathbenchmark-00556",
+    "index": 556,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.07165v2",
+    "arxiv_id": "2205.07165",
+    "arxiv_version": 2
+  },
+  {
+    "id": "realmathbenchmark-00557",
+    "index": 557,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.15366v1",
+    "arxiv_id": "2412.15366",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00558",
+    "index": 558,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.11933v2",
+    "arxiv_id": "2412.11933",
+    "arxiv_version": 2
+  },
+  {
+    "id": "realmathbenchmark-00559",
+    "index": 559,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.16193v1",
+    "arxiv_id": "2412.16193",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00560",
+    "index": 560,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.11933v2",
+    "arxiv_id": "2412.11933",
+    "arxiv_version": 2
+  },
+  {
+    "id": "realmathbenchmark-00561",
+    "index": 561,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.19752v1",
+    "arxiv_id": "2412.19752",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00562",
+    "index": 562,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.04848v2",
+    "arxiv_id": "2412.04848",
+    "arxiv_version": 2
+  },
+  {
+    "id": "realmathbenchmark-00563",
+    "index": 563,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.19752v1",
+    "arxiv_id": "2412.19752",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00564",
+    "index": 564,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.02467v1",
+    "arxiv_id": "2205.02467",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00565",
+    "index": 565,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.11933v2",
+    "arxiv_id": "2412.11933",
+    "arxiv_version": 2
+  },
+  {
+    "id": "realmathbenchmark-00566",
+    "index": 566,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.12633v2",
+    "arxiv_id": "2412.12633",
+    "arxiv_version": 2
+  },
+  {
+    "id": "realmathbenchmark-00567",
+    "index": 567,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2206.13592v3",
+    "arxiv_id": "2206.13592",
+    "arxiv_version": 3
+  },
+  {
+    "id": "realmathbenchmark-00568",
+    "index": 568,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.15032v4",
+    "arxiv_id": "2205.15032",
+    "arxiv_version": 4
+  },
+  {
+    "id": "realmathbenchmark-00569",
+    "index": 569,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.13078v1",
+    "arxiv_id": "2205.13078",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00570",
+    "index": 570,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.14813v2",
+    "arxiv_id": "2412.14813",
+    "arxiv_version": 2
+  },
+  {
+    "id": "realmathbenchmark-00571",
+    "index": 571,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.03200v1",
+    "arxiv_id": "2205.03200",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00572",
+    "index": 572,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.03188v2",
+    "arxiv_id": "2205.03188",
+    "arxiv_version": 2
+  },
+  {
+    "id": "realmathbenchmark-00573",
+    "index": 573,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.08621v2",
+    "arxiv_id": "2412.08621",
+    "arxiv_version": 2
+  },
+  {
+    "id": "realmathbenchmark-00574",
+    "index": 574,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.05713v4",
+    "arxiv_id": "2205.05713",
+    "arxiv_version": 4
+  },
+  {
+    "id": "realmathbenchmark-00575",
+    "index": 575,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.15418v1",
+    "arxiv_id": "2205.15418",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00576",
+    "index": 576,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2206.13877v2",
+    "arxiv_id": "2206.13877",
+    "arxiv_version": 2
+  },
+  {
+    "id": "realmathbenchmark-00577",
+    "index": 577,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.11933v2",
+    "arxiv_id": "2412.11933",
+    "arxiv_version": 2
+  },
+  {
+    "id": "realmathbenchmark-00578",
+    "index": 578,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.03260v3",
+    "arxiv_id": "2205.03260",
+    "arxiv_version": 3
+  },
+  {
+    "id": "realmathbenchmark-00579",
+    "index": 579,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.02902v1",
+    "arxiv_id": "2412.02902",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00580",
+    "index": 580,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.15024v1",
+    "arxiv_id": "2205.15024",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00581",
+    "index": 581,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.12607v1",
+    "arxiv_id": "2412.12607",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00582",
+    "index": 582,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.17930v2",
+    "arxiv_id": "2412.17930",
+    "arxiv_version": 2
+  },
+  {
+    "id": "realmathbenchmark-00583",
+    "index": 583,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.13634v1",
+    "arxiv_id": "2412.13634",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00584",
+    "index": 584,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.11129v2",
+    "arxiv_id": "2205.11129",
+    "arxiv_version": 2
+  },
+  {
+    "id": "realmathbenchmark-00585",
+    "index": 585,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.02196v2",
+    "arxiv_id": "2205.02196",
+    "arxiv_version": 2
+  },
+  {
+    "id": "realmathbenchmark-00586",
+    "index": 586,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.18968v1",
+    "arxiv_id": "2412.18968",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00587",
+    "index": 587,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.13748v1",
+    "arxiv_id": "2412.13748",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00588",
+    "index": 588,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.11621v1",
+    "arxiv_id": "2205.11621",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00589",
+    "index": 589,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.16993v1",
+    "arxiv_id": "2412.16993",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00590",
+    "index": 590,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.04952v1",
+    "arxiv_id": "2412.04952",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00591",
+    "index": 591,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.07483v1",
+    "arxiv_id": "2412.07483",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00592",
+    "index": 592,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.13062v1",
+    "arxiv_id": "2205.13062",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00593",
+    "index": 593,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.01660v1",
+    "arxiv_id": "2205.01660",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00594",
+    "index": 594,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.16629v1",
+    "arxiv_id": "2412.16629",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00595",
+    "index": 595,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.11999v2",
+    "arxiv_id": "2412.11999",
+    "arxiv_version": 2
+  },
+  {
+    "id": "realmathbenchmark-00596",
+    "index": 596,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.13381v1",
+    "arxiv_id": "2205.13381",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00597",
+    "index": 597,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.18841v1",
+    "arxiv_id": "2412.18841",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00598",
+    "index": 598,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.11933v2",
+    "arxiv_id": "2412.11933",
+    "arxiv_version": 2
+  },
+  {
+    "id": "realmathbenchmark-00599",
+    "index": 599,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.19752v1",
+    "arxiv_id": "2412.19752",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00600",
+    "index": 600,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.07396v1",
+    "arxiv_id": "2412.07396",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00601",
+    "index": 601,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.09885v1",
+    "arxiv_id": "2412.09885",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00602",
+    "index": 602,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.00527v2",
+    "arxiv_id": "2205.00527",
+    "arxiv_version": 2
+  },
+  {
+    "id": "realmathbenchmark-00603",
+    "index": 603,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.11933v2",
+    "arxiv_id": "2412.11933",
+    "arxiv_version": 2
+  },
+  {
+    "id": "realmathbenchmark-00604",
+    "index": 604,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.14043v1",
+    "arxiv_id": "2205.14043",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00605",
+    "index": 605,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.10644v1",
+    "arxiv_id": "2205.10644",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00606",
+    "index": 606,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.07561v1",
+    "arxiv_id": "2412.07561",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00607",
+    "index": 607,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2501.00171v1",
+    "arxiv_id": "2501.00171",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00608",
+    "index": 608,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.11283v1",
+    "arxiv_id": "2412.11283",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00609",
+    "index": 609,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.06705v3",
+    "arxiv_id": "2412.06705",
+    "arxiv_version": 3
+  },
+  {
+    "id": "realmathbenchmark-00610",
+    "index": 610,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.18425v1",
+    "arxiv_id": "2412.18425",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00611",
+    "index": 611,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.08621v2",
+    "arxiv_id": "2412.08621",
+    "arxiv_version": 2
+  },
+  {
+    "id": "realmathbenchmark-00612",
+    "index": 612,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.11933v2",
+    "arxiv_id": "2412.11933",
+    "arxiv_version": 2
+  },
+  {
+    "id": "realmathbenchmark-00613",
+    "index": 613,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.07599v10",
+    "arxiv_id": "2205.07599",
+    "arxiv_version": 10
+  },
+  {
+    "id": "realmathbenchmark-00614",
+    "index": 614,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.05247v1",
+    "arxiv_id": "2205.05247",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00615",
+    "index": 615,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.02902v1",
+    "arxiv_id": "2412.02902",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00616",
+    "index": 616,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.14277v1",
+    "arxiv_id": "2412.14277",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00617",
+    "index": 617,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.03791v1",
+    "arxiv_id": "2205.03791",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00618",
+    "index": 618,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.14255v2",
+    "arxiv_id": "2205.14255",
+    "arxiv_version": 2
+  },
+  {
+    "id": "realmathbenchmark-00619",
+    "index": 619,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.12608v1",
+    "arxiv_id": "2412.12608",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00620",
+    "index": 620,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.15728v1",
+    "arxiv_id": "2205.15728",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00621",
+    "index": 621,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.06635v1",
+    "arxiv_id": "2412.06635",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00622",
+    "index": 622,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.06223v1",
+    "arxiv_id": "2205.06223",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00623",
+    "index": 623,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.12608v1",
+    "arxiv_id": "2412.12608",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00624",
+    "index": 624,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.11933v2",
+    "arxiv_id": "2412.11933",
+    "arxiv_version": 2
+  },
+  {
+    "id": "realmathbenchmark-00625",
+    "index": 625,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.21012v1",
+    "arxiv_id": "2412.21012",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00626",
+    "index": 626,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.13975v1",
+    "arxiv_id": "2412.13975",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00627",
+    "index": 627,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.04962v1",
+    "arxiv_id": "2412.04962",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00628",
+    "index": 628,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.00527v2",
+    "arxiv_id": "2205.00527",
+    "arxiv_version": 2
+  },
+  {
+    "id": "realmathbenchmark-00629",
+    "index": 629,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.10645v3",
+    "arxiv_id": "2205.10645",
+    "arxiv_version": 3
+  },
+  {
+    "id": "realmathbenchmark-00630",
+    "index": 630,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.11999v2",
+    "arxiv_id": "2412.11999",
+    "arxiv_version": 2
+  },
+  {
+    "id": "realmathbenchmark-00631",
+    "index": 631,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.11287v2",
+    "arxiv_id": "2205.11287",
+    "arxiv_version": 2
+  },
+  {
+    "id": "realmathbenchmark-00632",
+    "index": 632,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2205.14555v1",
+    "arxiv_id": "2205.14555",
+    "arxiv_version": 1
+  },
+  {
+    "id": "realmathbenchmark-00633",
+    "index": 633,
+    "source_dataset": "RealMathBenchmark",
+    "source_file": "Math_arXiv-00000-of-00001.parquet",
+    "link": "http://arxiv.org/abs/2412.15688v1",
+    "arxiv_id": "2412.15688",
+    "arxiv_version": 1
+  }
+]

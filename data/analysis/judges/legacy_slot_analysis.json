@@ -1,0 +1,1650 @@
+{
+  "judges": [
+    {
+      "key": "gpt",
+      "display": "GPT-5.5",
+      "family": "openai",
+      "file_stem": "openai__gpt-5.5",
+      "slot": 1
+    },
+    {
+      "key": "opus",
+      "display": "Opus 4.7",
+      "family": "anthropic",
+      "file_stem": "anthropic__claude-opus-4-7",
+      "slot": 2
+    },
+    {
+      "key": "gemini",
+      "display": "Gemini 3.5 Flash",
+      "family": "google",
+      "file_stem": "google__gemini-3.5-flash",
+      "slot": 3
+    },
+    {
+      "key": "deepseek",
+      "display": "DeepSeek V4-Pro",
+      "family": "deepseek",
+      "file_stem": "openrouter__deepseek_deepseek-v4-pro",
+      "slot": null
+    }
+  ],
+  "triples": [
+    [
+      "gpt",
+      "opus",
+      "gemini"
+    ],
+    [
+      "gpt",
+      "opus",
+      "deepseek"
+    ],
+    [
+      "gpt",
+      "gemini",
+      "deepseek"
+    ],
+    [
+      "opus",
+      "gemini",
+      "deepseek"
+    ]
+  ],
+  "accuracy": {
+    "opus/no_tool/w/o deepseek": 62.406,
+    "opus/no_tool/w/o gemini": 62.406,
+    "opus/no_tool/w/o opus": 62.406,
+    "opus/no_tool/w/o gpt": 62.406,
+    "opus/tool/w/o deepseek": 72.932,
+    "opus/tool/w/o gemini": 72.932,
+    "opus/tool/w/o opus": 72.932,
+    "opus/tool/w/o gpt": 72.932,
+    "opus-4-8/no_tool/w/o deepseek": 66.165,
+    "opus-4-8/no_tool/w/o gemini": 66.165,
+    "opus-4-8/no_tool/w/o opus": 66.165,
+    "opus-4-8/no_tool/w/o gpt": 66.165,
+    "opus-4-8/tool/w/o deepseek": 73.684,
+    "opus-4-8/tool/w/o gemini": 73.684,
+    "opus-4-8/tool/w/o opus": 73.684,
+    "opus-4-8/tool/w/o gpt": 73.684,
+    "sonnet/no_tool/w/o deepseek": 59.398,
+    "sonnet/no_tool/w/o gemini": 59.398,
+    "sonnet/no_tool/w/o opus": 59.398,
+    "sonnet/no_tool/w/o gpt": 59.398,
+    "sonnet/tool/w/o deepseek": 66.917,
+    "sonnet/tool/w/o gemini": 66.165,
+    "sonnet/tool/w/o opus": 66.165,
+    "sonnet/tool/w/o gpt": 66.917,
+    "gpt/no_tool/w/o deepseek": 68.421,
+    "gpt/no_tool/w/o gemini": 67.669,
+    "gpt/no_tool/w/o opus": 66.917,
+    "gpt/no_tool/w/o gpt": 67.669,
+    "gpt/tool/w/o deepseek": 75.188,
+    "gpt/tool/w/o gemini": 73.684,
+    "gpt/tool/w/o opus": 73.684,
+    "gpt/tool/w/o gpt": 75.188,
+    "gpt-5.6-sol/no_tool/w/o deepseek": 71.429,
+    "gpt-5.6-sol/no_tool/w/o gemini": 71.429,
+    "gpt-5.6-sol/no_tool/w/o opus": 70.677,
+    "gpt-5.6-sol/no_tool/w/o gpt": 70.677,
+    "gpt-5.6-sol/tool/w/o deepseek": 75.94,
+    "gpt-5.6-sol/tool/w/o gemini": 75.94,
+    "gpt-5.6-sol/tool/w/o opus": 75.188,
+    "gpt-5.6-sol/tool/w/o gpt": 75.188,
+    "gpt-5.6-luna/no_tool/w/o deepseek": 51.88,
+    "gpt-5.6-luna/no_tool/w/o gemini": 51.88,
+    "gpt-5.6-luna/no_tool/w/o opus": 51.88,
+    "gpt-5.6-luna/no_tool/w/o gpt": 51.88,
+    "gpt-5.6-luna/tool/w/o deepseek": 56.391,
+    "gpt-5.6-luna/tool/w/o gemini": 56.391,
+    "gpt-5.6-luna/tool/w/o opus": 56.391,
+    "gpt-5.6-luna/tool/w/o gpt": 56.391,
+    "gpt-5.6-terra/no_tool/w/o deepseek": 65.414,
+    "gpt-5.6-terra/no_tool/w/o gemini": 65.414,
+    "gpt-5.6-terra/no_tool/w/o opus": 65.414,
+    "gpt-5.6-terra/no_tool/w/o gpt": 65.414,
+    "gpt-5.6-terra/tool/w/o deepseek": 67.669,
+    "gpt-5.6-terra/tool/w/o gemini": 68.421,
+    "gpt-5.6-terra/tool/w/o opus": 68.421,
+    "gpt-5.6-terra/tool/w/o gpt": 67.669,
+    "gemini/no_tool/w/o deepseek": 61.654,
+    "gemini/no_tool/w/o gemini": 60.902,
+    "gemini/no_tool/w/o opus": 60.902,
+    "gemini/no_tool/w/o gpt": 61.654,
+    "gemini/tool/w/o deepseek": 66.917,
+    "gemini/tool/w/o gemini": 66.165,
+    "gemini/tool/w/o opus": 66.165,
+    "gemini/tool/w/o gpt": 66.917,
+    "gemini-3.1/no_tool/w/o deepseek": 66.917,
+    "gemini-3.1/no_tool/w/o gemini": 66.917,
+    "gemini-3.1/no_tool/w/o opus": 66.917,
+    "gemini-3.1/no_tool/w/o gpt": 66.917,
+    "gemini-3.1/tool/w/o deepseek": 69.925,
+    "gemini-3.1/tool/w/o gemini": 69.925,
+    "gemini-3.1/tool/w/o opus": 69.925,
+    "gemini-3.1/tool/w/o gpt": 69.925,
+    "deepseek/no_tool/w/o deepseek": 34.586,
+    "deepseek/no_tool/w/o gemini": 35.338,
+    "deepseek/no_tool/w/o opus": 34.586,
+    "deepseek/no_tool/w/o gpt": 35.338,
+    "deepseek/tool/w/o deepseek": 48.872,
+    "deepseek/tool/w/o gemini": 48.872,
+    "deepseek/tool/w/o opus": 50.376,
+    "deepseek/tool/w/o gpt": 50.376,
+    "deepseek-v4/no_tool/w/o deepseek": 33.083,
+    "deepseek-v4/no_tool/w/o gemini": 32.331,
+    "deepseek-v4/no_tool/w/o opus": 32.331,
+    "deepseek-v4/no_tool/w/o gpt": 33.083,
+    "deepseek-v4/tool/w/o deepseek": 54.887,
+    "deepseek-v4/tool/w/o gemini": 54.887,
+    "deepseek-v4/tool/w/o opus": 54.135,
+    "deepseek-v4/tool/w/o gpt": 55.639,
+    "deepseek-v4-pro/no_tool/w/o deepseek": 52.632,
+    "deepseek-v4-pro/no_tool/w/o gemini": 51.88,
+    "deepseek-v4-pro/no_tool/w/o opus": 51.88,
+    "deepseek-v4-pro/no_tool/w/o gpt": 52.632,
+    "deepseek-v4-pro/tool/w/o deepseek": 63.158,
+    "deepseek-v4-pro/tool/w/o gemini": 64.662,
+    "deepseek-v4-pro/tool/w/o opus": 63.158,
+    "deepseek-v4-pro/tool/w/o gpt": 64.662,
+    "qwen/no_tool/w/o deepseek": 42.105,
+    "qwen/no_tool/w/o gemini": 42.105,
+    "qwen/no_tool/w/o opus": 42.105,
+    "qwen/no_tool/w/o gpt": 42.105,
+    "qwen/tool/w/o deepseek": 69.925,
+    "qwen/tool/w/o gemini": 70.677,
+    "qwen/tool/w/o opus": 69.925,
+    "qwen/tool/w/o gpt": 70.677,
+    "glm/no_tool/w/o deepseek": 53.383,
+    "glm/no_tool/w/o gemini": 53.383,
+    "glm/no_tool/w/o opus": 53.383,
+    "glm/no_tool/w/o gpt": 53.383,
+    "glm/tool/w/o deepseek": 62.406,
+    "glm/tool/w/o gemini": 63.158,
+    "glm/tool/w/o opus": 62.406,
+    "glm/tool/w/o gpt": 63.158,
+    "kimi/no_tool/w/o deepseek": 57.143,
+    "kimi/no_tool/w/o gemini": 57.895,
+    "kimi/no_tool/w/o opus": 57.143,
+    "kimi/no_tool/w/o gpt": 57.895,
+    "kimi/tool/w/o deepseek": 58.647,
+    "kimi/tool/w/o gemini": 59.398,
+    "kimi/tool/w/o opus": 58.647,
+    "kimi/tool/w/o gpt": 59.398,
+    "kimi-k3/no_tool/w/o deepseek": 60.15,
+    "kimi-k3/no_tool/w/o gemini": 60.15,
+    "kimi-k3/no_tool/w/o opus": 60.15,
+    "kimi-k3/no_tool/w/o gpt": 60.15,
+    "kimi-k3/tool/w/o deepseek": 64.662,
+    "kimi-k3/tool/w/o gemini": 65.414,
+    "kimi-k3/tool/w/o opus": 65.414,
+    "kimi-k3/tool/w/o gpt": 66.165,
+    "minimax/no_tool/w/o deepseek": 38.346,
+    "minimax/no_tool/w/o gemini": 38.346,
+    "minimax/no_tool/w/o opus": 38.346,
+    "minimax/no_tool/w/o gpt": 38.346,
+    "minimax/tool/w/o deepseek": 55.639,
+    "minimax/tool/w/o gemini": 55.639,
+    "minimax/tool/w/o opus": 55.639,
+    "minimax/tool/w/o gpt": 55.639,
+    "grok/no_tool/w/o deepseek": 46.617,
+    "grok/no_tool/w/o gemini": 46.617,
+    "grok/no_tool/w/o opus": 46.617,
+    "grok/no_tool/w/o gpt": 46.617,
+    "grok/tool/w/o deepseek": 48.12,
+    "grok/tool/w/o gemini": 48.872,
+    "grok/tool/w/o opus": 48.12,
+    "grok/tool/w/o gpt": 48.872,
+    "mistral/no_tool/w/o deepseek": 48.872,
+    "mistral/no_tool/w/o gemini": 48.872,
+    "mistral/no_tool/w/o opus": 48.872,
+    "mistral/no_tool/w/o gpt": 48.872,
+    "mistral/tool/w/o deepseek": 51.128,
+    "mistral/tool/w/o gemini": 51.128,
+    "mistral/tool/w/o opus": 51.128,
+    "mistral/tool/w/o gpt": 51.128,
+    "fugu/no_tool/w/o deepseek": 66.917,
+    "fugu/no_tool/w/o gemini": 66.917,
+    "fugu/no_tool/w/o opus": 66.917,
+    "fugu/no_tool/w/o gpt": 66.917,
+    "fugu/tool/w/o deepseek": 72.932,
+    "fugu/tool/w/o gemini": 72.18,
+    "fugu/tool/w/o opus": 71.429,
+    "fugu/tool/w/o gpt": 71.429
+  },
+  "self_preference": {
+    "gpt": {
+      "n_own": 584,
+      "yes_own": 39.726027397260275,
+      "others_own": 38.41324200913242,
+      "n_other": 2586,
+      "yes_other": 30.43310131477185,
+      "others_other": 31.103377159061612,
+      "z": 2.742307760862257,
+      "p": 0.006100914967544218
+    },
+    "opus": {
+      "n_own": 436,
+      "yes_own": 40.137614678899084,
+      "others_own": 39.3348623853211,
+      "n_other": 2120,
+      "yes_other": 31.69811320754717,
+      "others_other": 30.448113207547166,
+      "z": -0.7079504221025066,
+      "p": 0.4789760459204397
+    },
+    "gemini": {
+      "n_own": 278,
+      "yes_own": 36.330935251798564,
+      "others_own": 35.4916067146283,
+      "n_other": 405,
+      "yes_other": 31.604938271604937,
+      "others_other": 32.592592592592595,
+      "z": 1.4088654042928788,
+      "p": 0.1588749709827688
+    },
+    "deepseek": {
+      "n_own": 542,
+      "yes_own": 23.800738007380073,
+      "others_own": 23.339483394833948,
+      "n_other": 2628,
+      "yes_other": 33.71385083713851,
+      "others_other": 34.519279553526125,
+      "z": 2.364254878778599,
+      "p": 0.01806637842648815
+    }
+  },
+  "mean_std_per_model": {
+    "self": {
+      "no_tool": 0.10852448668977892,
+      "tool": 0.36591037087962497
+    },
+    "family": {
+      "no_tool": 0.0542622433448892,
+      "tool": 0.3837711245716692
+    }
+  },
+  "self": {
+    "opus": {
+      "no_tool": {
+        "mean": 62.40601503759399,
+        "std": null,
+        "triples": [
+          "w/o opus"
+        ]
+      },
+      "tool": {
+        "mean": 72.93233082706767,
+        "std": null,
+        "triples": [
+          "w/o opus"
+        ]
+      },
+      "delta": {
+        "mean": 10.526315789473685,
+        "std": null,
+        "triples": [
+          "w/o opus"
+        ]
+      }
+    },
+    "opus-4-8": {
+      "no_tool": {
+        "mean": 66.16541353383458,
+        "std": 0.0,
+        "triples": [
+          "w/o deepseek",
+          "w/o gemini",
+          "w/o opus",
+          "w/o gpt"
+        ]
+      },
+      "tool": {
+        "mean": 73.6842105263158,
+        "std": 0.0,
+        "triples": [
+          "w/o deepseek",
+          "w/o gemini",
+          "w/o opus",
+          "w/o gpt"
+        ]
+      },
+      "delta": {
+        "mean": 7.518796992481214,
+        "std": 0.0,
+        "triples": [
+          "w/o deepseek",
+          "w/o gemini",
+          "w/o opus",
+          "w/o gpt"
+        ]
+      }
+    },
+    "sonnet": {
+      "no_tool": {
+        "mean": 59.3984962406015,
+        "std": 0.0,
+        "triples": [
+          "w/o deepseek",
+          "w/o gemini",
+          "w/o opus",
+          "w/o gpt"
+        ]
+      },
+      "tool": {
+        "mean": 66.54135338345864,
+        "std": 0.4340979467591177,
+        "triples": [
+          "w/o deepseek",
+          "w/o gemini",
+          "w/o opus",
+          "w/o gpt"
+        ]
+      },
+      "delta": {
+        "mean": 7.142857142857139,
+        "std": 0.4340979467591177,
+        "triples": [
+          "w/o deepseek",
+          "w/o gemini",
+          "w/o opus",
+          "w/o gpt"
+        ]
+      }
+    },
+    "gpt": {
+      "no_tool": {
+        "mean": 67.66917293233082,
+        "std": null,
+        "triples": [
+          "w/o gpt"
+        ]
+      },
+      "tool": {
+        "mean": 75.18796992481202,
+        "std": null,
+        "triples": [
+          "w/o gpt"
+        ]
+      },
+      "delta": {
+        "mean": 7.5187969924811995,
+        "std": null,
+        "triples": [
+          "w/o gpt"
+        ]
+      }
+    },
+    "gpt-5.6-sol": {
+      "no_tool": {
+        "mean": 71.05263157894737,
+        "std": 0.4340979467591177,
+        "triples": [
+          "w/o deepseek",
+          "w/o gemini",
+          "w/o opus",
+          "w/o gpt"
+        ]
+      },
+      "tool": {
+        "mean": 75.56390977443608,
+        "std": 0.4340979467591177,
+        "triples": [
+          "w/o deepseek",
+          "w/o gemini",
+          "w/o opus",
+          "w/o gpt"
+        ]
+      },
+      "delta": {
+        "mean": 4.511278195488714,
+        "std": 0.0,
+        "triples": [
+          "w/o deepseek",
+          "w/o gemini",
+          "w/o opus",
+          "w/o gpt"
+        ]
+      }
+    },
+    "gpt-5.6-luna": {
+      "no_tool": {
+        "mean": 51.8796992481203,
+        "std": 0.0,
+        "triples": [
+          "w/o deepseek",
+          "w/o gemini",
+          "w/o opus",
+          "w/o gpt"
+        ]
+      },
+      "tool": {
+        "mean": 56.390977443609025,
+        "std": 0.0,
+        "triples": [
+          "w/o deepseek",
+          "w/o gemini",
+          "w/o opus",
+          "w/o gpt"
+        ]
+      },
+      "delta": {
+        "mean": 4.511278195488721,
+        "std": 0.0,
+        "triples": [
+          "w/o deepseek",
+          "w/o gemini",
+          "w/o opus",
+          "w/o gpt"
+        ]
+      }
+    },
+    "gpt-5.6-terra": {
+      "no_tool": {
+        "mean": 65.41353383458646,
+        "std": 0.0,
+        "triples": [
+          "w/o deepseek",
+          "w/o gemini",
+          "w/o opus",
+          "w/o gpt"
+        ]
+      },
+      "tool": {
+        "mean": 68.04511278195488,
+        "std": 0.4340979467591177,
+        "triples": [
+          "w/o deepseek",
+          "w/o gemini",
+          "w/o opus",
+          "w/o gpt"
+        ]
+      },
+      "delta": {
+        "mean": 2.631578947368425,
+        "std": 0.4340979467591177,
+        "triples": [
+          "w/o deepseek",
+          "w/o gemini",
+          "w/o opus",
+          "w/o gpt"
+        ]
+      }
+    },
+    "gemini": {
+      "no_tool": {
+        "mean": 60.902255639097746,
+        "std": null,
+        "triples": [
+          "w/o gemini"
+        ]
+      },
+      "tool": {
+        "mean": 66.16541353383458,
+        "std": null,
+        "triples": [
+          "w/o gemini"
+        ]
+      },
+      "delta": {
+        "mean": 5.263157894736835,
+        "std": null,
+        "triples": [
+          "w/o gemini"
+        ]
+      }
+    },
+    "gemini-3.1": {
+      "no_tool": {
+        "mean": 66.9172932330827,
+        "std": 0.0,
+        "triples": [
+          "w/o deepseek",
+          "w/o gemini",
+          "w/o opus",
+          "w/o gpt"
+        ]
+      },
+      "tool": {
+        "mean": 69.92481203007519,
+        "std": 0.0,
+        "triples": [
+          "w/o deepseek",
+          "w/o gemini",
+          "w/o opus",
+          "w/o gpt"
+        ]
+      },
+      "delta": {
+        "mean": 3.0075187969924855,
+        "std": 0.0,
+        "triples": [
+          "w/o deepseek",
+          "w/o gemini",
+          "w/o opus",
+          "w/o gpt"
+        ]
+      }
+    },
+    "deepseek": {
+      "no_tool": {
+        "mean": 34.962406015037594,
+        "std": 0.4340979467591177,
+        "triples": [
+          "w/o deepseek",
+          "w/o gemini",
+          "w/o opus",
+          "w/o gpt"
+        ]
+      },
+      "tool": {
+        "mean": 49.62406015037594,
+        "std": 0.8681958935182355,
+        "triples": [
+          "w/o deepseek",
+          "w/o gemini",
+          "w/o opus",
+          "w/o gpt"
+        ]
+      },
+      "delta": {
+        "mean": 14.661654135338345,
+        "std": 0.9706725178464718,
+        "triples": [
+          "w/o deepseek",
+          "w/o gemini",
+          "w/o opus",
+          "w/o gpt"
+        ]
+      }
+    },
+    "deepseek-v4": {
+      "no_tool": {
+        "mean": 32.70676691729324,
+        "std": 0.4340979467591136,
+        "triples": [
+          "w/o deepseek",
+          "w/o gemini",
+          "w/o opus",
+          "w/o gpt"
+        ]
+      },
+      "tool": {
+        "mean": 54.88721804511278,
+        "std": 0.613907203705058,
+        "triples": [
+          "w/o deepseek",
+          "w/o gemini",
+          "w/o opus",
+          "w/o gpt"
+        ]
+      },
+      "delta": {
+        "mean": 22.18045112781955,
+        "std": 0.4340979467591177,
+        "triples": [
+          "w/o deepseek",
+          "w/o gemini",
+          "w/o opus",
+          "w/o gpt"
+        ]
+      }
+    },
+    "deepseek-v4-pro": {
+      "no_tool": {
+        "mean": 52.63157894736842,
+        "std": null,
+        "triples": [
+          "w/o deepseek"
+        ]
+      },
+      "tool": {
+        "mean": 63.1578947368421,
+        "std": null,
+        "triples": [
+          "w/o deepseek"
+        ]
+      },
+      "delta": {
+        "mean": 10.526315789473685,
+        "std": null,
+        "triples": [
+          "w/o deepseek"
+        ]
+      }
+    },
+    "qwen": {
+      "no_tool": {
+        "mean": 42.10526315789474,
+        "std": 0.0,
+        "triples": [
+          "w/o deepseek",
+          "w/o gemini",
+          "w/o opus",
+          "w/o gpt"
+        ]
+      },
+      "tool": {
+        "mean": 70.30075187969925,
+        "std": 0.4340979467591177,
+        "triples": [
+          "w/o deepseek",
+          "w/o gemini",
+          "w/o opus",
+          "w/o gpt"
+        ]
+      },
+      "delta": {
+        "mean": 28.19548872180451,
+        "std": 0.4340979467591177,
+        "triples": [
+          "w/o deepseek",
+          "w/o gemini",
+          "w/o opus",
+          "w/o gpt"
+        ]
+      }
+    },
+    "glm": {
+      "no_tool": {
+        "mean": 53.38345864661654,
+        "std": 0.0,
+        "triples": [
+          "w/o deepseek",
+          "w/o gemini",
+          "w/o opus",
+          "w/o gpt"
+        ]
+      },
+      "tool": {
+        "mean": 62.78195488721805,
+        "std": 0.4340979467591136,
+        "triples": [
+          "w/o deepseek",
+          "w/o gemini",
+          "w/o opus",
+          "w/o gpt"
+        ]
+      },
+      "delta": {
+        "mean": 9.398496240601506,
+        "std": 0.4340979467591136,
+        "triples": [
+          "w/o deepseek",
+          "w/o gemini",
+          "w/o opus",
+          "w/o gpt"
+        ]
+      }
+    },
+    "kimi": {
+      "no_tool": {
+        "mean": 57.5187969924812,
+        "std": 0.4340979467591136,
+        "triples": [
+          "w/o deepseek",
+          "w/o gemini",
+          "w/o opus",
+          "w/o gpt"
+        ]
+      },
+      "tool": {
+        "mean": 59.02255639097744,
+        "std": 0.4340979467591177,
+        "triples": [
+          "w/o deepseek",
+          "w/o gemini",
+          "w/o opus",
+          "w/o gpt"
+        ]
+      },
+      "delta": {
+        "mean": 1.5037593984962392,
+        "std": 4.1023203976182695e-15,
+        "triples": [
+          "w/o deepseek",
+          "w/o gemini",
+          "w/o opus",
+          "w/o gpt"
+        ]
+      }
+    },
+    "kimi-k3": {
+      "no_tool": {
+        "mean": 60.150375939849624,
+        "std": 0.0,
+        "triples": [
+          "w/o deepseek",
+          "w/o gemini",
+          "w/o opus",
+          "w/o gpt"
+        ]
+      },
+      "tool": {
+        "mean": 65.41353383458646,
+        "std": 0.6139072037050523,
+        "triples": [
+          "w/o deepseek",
+          "w/o gemini",
+          "w/o opus",
+          "w/o gpt"
+        ]
+      },
+      "delta": {
+        "mean": 5.263157894736839,
+        "std": 0.6139072037050523,
+        "triples": [
+          "w/o deepseek",
+          "w/o gemini",
+          "w/o opus",
+          "w/o gpt"
+        ]
+      }
+    },
+    "minimax": {
+      "no_tool": {
+        "mean": 38.34586466165413,
+        "std": 0.0,
+        "triples": [
+          "w/o deepseek",
+          "w/o gemini",
+          "w/o opus",
+          "w/o gpt"
+        ]
+      },
+      "tool": {
+        "mean": 55.6390977443609,
+        "std": 0.0,
+        "triples": [
+          "w/o deepseek",
+          "w/o gemini",
+          "w/o opus",
+          "w/o gpt"
+        ]
+      },
+      "delta": {
+        "mean": 17.29323308270677,
+        "std": 0.0,
+        "triples": [
+          "w/o deepseek",
+          "w/o gemini",
+          "w/o opus",
+          "w/o gpt"
+        ]
+      }
+    },
+    "grok": {
+      "no_tool": {
+        "mean": 46.61654135338346,
+        "std": 0.0,
+        "triples": [
+          "w/o deepseek",
+          "w/o gemini",
+          "w/o opus",
+          "w/o gpt"
+        ]
+      },
+      "tool": {
+        "mean": 48.49624060150376,
+        "std": 0.4340979467591177,
+        "triples": [
+          "w/o deepseek",
+          "w/o gemini",
+          "w/o opus",
+          "w/o gpt"
+        ]
+      },
+      "delta": {
+        "mean": 1.8796992481202963,
+        "std": 0.4340979467591177,
+        "triples": [
+          "w/o deepseek",
+          "w/o gemini",
+          "w/o opus",
+          "w/o gpt"
+        ]
+      }
+    },
+    "mistral": {
+      "no_tool": {
+        "mean": 48.87218045112782,
+        "std": 0.0,
+        "triples": [
+          "w/o deepseek",
+          "w/o gemini",
+          "w/o opus",
+          "w/o gpt"
+        ]
+      },
+      "tool": {
+        "mean": 51.12781954887218,
+        "std": 0.0,
+        "triples": [
+          "w/o deepseek",
+          "w/o gemini",
+          "w/o opus",
+          "w/o gpt"
+        ]
+      },
+      "delta": {
+        "mean": 2.255639097744364,
+        "std": 0.0,
+        "triples": [
+          "w/o deepseek",
+          "w/o gemini",
+          "w/o opus",
+          "w/o gpt"
+        ]
+      }
+    },
+    "fugu": {
+      "no_tool": {
+        "mean": 66.9172932330827,
+        "std": 0.0,
+        "triples": [
+          "w/o deepseek",
+          "w/o gemini",
+          "w/o opus",
+          "w/o gpt"
+        ]
+      },
+      "tool": {
+        "mean": 71.99248120300751,
+        "std": 0.7198700058318341,
+        "triples": [
+          "w/o deepseek",
+          "w/o gemini",
+          "w/o opus",
+          "w/o gpt"
+        ]
+      },
+      "delta": {
+        "mean": 5.075187969924819,
+        "std": 0.7198700058318341,
+        "triples": [
+          "w/o deepseek",
+          "w/o gemini",
+          "w/o opus",
+          "w/o gpt"
+        ]
+      }
+    }
+  },
+  "family": {
+    "opus": {
+      "no_tool": {
+        "mean": 62.40601503759399,
+        "std": null,
+        "triples": [
+          "w/o opus"
+        ]
+      },
+      "tool": {
+        "mean": 72.93233082706767,
+        "std": null,
+        "triples": [
+          "w/o opus"
+        ]
+      },
+      "delta": {
+        "mean": 10.526315789473685,
+        "std": null,
+        "triples": [
+          "w/o opus"
+        ]
+      }
+    },
+    "opus-4-8": {
+      "no_tool": {
+        "mean": 66.16541353383458,
+        "std": null,
+        "triples": [
+          "w/o opus"
+        ]
+      },
+      "tool": {
+        "mean": 73.6842105263158,
+        "std": null,
+        "triples": [
+          "w/o opus"
+        ]
+      },
+      "delta": {
+        "mean": 7.518796992481214,
+        "std": null,
+        "triples": [
+          "w/o opus"
+        ]
+      }
+    },
+    "sonnet": {
+      "no_tool": {
+        "mean": 59.3984962406015,
+        "std": null,
+        "triples": [
+          "w/o opus"
+        ]
+      },
+      "tool": {
+        "mean": 66.16541353383458,
+        "std": null,
+        "triples": [
+          "w/o opus"
+        ]
+      },
+      "delta": {
+        "mean": 6.766917293233078,
+        "std": null,
+        "triples": [
+          "w/o opus"
+        ]
+      }
+    },
+    "gpt": {
+      "no_tool": {
+        "mean": 67.66917293233082,
+        "std": null,
+        "triples": [
+          "w/o gpt"
+        ]
+      },
+      "tool": {
+        "mean": 75.18796992481202,
+        "std": null,
+        "triples": [
+          "w/o gpt"
+        ]
+      },
+      "delta": {
+        "mean": 7.5187969924811995,
+        "std": null,
+        "triples": [
+          "w/o gpt"
+        ]
+      }
+    },
+    "gpt-5.6-sol": {
+      "no_tool": {
+        "mean": 70.67669172932331,
+        "std": null,
+        "triples": [
+          "w/o gpt"
+        ]
+      },
+      "tool": {
+        "mean": 75.18796992481202,
+        "std": null,
+        "triples": [
+          "w/o gpt"
+        ]
+      },
+      "delta": {
+        "mean": 4.511278195488714,
+        "std": null,
+        "triples": [
+          "w/o gpt"
+        ]
+      }
+    },
+    "gpt-5.6-luna": {
+      "no_tool": {
+        "mean": 51.8796992481203,
+        "std": null,
+        "triples": [
+          "w/o gpt"
+        ]
+      },
+      "tool": {
+        "mean": 56.390977443609025,
+        "std": null,
+        "triples": [
+          "w/o gpt"
+        ]
+      },
+      "delta": {
+        "mean": 4.511278195488721,
+        "std": null,
+        "triples": [
+          "w/o gpt"
+        ]
+      }
+    },
+    "gpt-5.6-terra": {
+      "no_tool": {
+        "mean": 65.41353383458646,
+        "std": null,
+        "triples": [
+          "w/o gpt"
+        ]
+      },
+      "tool": {
+        "mean": 67.66917293233082,
+        "std": null,
+        "triples": [
+          "w/o gpt"
+        ]
+      },
+      "delta": {
+        "mean": 2.255639097744364,
+        "std": null,
+        "triples": [
+          "w/o gpt"
+        ]
+      }
+    },
+    "gemini": {
+      "no_tool": {
+        "mean": 60.902255639097746,
+        "std": null,
+        "triples": [
+          "w/o gemini"
+        ]
+      },
+      "tool": {
+        "mean": 66.16541353383458,
+        "std": null,
+        "triples": [
+          "w/o gemini"
+        ]
+      },
+      "delta": {
+        "mean": 5.263157894736835,
+        "std": null,
+        "triples": [
+          "w/o gemini"
+        ]
+      }
+    },
+    "gemini-3.1": {
+      "no_tool": {
+        "mean": 66.9172932330827,
+        "std": null,
+        "triples": [
+          "w/o gemini"
+        ]
+      },
+      "tool": {
+        "mean": 69.92481203007519,
+        "std": null,
+        "triples": [
+          "w/o gemini"
+        ]
+      },
+      "delta": {
+        "mean": 3.0075187969924855,
+        "std": null,
+        "triples": [
+          "w/o gemini"
+        ]
+      }
+    },
+    "deepseek": {
+      "no_tool": {
+        "mean": 34.58646616541353,
+        "std": null,
+        "triples": [
+          "w/o deepseek"
+        ]
+      },
+      "tool": {
+        "mean": 48.87218045112782,
+        "std": null,
+        "triples": [
+          "w/o deepseek"
+        ]
+      },
+      "delta": {
+        "mean": 14.285714285714285,
+        "std": null,
+        "triples": [
+          "w/o deepseek"
+        ]
+      }
+    },
+    "deepseek-v4": {
+      "no_tool": {
+        "mean": 33.08270676691729,
+        "std": null,
+        "triples": [
+          "w/o deepseek"
+        ]
+      },
+      "tool": {
+        "mean": 54.88721804511278,
+        "std": null,
+        "triples": [
+          "w/o deepseek"
+        ]
+      },
+      "delta": {
+        "mean": 21.80451127819549,
+        "std": null,
+        "triples": [
+          "w/o deepseek"
+        ]
+      }
+    },
+    "deepseek-v4-pro": {
+      "no_tool": {
+        "mean": 52.63157894736842,
+        "std": null,
+        "triples": [
+          "w/o deepseek"
+        ]
+      },
+      "tool": {
+        "mean": 63.1578947368421,
+        "std": null,
+        "triples": [
+          "w/o deepseek"
+        ]
+      },
+      "delta": {
+        "mean": 10.526315789473685,
+        "std": null,
+        "triples": [
+          "w/o deepseek"
+        ]
+      }
+    },
+    "qwen": {
+      "no_tool": {
+        "mean": 42.10526315789474,
+        "std": 0.0,
+        "triples": [
+          "w/o deepseek",
+          "w/o gemini",
+          "w/o opus",
+          "w/o gpt"
+        ]
+      },
+      "tool": {
+        "mean": 70.30075187969925,
+        "std": 0.4340979467591177,
+        "triples": [
+          "w/o deepseek",
+          "w/o gemini",
+          "w/o opus",
+          "w/o gpt"
+        ]
+      },
+      "delta": {
+        "mean": 28.19548872180451,
+        "std": 0.4340979467591177,
+        "triples": [
+          "w/o deepseek",
+          "w/o gemini",
+          "w/o opus",
+          "w/o gpt"
+        ]
+      }
+    },
+    "glm": {
+      "no_tool": {
+        "mean": 53.38345864661654,
+        "std": 0.0,
+        "triples": [
+          "w/o deepseek",
+          "w/o gemini",
+          "w/o opus",
+          "w/o gpt"
+        ]
+      },
+      "tool": {
+        "mean": 62.78195488721805,
+        "std": 0.4340979467591136,
+        "triples": [
+          "w/o deepseek",
+          "w/o gemini",
+          "w/o opus",
+          "w/o gpt"
+        ]
+      },
+      "delta": {
+        "mean": 9.398496240601506,
+        "std": 0.4340979467591136,
+        "triples": [
+          "w/o deepseek",
+          "w/o gemini",
+          "w/o opus",
+          "w/o gpt"
+        ]
+      }
+    },
+    "kimi": {
+      "no_tool": {
+        "mean": 57.5187969924812,
+        "std": 0.4340979467591136,
+        "triples": [
+          "w/o deepseek",
+          "w/o gemini",
+          "w/o opus",
+          "w/o gpt"
+        ]
+      },
+      "tool": {
+        "mean": 59.02255639097744,
+        "std": 0.4340979467591177,
+        "triples": [
+          "w/o deepseek",
+          "w/o gemini",
+          "w/o opus",
+          "w/o gpt"
+        ]
+      },
+      "delta": {
+        "mean": 1.5037593984962392,
+        "std": 4.1023203976182695e-15,
+        "triples": [
+          "w/o deepseek",
+          "w/o gemini",
+          "w/o opus",
+          "w/o gpt"
+        ]
+      }
+    },
+    "kimi-k3": {
+      "no_tool": {
+        "mean": 60.150375939849624,
+        "std": 0.0,
+        "triples": [
+          "w/o deepseek",
+          "w/o gemini",
+          "w/o opus",
+          "w/o gpt"
+        ]
+      },
+      "tool": {
+        "mean": 65.41353383458646,
+        "std": 0.6139072037050523,
+        "triples": [
+          "w/o deepseek",
+          "w/o gemini",
+          "w/o opus",
+          "w/o gpt"
+        ]
+      },
+      "delta": {
+        "mean": 5.263157894736839,
+        "std": 0.6139072037050523,
+        "triples": [
+          "w/o deepseek",
+          "w/o gemini",
+          "w/o opus",
+          "w/o gpt"
+        ]
+      }
+    },
+    "minimax": {
+      "no_tool": {
+        "mean": 38.34586466165413,
+        "std": 0.0,
+        "triples": [
+          "w/o deepseek",
+          "w/o gemini",
+          "w/o opus",
+          "w/o gpt"
+        ]
+      },
+      "tool": {
+        "mean": 55.6390977443609,
+        "std": 0.0,
+        "triples": [
+          "w/o deepseek",
+          "w/o gemini",
+          "w/o opus",
+          "w/o gpt"
+        ]
+      },
+      "delta": {
+        "mean": 17.29323308270677,
+        "std": 0.0,
+        "triples": [
+          "w/o deepseek",
+          "w/o gemini",
+          "w/o opus",
+          "w/o gpt"
+        ]
+      }
+    },
+    "grok": {
+      "no_tool": {
+        "mean": 46.61654135338346,
+        "std": 0.0,
+        "triples": [
+          "w/o deepseek",
+          "w/o gemini",
+          "w/o opus",
+          "w/o gpt"
+        ]
+      },
+      "tool": {
+        "mean": 48.49624060150376,
+        "std": 0.4340979467591177,
+        "triples": [
+          "w/o deepseek",
+          "w/o gemini",
+          "w/o opus",
+          "w/o gpt"
+        ]
+      },
+      "delta": {
+        "mean": 1.8796992481202963,
+        "std": 0.4340979467591177,
+        "triples": [
+          "w/o deepseek",
+          "w/o gemini",
+          "w/o opus",
+          "w/o gpt"
+        ]
+      }
+    },
+    "mistral": {
+      "no_tool": {
+        "mean": 48.87218045112782,
+        "std": 0.0,
+        "triples": [
+          "w/o deepseek",
+          "w/o gemini",
+          "w/o opus",
+          "w/o gpt"
+        ]
+      },
+      "tool": {
+        "mean": 51.12781954887218,
+        "std": 0.0,
+        "triples": [
+          "w/o deepseek",
+          "w/o gemini",
+          "w/o opus",
+          "w/o gpt"
+        ]
+      },
+      "delta": {
+        "mean": 2.255639097744364,
+        "std": 0.0,
+        "triples": [
+          "w/o deepseek",
+          "w/o gemini",
+          "w/o opus",
+          "w/o gpt"
+        ]
+      }
+    },
+    "fugu": {
+      "no_tool": {
+        "mean": 66.9172932330827,
+        "std": 0.0,
+        "triples": [
+          "w/o deepseek",
+          "w/o gemini",
+          "w/o opus",
+          "w/o gpt"
+        ]
+      },
+      "tool": {
+        "mean": 71.99248120300751,
+        "std": 0.7198700058318341,
+        "triples": [
+          "w/o deepseek",
+          "w/o gemini",
+          "w/o opus",
+          "w/o gpt"
+        ]
+      },
+      "delta": {
+        "mean": 5.075187969924819,
+        "std": 0.7198700058318341,
+        "triples": [
+          "w/o deepseek",
+          "w/o gemini",
+          "w/o opus",
+          "w/o gpt"
+        ]
+      }
+    }
+  },
+  "sources": {
+    "opus/no_tool": {
+      "gpt": "openai__gpt-5.5 (72/72)",
+      "opus": "anthropic__claude-opus-4-7 (72/72)",
+      "gemini": "slot 3 = claude-sonnet-4-6 (68/72)",
+      "deepseek": "openrouter__deepseek_deepseek-v4-pro (72/72)"
+    },
+    "opus/tool": {
+      "gpt": "openai__gpt-5.5 (72/72)",
+      "opus": "anthropic__claude-opus-4-7 (72/72)",
+      "gemini": "slot 3 = claude-sonnet-4-6 (69/72)",
+      "deepseek": "openrouter__deepseek_deepseek-v4-pro (72/72)"
+    },
+    "opus-4-8/no_tool": {
+      "gpt": "openai__gpt-5.5 (68/68)",
+      "opus": "anthropic__claude-opus-4-7 (68/68)",
+      "gemini": "slot 3 = claude-sonnet-5 (66/68)",
+      "deepseek": "openrouter__deepseek_deepseek-v4-pro (68/68)"
+    },
+    "opus-4-8/tool": {
+      "gpt": "openai__gpt-5.5 (70/70)",
+      "opus": "anthropic__claude-opus-4-7 (70/70)",
+      "gemini": "slot 3 = claude-sonnet-5 (69/70)",
+      "deepseek": "openrouter__deepseek_deepseek-v4-pro (70/70)"
+    },
+    "sonnet/no_tool": {
+      "gpt": "openai__gpt-5.5 (77/77)",
+      "opus": "anthropic__claude-opus-4-7 (77/77)",
+      "gemini": "slot 3 = claude-sonnet-5 (75/77)",
+      "deepseek": "openrouter__deepseek_deepseek-v4-pro (77/77)"
+    },
+    "sonnet/tool": {
+      "gpt": "openai__gpt-5.5 (77/77)",
+      "opus": "anthropic__claude-opus-4-7 (77/77)",
+      "gemini": "slot 3 = claude-sonnet-5 (76/77)",
+      "deepseek": "openrouter__deepseek_deepseek-v4-pro (77/77)"
+    },
+    "gpt/no_tool": {
+      "gpt": "openai__gpt-5.5 (69/69)",
+      "opus": "anthropic__claude-opus-4-7 (69/69)",
+      "gemini": "google__gemini-3.5-flash (69/69)",
+      "deepseek": "openrouter__deepseek_deepseek-v4-pro (69/69)"
+    },
+    "gpt/tool": {
+      "gpt": "openai__gpt-5.5 (73/73)",
+      "opus": "anthropic__claude-opus-4-7 (73/73)",
+      "gemini": "google__gemini-3.5-flash (73/73)",
+      "deepseek": "openrouter__deepseek_deepseek-v4-pro (73/73)"
+    },
+    "gpt-5.6-sol/no_tool": {
+      "gpt": "openai__gpt-5.5 (69/69)",
+      "opus": "slot 2 = claude-sonnet-5 (67/69)",
+      "gemini": "slot 3 = gpt-5.4 (69/69)",
+      "deepseek": "openrouter__deepseek_deepseek-v4-pro (69/69)"
+    },
+    "gpt-5.6-sol/tool": {
+      "gpt": "openai__gpt-5.5 (65/65)",
+      "opus": "slot 2 = claude-sonnet-5 (64/65)",
+      "gemini": "slot 3 = gpt-5.4 (65/65)",
+      "deepseek": "openrouter__deepseek_deepseek-v4-pro (65/65)"
+    },
+    "gpt-5.6-luna/no_tool": {
+      "gpt": "openai__gpt-5.5 (80/80)",
+      "opus": "slot 2 = claude-sonnet-5 (80/80)",
+      "gemini": "slot 3 = gpt-5.4 (80/80)",
+      "deepseek": "openrouter__deepseek_deepseek-v4-pro (80/80)"
+    },
+    "gpt-5.6-luna/tool": {
+      "gpt": "openai__gpt-5.5 (84/84)",
+      "opus": "slot 2 = claude-sonnet-5 (82/84)",
+      "gemini": "slot 3 = gpt-5.4 (84/84)",
+      "deepseek": "openrouter__deepseek_deepseek-v4-pro (84/84)"
+    },
+    "gpt-5.6-terra/no_tool": {
+      "gpt": "openai__gpt-5.5 (73/73)",
+      "opus": "slot 2 = claude-sonnet-5 (70/73)",
+      "gemini": "slot 3 = gpt-5.4 (73/73)",
+      "deepseek": "openrouter__deepseek_deepseek-v4-pro (73/73)"
+    },
+    "gpt-5.6-terra/tool": {
+      "gpt": "openai__gpt-5.5 (71/71)",
+      "opus": "slot 2 = claude-sonnet-5 (67/71)",
+      "gemini": "slot 3 = gpt-5.4 (71/71)",
+      "deepseek": "openrouter__deepseek_deepseek-v4-pro (71/71)"
+    },
+    "gemini/no_tool": {
+      "gpt": "openai__gpt-5.5 (76/76)",
+      "opus": "anthropic__claude-opus-4-7 (76/76)",
+      "gemini": "google__gemini-3.5-flash (76/76)",
+      "deepseek": "openrouter__deepseek_deepseek-v4-pro (76/76)"
+    },
+    "gemini/tool": {
+      "gpt": "openai__gpt-5.5 (72/72)",
+      "opus": "anthropic__claude-opus-4-7 (72/72)",
+      "gemini": "google__gemini-3.5-flash (72/72)",
+      "deepseek": "openrouter__deepseek_deepseek-v4-pro (72/72)"
+    },
+    "gemini-3.1/no_tool": {
+      "gpt": "openai__gpt-5.5 (65/65)",
+      "opus": "anthropic__claude-opus-4-7 (65/65)",
+      "gemini": "google__gemini-3.5-flash (65/65)",
+      "deepseek": "openrouter__deepseek_deepseek-v4-pro (65/65)"
+    },
+    "gemini-3.1/tool": {
+      "gpt": "openai__gpt-5.5 (65/65)",
+      "opus": "anthropic__claude-opus-4-7 (65/65)",
+      "gemini": "google__gemini-3.5-flash (65/65)",
+      "deepseek": "openrouter__deepseek_deepseek-v4-pro (65/65)"
+    },
+    "deepseek/no_tool": {
+      "gpt": "openai__gpt-5.5 (104/104)",
+      "opus": "anthropic__claude-opus-4-7 (104/104)",
+      "gemini": "slot 3 = claude-sonnet-4-6 (99/104)",
+      "deepseek": "openrouter__deepseek_deepseek-v4-pro (104/104)"
+    },
+    "deepseek/tool": {
+      "gpt": "openai__gpt-5.5 (86/86)",
+      "opus": "anthropic__claude-opus-4-7 (86/86)",
+      "gemini": "google__gemini-3.5-flash (86/86)",
+      "deepseek": "openrouter__deepseek_deepseek-v4-pro (86/86)"
+    },
+    "deepseek-v4/no_tool": {
+      "gpt": "openai__gpt-5.5 (101/101)",
+      "opus": "anthropic__claude-opus-4-7 (101/101)",
+      "gemini": "slot 3 = claude-sonnet-4-6 (98/101)",
+      "deepseek": "openrouter__deepseek_deepseek-v4-pro (101/101)"
+    },
+    "deepseek-v4/tool": {
+      "gpt": "openai__gpt-5.5 (85/85)",
+      "opus": "anthropic__claude-opus-4-7 (85/85)",
+      "gemini": "google__gemini-3.5-flash (85/85)",
+      "deepseek": "openrouter__deepseek_deepseek-v4-pro (85/85)"
+    },
+    "deepseek-v4-pro/no_tool": {
+      "gpt": "openai__gpt-5.5 (80/80)",
+      "opus": "slot 2 = claude-opus-4-7 (79/80)",
+      "gemini": "slot 3 = claude-sonnet-5 (78/80)",
+      "deepseek": "openrouter__deepseek_deepseek-v4-pro (80/80)"
+    },
+    "deepseek-v4-pro/tool": {
+      "gpt": "openai__gpt-5.5 (86/86)",
+      "opus": "anthropic__claude-opus-4-7 (86/86)",
+      "gemini": "slot 3 = claude-sonnet-4-6 (82/86)",
+      "deepseek": "openrouter__deepseek_deepseek-v4-pro (86/86)"
+    },
+    "qwen/no_tool": {
+      "gpt": "openai__gpt-5.5 (95/95)",
+      "opus": "anthropic__claude-opus-4-7 (95/95)",
+      "gemini": "slot 3 = claude-sonnet-5 (93/95)",
+      "deepseek": "openrouter__deepseek_deepseek-v4-pro (95/95)"
+    },
+    "qwen/tool": {
+      "gpt": "openai__gpt-5.5 (73/73)",
+      "opus": "anthropic__claude-opus-4-7 (73/73)",
+      "gemini": "slot 3 = claude-sonnet-5 (71/73)",
+      "deepseek": "openrouter__deepseek_deepseek-v4-pro (73/73)"
+    },
+    "glm/no_tool": {
+      "gpt": "openai__gpt-5.5 (81/81)",
+      "opus": "anthropic__claude-opus-4-7 (81/81)",
+      "gemini": "slot 3 = claude-sonnet-5 (79/81)",
+      "deepseek": "openrouter__deepseek_deepseek-v4-pro (81/81)"
+    },
+    "glm/tool": {
+      "gpt": "openai__gpt-5.5 (77/77)",
+      "opus": "anthropic__claude-opus-4-7 (77/77)",
+      "gemini": "slot 3 = claude-sonnet-5 (76/77)",
+      "deepseek": "openrouter__deepseek_deepseek-v4-pro (77/77)"
+    },
+    "kimi/no_tool": {
+      "gpt": "openai__gpt-5.5 (80/80)",
+      "opus": "anthropic__claude-opus-4-7 (80/80)",
+      "gemini": "slot 3 = claude-sonnet-5 (78/80)",
+      "deepseek": "openrouter__deepseek_deepseek-v4-pro (80/80)"
+    },
+    "kimi/tool": {
+      "gpt": "openai__gpt-5.5 (81/81)",
+      "opus": "anthropic__claude-opus-4-7 (81/81)",
+      "gemini": "slot 3 = claude-sonnet-5 (80/81)",
+      "deepseek": "openrouter__deepseek_deepseek-v4-pro (81/81)"
+    },
+    "kimi-k3/no_tool": {
+      "gpt": "openai__gpt-5.5 (73/73)",
+      "opus": "anthropic__claude-opus-4-7 (73/73)",
+      "gemini": "slot 3 = gpt-5.6-sol (73/73)",
+      "deepseek": "openrouter__deepseek_deepseek-v4-pro (73/73)"
+    },
+    "kimi-k3/tool": {
+      "gpt": "openai__gpt-5.5 (76/76)",
+      "opus": "slot 2 = claude-opus-4-7 (74/76)",
+      "gemini": "slot 3 = gpt-5.6-sol (76/76)",
+      "deepseek": "openrouter__deepseek_deepseek-v4-pro (76/76)"
+    },
+    "minimax/no_tool": {
+      "gpt": "openai__gpt-5.5 (98/98)",
+      "opus": "anthropic__claude-opus-4-7 (98/98)",
+      "gemini": "slot 3 = claude-sonnet-5 (97/98)",
+      "deepseek": "openrouter__deepseek_deepseek-v4-pro (98/98)"
+    },
+    "minimax/tool": {
+      "gpt": "openai__gpt-5.5 (83/83)",
+      "opus": "anthropic__claude-opus-4-7 (83/83)",
+      "gemini": "slot 3 = claude-sonnet-5 (81/83)",
+      "deepseek": "openrouter__deepseek_deepseek-v4-pro (83/83)"
+    },
+    "grok/no_tool": {
+      "gpt": "openai__gpt-5.5 (106/106)",
+      "opus": "anthropic__claude-opus-4-7 (106/106)",
+      "gemini": "slot 3 = gemini-3.1-pro-preview (106/106)",
+      "deepseek": "openrouter__deepseek_deepseek-v4-pro (106/106)"
+    },
+    "grok/tool": {
+      "gpt": "openai__gpt-5.5 (92/92)",
+      "opus": "anthropic__claude-opus-4-7 (92/92)",
+      "gemini": "google__gemini-3.5-flash (92/92)",
+      "deepseek": "openrouter__deepseek_deepseek-v4-pro (92/92)"
+    },
+    "mistral/no_tool": {
+      "gpt": "openai__gpt-5.5 (82/82)",
+      "opus": "slot 2 = claude-sonnet-5 (82/82)",
+      "gemini": "slot 3 = gpt-5.4 (82/82)",
+      "deepseek": "openrouter__deepseek_deepseek-v4-pro (82/82)"
+    },
+    "mistral/tool": {
+      "gpt": "openai__gpt-5.5 (86/86)",
+      "opus": "slot 2 = claude-sonnet-5 (85/86)",
+      "gemini": "slot 3 = gpt-5.4 (86/86)",
+      "deepseek": "openrouter__deepseek_deepseek-v4-pro (86/86)"
+    },
+    "fugu/no_tool": {
+      "gpt": "openai__gpt-5.5 (73/73)",
+      "opus": "anthropic__claude-opus-4-7 (73/73)",
+      "gemini": "slot 3 = claude-sonnet-5 (71/73)",
+      "deepseek": "openrouter__deepseek_deepseek-v4-pro (73/73)"
+    },
+    "fugu/tool": {
+      "gpt": "openai__gpt-5.5 (74/74)",
+      "opus": "slot 2 = claude-opus-4-7 (73/74)",
+      "gemini": "slot 3 = claude-sonnet-5 (70/74)",
+      "deepseek": "openrouter__deepseek_deepseek-v4-pro (74/74)"
+    }
+  }
+}

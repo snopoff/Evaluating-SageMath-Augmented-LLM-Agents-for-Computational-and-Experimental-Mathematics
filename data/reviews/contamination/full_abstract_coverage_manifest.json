@@ -1,0 +1,17 @@
+{
+  "scope": "abstract continuation, guided and unguided",
+  "coverage_per_model_per_mode": {
+    "benchmark": 88,
+    "famous": 40,
+    "same_vintage": 40,
+    "fresh": 40
+  },
+  "new_responses": 128,
+  "preserved_existing_prompts": 384,
+  "new_papers": 16,
+  "split_rule": "Original sentence-boundary split when eligible; otherwise nearest word boundary to 40% of original abstract characters. Applied equally to all groups.",
+  "additional_probes_sha256": "f91e79b9c2fddd68fe2e748aedab92c394814a0cb3585fa08e479ff976e69d70",
+  "abstract_scored_rows": 1664,
+  "tests": "tests/test_contamination.py: 11 passed",
+  "errors_in_abstract_results": 0
+}

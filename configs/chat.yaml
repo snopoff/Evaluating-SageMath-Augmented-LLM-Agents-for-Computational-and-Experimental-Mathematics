@@ -1,0 +1,22 @@
+# Ask the Sage agent a single question:
+#   uv run --frozen python main.py prompt.text="<question>"
+defaults:
+  - model: anthropic
+  - controller: default
+  - sage: default
+  - context7: default
+  - logger: console
+  - system_prompt: tool
+  - sage_skill: v2
+  - _self_
+
+model_name: claude-opus-4-7
+mode: chat
+progress_logs: true
+
+prompt:
+  text: ???
+
+tools:
+  - sage_exec
+  - query-docs

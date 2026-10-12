@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[oc]
+.venv/
+.pytest_cache/
+
+# Local environment and generated outputs
+.env
+.envrc
+.DS_Store
+outputs/
+analysis/generated/
+wandb/
+logs/
+multirun/

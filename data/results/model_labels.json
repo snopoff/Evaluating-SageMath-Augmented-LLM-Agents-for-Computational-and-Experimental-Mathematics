@@ -1,0 +1,22 @@
+{
+  "gpt-5.6-sol": "GPT-5.6 Sol",
+  "gpt": "GPT-5.5",
+  "opus-4-8": "Opus 4.8",
+  "opus": "Opus 4.7",
+  "fugu": "Fugu-Ultra",
+  "gemini-3.1": "Gemini 3.1 Pro",
+  "qwen": "Qwen 3.7 Max",
+  "gpt-5.6-terra": "GPT-5.6 Terra",
+  "gemini": "Gemini 3.5 Flash",
+  "sonnet": "Sonnet 5",
+  "kimi-k3": "Kimi K3",
+  "deepseek-v4-pro": "DeepSeek V4 Pro",
+  "glm": "GLM 5.2",
+  "kimi": "Kimi K2.7",
+  "gpt-5.6-luna": "GPT-5.6 Luna",
+  "minimax": "MiniMax M3",
+  "mistral": "Mistral 3.5",
+  "deepseek": "DeepSeek V3.2",
+  "grok": "Grok 4.3",
+  "deepseek-v4": "DeepSeek V4 Flash"
+}

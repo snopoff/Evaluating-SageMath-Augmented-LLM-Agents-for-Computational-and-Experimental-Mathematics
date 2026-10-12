@@ -1,0 +1,1522 @@
+[
+  {
+    "id": "realmathbenchmark-00016",
+    "link": "http://arxiv.org/abs/2412.18555v1",
+    "arxiv_id": "2412.18555",
+    "arxiv_version": 1,
+    "arxiv_categories": [
+      "math.AP"
+    ],
+    "arxiv_tag": "math.AP",
+    "answer_type": "number"
+  },
+  {
+    "id": "realmathbenchmark-00032",
+    "link": "http://arxiv.org/abs/2412.07054v1",
+    "arxiv_id": "2412.07054",
+    "arxiv_version": 1,
+    "arxiv_categories": [
+      "math.NT"
+    ],
+    "arxiv_tag": "math.NT",
+    "answer_type": "number"
+  },
+  {
+    "id": "realmathbenchmark-00035",
+    "link": "http://arxiv.org/abs/2412.20652v1",
+    "arxiv_id": "2412.20652",
+    "arxiv_version": 1,
+    "arxiv_categories": [
+      "math.GT"
+    ],
+    "arxiv_tag": "math.GT",
+    "answer_type": "expression"
+  },
+  {
+    "id": "realmathbenchmark-00067",
+    "link": "http://arxiv.org/abs/2412.02902v1",
+    "arxiv_id": "2412.02902",
+    "arxiv_version": 1,
+    "arxiv_categories": [
+      "math.GM"
+    ],
+    "arxiv_tag": "math.GM",
+    "answer_type": "number"
+  },
+  {
+    "id": "realmathbenchmark-00080",
+    "link": "http://arxiv.org/abs/2412.11415v4",
+    "arxiv_id": "2412.11415",
+    "arxiv_version": 4,
+    "arxiv_categories": [
+      "math.NT"
+    ],
+    "arxiv_tag": "math.NT",
+    "answer_type": "expression"
+  },
+  {
+    "id": "realmathbenchmark-00094",
+    "link": "http://arxiv.org/abs/2205.14604v1",
+    "arxiv_id": "2205.14604",
+    "arxiv_version": 1,
+    "arxiv_categories": [
+      "math.NT"
+    ],
+    "arxiv_tag": "math.NT",
+    "answer_type": "expression"
+  },
+  {
+    "id": "realmathbenchmark-00104",
+    "link": "http://arxiv.org/abs/2412.13215v3",
+    "arxiv_id": "2412.13215",
+    "arxiv_version": 3,
+    "arxiv_categories": [
+      "math.AP"
+    ],
+    "arxiv_tag": "math.AP",
+    "answer_type": "number"
+  },
+  {
+    "id": "realmathbenchmark-00117",
+    "link": "http://arxiv.org/abs/2412.17480v1",
+    "arxiv_id": "2412.17480",
+    "arxiv_version": 1,
+    "arxiv_categories": [
+      "math.GR",
+      "math.RA"
+    ],
+    "arxiv_tag": "math.GR",
+    "answer_type": "number"
+  },
+  {
+    "id": "realmathbenchmark-00120",
+    "link": "http://arxiv.org/abs/2412.16193v1",
+    "arxiv_id": "2412.16193",
+    "arxiv_version": 1,
+    "arxiv_categories": [
+      "math.NT"
+    ],
+    "arxiv_tag": "math.NT",
+    "answer_type": "number"
+  },
+  {
+    "id": "realmathbenchmark-00123",
+    "link": "http://arxiv.org/abs/2412.11933v2",
+    "arxiv_id": "2412.11933",
+    "arxiv_version": 2,
+    "arxiv_categories": [
+      "math.NT"
+    ],
+    "arxiv_tag": "math.NT",
+    "answer_type": "expression"
+  },
+  {
+    "id": "realmathbenchmark-00136",
+    "link": "http://arxiv.org/abs/2412.11933v2",
+    "arxiv_id": "2412.11933",
+    "arxiv_version": 2,
+    "arxiv_categories": [
+      "math.NT"
+    ],
+    "arxiv_tag": "math.NT",
+    "answer_type": "number"
+  },
+  {
+    "id": "realmathbenchmark-00142",
+    "link": "http://arxiv.org/abs/2412.13118v1",
+    "arxiv_id": "2412.13118",
+    "arxiv_version": 1,
+    "arxiv_categories": [
+      "math.AP",
+      "math.CV"
+    ],
+    "arxiv_tag": "math.AP",
+    "answer_type": "expression"
+  },
+  {
+    "id": "realmathbenchmark-00149",
+    "link": "http://arxiv.org/abs/2205.08453v3",
+    "arxiv_id": "2205.08453",
+    "arxiv_version": 3,
+    "arxiv_categories": [
+      "math.AT"
+    ],
+    "arxiv_tag": "math.AT",
+    "answer_type": "expression"
+  },
+  {
+    "id": "realmathbenchmark-00159",
+    "link": "http://arxiv.org/abs/2205.02578v2",
+    "arxiv_id": "2205.02578",
+    "arxiv_version": 2,
+    "arxiv_categories": [
+      "math.GR"
+    ],
+    "arxiv_tag": "math.GR",
+    "answer_type": "expression"
+  },
+  {
+    "id": "realmathbenchmark-00180",
+    "link": "http://arxiv.org/abs/2205.14689v1",
+    "arxiv_id": "2205.14689",
+    "arxiv_version": 1,
+    "arxiv_categories": [
+      "math.NT"
+    ],
+    "arxiv_tag": "math.NT",
+    "answer_type": "expression"
+  },
+  {
+    "id": "realmathbenchmark-00181",
+    "link": "http://arxiv.org/abs/2412.11933v2",
+    "arxiv_id": "2412.11933",
+    "arxiv_version": 2,
+    "arxiv_categories": [
+      "math.NT"
+    ],
+    "arxiv_tag": "math.NT",
+    "answer_type": "number"
+  },
+  {
+    "id": "realmathbenchmark-00219",
+    "link": "http://arxiv.org/abs/2412.19223v1",
+    "arxiv_id": "2412.19223",
+    "arxiv_version": 1,
+    "arxiv_categories": [
+      "math.RA"
+    ],
+    "arxiv_tag": "math.RA",
+    "answer_type": "expression"
+  },
+  {
+    "id": "realmathbenchmark-00227",
+    "link": "http://arxiv.org/abs/2412.19752v1",
+    "arxiv_id": "2412.19752",
+    "arxiv_version": 1,
+    "arxiv_categories": [
+      "math.PR",
+      "math.CO"
+    ],
+    "arxiv_tag": "math.PR",
+    "answer_type": "expression"
+  },
+  {
+    "id": "realmathbenchmark-00251",
+    "link": "http://arxiv.org/abs/2205.04456v1",
+    "arxiv_id": "2205.04456",
+    "arxiv_version": 1,
+    "arxiv_categories": [
+      "math.AG"
+    ],
+    "arxiv_tag": "math.AG",
+    "answer_type": "expression"
+  },
+  {
+    "id": "realmathbenchmark-00252",
+    "link": "http://arxiv.org/abs/2412.13583v1",
+    "arxiv_id": "2412.13583",
+    "arxiv_version": 1,
+    "arxiv_categories": [
+      "math-ph"
+    ],
+    "arxiv_tag": "math-ph",
+    "answer_type": "expression"
+  },
+  {
+    "id": "realmathbenchmark-00268",
+    "link": "http://arxiv.org/abs/2205.11768v3",
+    "arxiv_id": "2205.11768",
+    "arxiv_version": 3,
+    "arxiv_categories": [
+      "math.DG",
+      "math.MG"
+    ],
+    "arxiv_tag": "math.DG",
+    "answer_type": "expression"
+  },
+  {
+    "id": "realmathbenchmark-00273",
+    "link": "http://arxiv.org/abs/2205.04380v2",
+    "arxiv_id": "2205.04380",
+    "arxiv_version": 2,
+    "arxiv_categories": [
+      "math.DG",
+      "math-ph",
+      "math.AG",
+      "math.CV"
+    ],
+    "arxiv_tag": "math.DG",
+    "answer_type": "expression"
+  },
+  {
+    "id": "realmathbenchmark-00279",
+    "link": "http://arxiv.org/abs/2205.07111v2",
+    "arxiv_id": "2205.07111",
+    "arxiv_version": 2,
+    "arxiv_categories": [
+      "math.CV"
+    ],
+    "arxiv_tag": "math.CV",
+    "answer_type": "number"
+  },
+  {
+    "id": "realmathbenchmark-00283",
+    "link": "http://arxiv.org/abs/2206.13625v1",
+    "arxiv_id": "2206.13625",
+    "arxiv_version": 1,
+    "arxiv_categories": [
+      "math.NT"
+    ],
+    "arxiv_tag": "math.NT",
+    "answer_type": "number"
+  },
+  {
+    "id": "realmathbenchmark-00284",
+    "link": "http://arxiv.org/abs/2205.07710v2",
+    "arxiv_id": "2205.07710",
+    "arxiv_version": 2,
+    "arxiv_categories": [
+      "math.CO"
+    ],
+    "arxiv_tag": "math.CO",
+    "answer_type": "expression"
+  },
+  {
+    "id": "realmathbenchmark-00334",
+    "link": "http://arxiv.org/abs/2205.14771v3",
+    "arxiv_id": "2205.14771",
+    "arxiv_version": 3,
+    "arxiv_categories": [
+      "math.SG"
+    ],
+    "arxiv_tag": "math.SG",
+    "answer_type": "expression"
+  },
+  {
+    "id": "realmathbenchmark-00341",
+    "link": "http://arxiv.org/abs/2205.04880v1",
+    "arxiv_id": "2205.04880",
+    "arxiv_version": 1,
+    "arxiv_categories": [
+      "math.PR",
+      "math.NA",
+      "math.OC"
+    ],
+    "arxiv_tag": "math.PR",
+    "answer_type": "number"
+  },
+  {
+    "id": "realmathbenchmark-00363",
+    "link": "http://arxiv.org/abs/2412.20137v1",
+    "arxiv_id": "2412.20137",
+    "arxiv_version": 1,
+    "arxiv_categories": [
+      "math.DS"
+    ],
+    "arxiv_tag": "math.DS",
+    "answer_type": "number"
+  },
+  {
+    "id": "realmathbenchmark-00367",
+    "link": "http://arxiv.org/abs/2205.07492v2",
+    "arxiv_id": "2205.07492",
+    "arxiv_version": 2,
+    "arxiv_categories": [
+      "math.AG",
+      "math.AC",
+      "math.CO"
+    ],
+    "arxiv_tag": "math.AG",
+    "answer_type": "expression"
+  },
+  {
+    "id": "realmathbenchmark-00425",
+    "link": "http://arxiv.org/abs/2412.13118v1",
+    "arxiv_id": "2412.13118",
+    "arxiv_version": 1,
+    "arxiv_categories": [
+      "math.AP",
+      "math.CV"
+    ],
+    "arxiv_tag": "math.AP",
+    "answer_type": "expression"
+  },
+  {
+    "id": "realmathbenchmark-00431",
+    "link": "http://arxiv.org/abs/2206.13625v1",
+    "arxiv_id": "2206.13625",
+    "arxiv_version": 1,
+    "arxiv_categories": [
+      "math.NT"
+    ],
+    "arxiv_tag": "math.NT",
+    "answer_type": "number"
+  },
+  {
+    "id": "realmathbenchmark-00437",
+    "link": "http://arxiv.org/abs/2412.08621v2",
+    "arxiv_id": "2412.08621",
+    "arxiv_version": 2,
+    "arxiv_categories": [
+      "math.AC",
+      "math.GR",
+      "math.RT"
+    ],
+    "arxiv_tag": "math.AC",
+    "answer_type": "number"
+  },
+  {
+    "id": "realmathbenchmark-00490",
+    "link": "http://arxiv.org/abs/2205.12774v2",
+    "arxiv_id": "2205.12774",
+    "arxiv_version": 2,
+    "arxiv_categories": [
+      "math.GT"
+    ],
+    "arxiv_tag": "math.GT",
+    "answer_type": "number"
+  },
+  {
+    "id": "realmathbenchmark-00499",
+    "link": "http://arxiv.org/abs/2205.03922v2",
+    "arxiv_id": "2205.03922",
+    "arxiv_version": 2,
+    "arxiv_categories": [
+      "math.DS"
+    ],
+    "arxiv_tag": "math.DS",
+    "answer_type": "number"
+  },
+  {
+    "id": "realmathbenchmark-00532",
+    "link": "http://arxiv.org/abs/2412.10862v1",
+    "arxiv_id": "2412.10862",
+    "arxiv_version": 1,
+    "arxiv_categories": [
+      "math.GT"
+    ],
+    "arxiv_tag": "math.GT",
+    "answer_type": "number"
+  },
+  {
+    "id": "realmathbenchmark-00558",
+    "link": "http://arxiv.org/abs/2412.11933v2",
+    "arxiv_id": "2412.11933",
+    "arxiv_version": 2,
+    "arxiv_categories": [
+      "math.NT"
+    ],
+    "arxiv_tag": "math.NT",
+    "answer_type": "number"
+  },
+  {
+    "id": "realmathbenchmark-00563",
+    "link": "http://arxiv.org/abs/2412.19752v1",
+    "arxiv_id": "2412.19752",
+    "arxiv_version": 1,
+    "arxiv_categories": [
+      "math.PR",
+      "math.CO"
+    ],
+    "arxiv_tag": "math.PR",
+    "answer_type": "expression"
+  },
+  {
+    "id": "realmathbenchmark-00579",
+    "link": "http://arxiv.org/abs/2412.02902v1",
+    "arxiv_id": "2412.02902",
+    "arxiv_version": 1,
+    "arxiv_categories": [
+      "math.GM"
+    ],
+    "arxiv_tag": "math.GM",
+    "answer_type": "expression"
+  },
+  {
+    "id": "realmathbenchmark-00612",
+    "link": "http://arxiv.org/abs/2412.11933v2",
+    "arxiv_id": "2412.11933",
+    "arxiv_version": 2,
+    "arxiv_categories": [
+      "math.NT"
+    ],
+    "arxiv_tag": "math.NT",
+    "answer_type": "expression"
+  },
+  {
+    "id": "realmathbenchmark-00624",
+    "link": "http://arxiv.org/abs/2412.11933v2",
+    "arxiv_id": "2412.11933",
+    "arxiv_version": 2,
+    "arxiv_categories": [
+      "math.NT"
+    ],
+    "arxiv_tag": "math.NT",
+    "answer_type": "number"
+  },
+  {
+    "id": "realmathbenchmark-00006",
+    "link": "http://arxiv.org/abs/2412.16993v1",
+    "arxiv_id": "2412.16993",
+    "arxiv_version": 1,
+    "arxiv_categories": [
+      "math.AG"
+    ],
+    "arxiv_tag": "math.AG",
+    "answer_type": "number"
+  },
+  {
+    "id": "realmathbenchmark-00007",
+    "link": "http://arxiv.org/abs/2412.15688v1",
+    "arxiv_id": "2412.15688",
+    "arxiv_version": 1,
+    "arxiv_categories": [
+      "math.CO"
+    ],
+    "arxiv_tag": "math.CO",
+    "answer_type": "number"
+  },
+  {
+    "id": "realmathbenchmark-00013",
+    "link": "http://arxiv.org/abs/2205.07189v1",
+    "arxiv_id": "2205.07189",
+    "arxiv_version": 1,
+    "arxiv_categories": [
+      "math.CO"
+    ],
+    "arxiv_tag": "math.CO",
+    "answer_type": "expression"
+  },
+  {
+    "id": "realmathbenchmark-00019",
+    "link": "http://arxiv.org/abs/2206.13877v2",
+    "arxiv_id": "2206.13877",
+    "arxiv_version": 2,
+    "arxiv_categories": [
+      "math.CO"
+    ],
+    "arxiv_tag": "math.CO",
+    "answer_type": "expression"
+  },
+  {
+    "id": "realmathbenchmark-00020",
+    "link": "http://arxiv.org/abs/2412.05500v2",
+    "arxiv_id": "2412.05500",
+    "arxiv_version": 2,
+    "arxiv_categories": [
+      "math.AG"
+    ],
+    "arxiv_tag": "math.AG",
+    "answer_type": "expression"
+  },
+  {
+    "id": "realmathbenchmark-00021",
+    "link": "http://arxiv.org/abs/2412.11933v2",
+    "arxiv_id": "2412.11933",
+    "arxiv_version": 2,
+    "arxiv_categories": [
+      "math.NT"
+    ],
+    "arxiv_tag": "math.NT",
+    "answer_type": "number"
+  },
+  {
+    "id": "realmathbenchmark-00024",
+    "link": "http://arxiv.org/abs/2412.03135v1",
+    "arxiv_id": "2412.03135",
+    "arxiv_version": 1,
+    "arxiv_categories": [
+      "math.SG"
+    ],
+    "arxiv_tag": "math.SG",
+    "answer_type": "number"
+  },
+  {
+    "id": "realmathbenchmark-00029",
+    "link": "http://arxiv.org/abs/2205.14255v2",
+    "arxiv_id": "2205.14255",
+    "arxiv_version": 2,
+    "arxiv_categories": [
+      "math.GT",
+      "math.CO"
+    ],
+    "arxiv_tag": "math.GT",
+    "answer_type": "number"
+  },
+  {
+    "id": "realmathbenchmark-00041",
+    "link": "http://arxiv.org/abs/2412.16993v1",
+    "arxiv_id": "2412.16993",
+    "arxiv_version": 1,
+    "arxiv_categories": [
+      "math.AG"
+    ],
+    "arxiv_tag": "math.AG",
+    "answer_type": "number"
+  },
+  {
+    "id": "realmathbenchmark-00043",
+    "link": "http://arxiv.org/abs/2205.05274v1",
+    "arxiv_id": "2205.05274",
+    "arxiv_version": 1,
+    "arxiv_categories": [
+      "math.CO"
+    ],
+    "arxiv_tag": "math.CO",
+    "answer_type": "expression"
+  },
+  {
+    "id": "realmathbenchmark-00044",
+    "link": "http://arxiv.org/abs/2412.19536v1",
+    "arxiv_id": "2412.19536",
+    "arxiv_version": 1,
+    "arxiv_categories": [
+      "math.CV",
+      "math.DS"
+    ],
+    "arxiv_tag": "math.CV",
+    "answer_type": "number"
+  },
+  {
+    "id": "realmathbenchmark-00052",
+    "link": "http://arxiv.org/abs/2412.17916v1",
+    "arxiv_id": "2412.17916",
+    "arxiv_version": 1,
+    "arxiv_categories": [
+      "stat.ML",
+      "cs.LG",
+      "math.OC"
+    ],
+    "arxiv_tag": "stat.ML",
+    "answer_type": "expression"
+  },
+  {
+    "id": "realmathbenchmark-00055",
+    "link": "http://arxiv.org/abs/2205.13592v1",
+    "arxiv_id": "2205.13592",
+    "arxiv_version": 1,
+    "arxiv_categories": [
+      "math.CO",
+      "math.AG"
+    ],
+    "arxiv_tag": "math.CO",
+    "answer_type": "number"
+  },
+  {
+    "id": "realmathbenchmark-00056",
+    "link": "http://arxiv.org/abs/2412.11933v2",
+    "arxiv_id": "2412.11933",
+    "arxiv_version": 2,
+    "arxiv_categories": [
+      "math.NT"
+    ],
+    "arxiv_tag": "math.NT",
+    "answer_type": "number"
+  },
+  {
+    "id": "realmathbenchmark-00061",
+    "link": "http://arxiv.org/abs/2206.13877v2",
+    "arxiv_id": "2206.13877",
+    "arxiv_version": 2,
+    "arxiv_categories": [
+      "math.CO"
+    ],
+    "arxiv_tag": "math.CO",
+    "answer_type": "expression"
+  },
+  {
+    "id": "realmathbenchmark-00066",
+    "link": "http://arxiv.org/abs/2412.02902v1",
+    "arxiv_id": "2412.02902",
+    "arxiv_version": 1,
+    "arxiv_categories": [
+      "math.GM"
+    ],
+    "arxiv_tag": "math.GM",
+    "answer_type": "expression"
+  },
+  {
+    "id": "realmathbenchmark-00070",
+    "link": "http://arxiv.org/abs/2205.13309v1",
+    "arxiv_id": "2205.13309",
+    "arxiv_version": 1,
+    "arxiv_categories": [
+      "math.CO"
+    ],
+    "arxiv_tag": "math.CO",
+    "answer_type": "expression"
+  },
+  {
+    "id": "realmathbenchmark-00071",
+    "link": "http://arxiv.org/abs/2412.04316v1",
+    "arxiv_id": "2412.04316",
+    "arxiv_version": 1,
+    "arxiv_categories": [
+      "eess.SY",
+      "math.OC"
+    ],
+    "arxiv_tag": "eess.SY",
+    "answer_type": "expression"
+  },
+  {
+    "id": "realmathbenchmark-00078",
+    "link": "http://arxiv.org/abs/2412.11933v2",
+    "arxiv_id": "2412.11933",
+    "arxiv_version": 2,
+    "arxiv_categories": [
+      "math.NT"
+    ],
+    "arxiv_tag": "math.NT",
+    "answer_type": "expression"
+  },
+  {
+    "id": "realmathbenchmark-00084",
+    "link": "http://arxiv.org/abs/2412.11999v2",
+    "arxiv_id": "2412.11999",
+    "arxiv_version": 2,
+    "arxiv_categories": [
+      "math.CO"
+    ],
+    "arxiv_tag": "math.CO",
+    "answer_type": "expression"
+  },
+  {
+    "id": "realmathbenchmark-00088",
+    "link": "http://arxiv.org/abs/2412.02494v2",
+    "arxiv_id": "2412.02494",
+    "arxiv_version": 2,
+    "arxiv_categories": [
+      "math.AT"
+    ],
+    "arxiv_tag": "math.AT",
+    "answer_type": "number"
+  },
+  {
+    "id": "realmathbenchmark-00092",
+    "link": "http://arxiv.org/abs/2205.01894v1",
+    "arxiv_id": "2205.01894",
+    "arxiv_version": 1,
+    "arxiv_categories": [
+      "math.CO"
+    ],
+    "arxiv_tag": "math.CO",
+    "answer_type": "expression"
+  },
+  {
+    "id": "realmathbenchmark-00093",
+    "link": "http://arxiv.org/abs/2205.05713v4",
+    "arxiv_id": "2205.05713",
+    "arxiv_version": 4,
+    "arxiv_categories": [
+      "math.AG",
+      "cs.CC",
+      "math.AC"
+    ],
+    "arxiv_tag": "math.AG",
+    "answer_type": "number"
+  },
+  {
+    "id": "realmathbenchmark-00096",
+    "link": "http://arxiv.org/abs/2205.14771v3",
+    "arxiv_id": "2205.14771",
+    "arxiv_version": 3,
+    "arxiv_categories": [
+      "math.SG"
+    ],
+    "arxiv_tag": "math.SG",
+    "answer_type": "expression"
+  },
+  {
+    "id": "realmathbenchmark-00100",
+    "link": "http://arxiv.org/abs/2412.09885v1",
+    "arxiv_id": "2412.09885",
+    "arxiv_version": 1,
+    "arxiv_categories": [
+      "math.CO"
+    ],
+    "arxiv_tag": "math.CO",
+    "answer_type": "number"
+  },
+  {
+    "id": "realmathbenchmark-00102",
+    "link": "http://arxiv.org/abs/2412.06123v1",
+    "arxiv_id": "2412.06123",
+    "arxiv_version": 1,
+    "arxiv_categories": [
+      "math.RA",
+      "math.RT"
+    ],
+    "arxiv_tag": "math.RA",
+    "answer_type": "expression"
+  },
+  {
+    "id": "realmathbenchmark-00108",
+    "link": "http://arxiv.org/abs/2412.04161v1",
+    "arxiv_id": "2412.04161",
+    "arxiv_version": 1,
+    "arxiv_categories": [
+      "math.AP"
+    ],
+    "arxiv_tag": "math.AP",
+    "answer_type": "expression"
+  },
+  {
+    "id": "realmathbenchmark-00109",
+    "link": "http://arxiv.org/abs/2412.15767v1",
+    "arxiv_id": "2412.15767",
+    "arxiv_version": 1,
+    "arxiv_categories": [
+      "math.NT",
+      "math.CO"
+    ],
+    "arxiv_tag": "math.NT",
+    "answer_type": "expression"
+  },
+  {
+    "id": "realmathbenchmark-00112",
+    "link": "http://arxiv.org/abs/2205.08466v2",
+    "arxiv_id": "2205.08466",
+    "arxiv_version": 2,
+    "arxiv_categories": [
+      "math.NT"
+    ],
+    "arxiv_tag": "math.NT",
+    "answer_type": "expression"
+  },
+  {
+    "id": "realmathbenchmark-00116",
+    "link": "http://arxiv.org/abs/2206.13877v2",
+    "arxiv_id": "2206.13877",
+    "arxiv_version": 2,
+    "arxiv_categories": [
+      "math.CO"
+    ],
+    "arxiv_tag": "math.CO",
+    "answer_type": "expression"
+  },
+  {
+    "id": "realmathbenchmark-00118",
+    "link": "http://arxiv.org/abs/2206.13640v3",
+    "arxiv_id": "2206.13640",
+    "arxiv_version": 3,
+    "arxiv_categories": [
+      "math.GT"
+    ],
+    "arxiv_tag": "math.GT",
+    "answer_type": "expression"
+  },
+  {
+    "id": "realmathbenchmark-00127",
+    "link": "http://arxiv.org/abs/2412.11933v2",
+    "arxiv_id": "2412.11933",
+    "arxiv_version": 2,
+    "arxiv_categories": [
+      "math.NT"
+    ],
+    "arxiv_tag": "math.NT",
+    "answer_type": "expression"
+  },
+  {
+    "id": "realmathbenchmark-00133",
+    "link": "http://arxiv.org/abs/2205.02067v1",
+    "arxiv_id": "2205.02067",
+    "arxiv_version": 1,
+    "arxiv_categories": [
+      "math.AG"
+    ],
+    "arxiv_tag": "math.AG",
+    "answer_type": "number"
+  },
+  {
+    "id": "realmathbenchmark-00134",
+    "link": "http://arxiv.org/abs/2412.06331v1",
+    "arxiv_id": "2412.06331",
+    "arxiv_version": 1,
+    "arxiv_categories": [
+      "math.CO"
+    ],
+    "arxiv_tag": "math.CO",
+    "answer_type": "expression"
+  },
+  {
+    "id": "realmathbenchmark-00140",
+    "link": "http://arxiv.org/abs/2412.11933v2",
+    "arxiv_id": "2412.11933",
+    "arxiv_version": 2,
+    "arxiv_categories": [
+      "math.NT"
+    ],
+    "arxiv_tag": "math.NT",
+    "answer_type": "number"
+  },
+  {
+    "id": "realmathbenchmark-00145",
+    "link": "http://arxiv.org/abs/2412.08075v2",
+    "arxiv_id": "2412.08075",
+    "arxiv_version": 2,
+    "arxiv_categories": [
+      "math.CO"
+    ],
+    "arxiv_tag": "math.CO",
+    "answer_type": "expression"
+  },
+  {
+    "id": "realmathbenchmark-00148",
+    "link": "http://arxiv.org/abs/2412.06123v1",
+    "arxiv_id": "2412.06123",
+    "arxiv_version": 1,
+    "arxiv_categories": [
+      "math.RA",
+      "math.RT"
+    ],
+    "arxiv_tag": "math.RA",
+    "answer_type": "expression"
+  },
+  {
+    "id": "realmathbenchmark-00151",
+    "link": "http://arxiv.org/abs/2412.16314v1",
+    "arxiv_id": "2412.16314",
+    "arxiv_version": 1,
+    "arxiv_categories": [
+      "math.GT",
+      "math.GN"
+    ],
+    "arxiv_tag": "math.GT",
+    "answer_type": "expression"
+  },
+  {
+    "id": "realmathbenchmark-00156",
+    "link": "http://arxiv.org/abs/2205.05394v1",
+    "arxiv_id": "2205.05394",
+    "arxiv_version": 1,
+    "arxiv_categories": [
+      "math.CO"
+    ],
+    "arxiv_tag": "math.CO",
+    "answer_type": "expression"
+  },
+  {
+    "id": "realmathbenchmark-00157",
+    "link": "http://arxiv.org/abs/2205.05724v1",
+    "arxiv_id": "2205.05724",
+    "arxiv_version": 1,
+    "arxiv_categories": [
+      "math.CO"
+    ],
+    "arxiv_tag": "math.CO",
+    "answer_type": "number"
+  },
+  {
+    "id": "realmathbenchmark-00165",
+    "link": "http://arxiv.org/abs/2412.11933v2",
+    "arxiv_id": "2412.11933",
+    "arxiv_version": 2,
+    "arxiv_categories": [
+      "math.NT"
+    ],
+    "arxiv_tag": "math.NT",
+    "answer_type": "number"
+  },
+  {
+    "id": "realmathbenchmark-00166",
+    "link": "http://arxiv.org/abs/2205.05724v1",
+    "arxiv_id": "2205.05724",
+    "arxiv_version": 1,
+    "arxiv_categories": [
+      "math.CO"
+    ],
+    "arxiv_tag": "math.CO",
+    "answer_type": "number"
+  },
+  {
+    "id": "realmathbenchmark-00170",
+    "link": "http://arxiv.org/abs/2412.11933v2",
+    "arxiv_id": "2412.11933",
+    "arxiv_version": 2,
+    "arxiv_categories": [
+      "math.NT"
+    ],
+    "arxiv_tag": "math.NT",
+    "answer_type": "number"
+  },
+  {
+    "id": "realmathbenchmark-00171",
+    "link": "http://arxiv.org/abs/2412.11227v2",
+    "arxiv_id": "2412.11227",
+    "arxiv_version": 2,
+    "arxiv_categories": [
+      "math.MG"
+    ],
+    "arxiv_tag": "math.MG",
+    "answer_type": "expression"
+  },
+  {
+    "id": "realmathbenchmark-00178",
+    "link": "http://arxiv.org/abs/2412.11999v2",
+    "arxiv_id": "2412.11999",
+    "arxiv_version": 2,
+    "arxiv_categories": [
+      "math.CO"
+    ],
+    "arxiv_tag": "math.CO",
+    "answer_type": "expression"
+  },
+  {
+    "id": "realmathbenchmark-00188",
+    "link": "http://arxiv.org/abs/2412.07510v1",
+    "arxiv_id": "2412.07510",
+    "arxiv_version": 1,
+    "arxiv_categories": [
+      "math.CO"
+    ],
+    "arxiv_tag": "math.CO",
+    "answer_type": "expression"
+  },
+  {
+    "id": "realmathbenchmark-00190",
+    "link": "http://arxiv.org/abs/2205.03451v2",
+    "arxiv_id": "2205.03451",
+    "arxiv_version": 2,
+    "arxiv_categories": [
+      "math.GT",
+      "math.CO"
+    ],
+    "arxiv_tag": "math.GT",
+    "answer_type": "expression"
+  },
+  {
+    "id": "realmathbenchmark-00191",
+    "link": "http://arxiv.org/abs/2206.14653v1",
+    "arxiv_id": "2206.14653",
+    "arxiv_version": 1,
+    "arxiv_categories": [
+      "math.CA"
+    ],
+    "arxiv_tag": "math.CA",
+    "answer_type": "number"
+  },
+  {
+    "id": "realmathbenchmark-00192",
+    "link": "http://arxiv.org/abs/2206.14174v1",
+    "arxiv_id": "2206.14174",
+    "arxiv_version": 1,
+    "arxiv_categories": [
+      "math.GT",
+      "math.CV"
+    ],
+    "arxiv_tag": "math.GT",
+    "answer_type": "number"
+  },
+  {
+    "id": "realmathbenchmark-00193",
+    "link": "http://arxiv.org/abs/2412.08621v2",
+    "arxiv_id": "2412.08621",
+    "arxiv_version": 2,
+    "arxiv_categories": [
+      "math.AC",
+      "math.GR",
+      "math.RT"
+    ],
+    "arxiv_tag": "math.AC",
+    "answer_type": "number"
+  },
+  {
+    "id": "realmathbenchmark-00195",
+    "link": "http://arxiv.org/abs/2412.11933v2",
+    "arxiv_id": "2412.11933",
+    "arxiv_version": 2,
+    "arxiv_categories": [
+      "math.NT"
+    ],
+    "arxiv_tag": "math.NT",
+    "answer_type": "number"
+  },
+  {
+    "id": "realmathbenchmark-00197",
+    "link": "http://arxiv.org/abs/2412.11933v2",
+    "arxiv_id": "2412.11933",
+    "arxiv_version": 2,
+    "arxiv_categories": [
+      "math.NT"
+    ],
+    "arxiv_tag": "math.NT",
+    "answer_type": "number"
+  },
+  {
+    "id": "realmathbenchmark-00199",
+    "link": "http://arxiv.org/abs/2412.02494v2",
+    "arxiv_id": "2412.02494",
+    "arxiv_version": 2,
+    "arxiv_categories": [
+      "math.AT"
+    ],
+    "arxiv_tag": "math.AT",
+    "answer_type": "number"
+  },
+  {
+    "id": "realmathbenchmark-00200",
+    "link": "http://arxiv.org/abs/2205.00438v1",
+    "arxiv_id": "2205.00438",
+    "arxiv_version": 1,
+    "arxiv_categories": [
+      "math.GR",
+      "math.CO"
+    ],
+    "arxiv_tag": "math.GR",
+    "answer_type": "expression"
+  },
+  {
+    "id": "realmathbenchmark-00201",
+    "link": "http://arxiv.org/abs/2412.04161v1",
+    "arxiv_id": "2412.04161",
+    "arxiv_version": 1,
+    "arxiv_categories": [
+      "math.AP"
+    ],
+    "arxiv_tag": "math.AP",
+    "answer_type": "expression"
+  },
+  {
+    "id": "realmathbenchmark-00207",
+    "link": "http://arxiv.org/abs/2205.07317v2",
+    "arxiv_id": "2205.07317",
+    "arxiv_version": 2,
+    "arxiv_categories": [
+      "cs.DM",
+      "math.CO"
+    ],
+    "arxiv_tag": "cs.DM",
+    "answer_type": "number"
+  },
+  {
+    "id": "realmathbenchmark-00211",
+    "link": "http://arxiv.org/abs/2412.11999v2",
+    "arxiv_id": "2412.11999",
+    "arxiv_version": 2,
+    "arxiv_categories": [
+      "math.CO"
+    ],
+    "arxiv_tag": "math.CO",
+    "answer_type": "expression"
+  },
+  {
+    "id": "realmathbenchmark-00223",
+    "link": "http://arxiv.org/abs/2412.11358v1",
+    "arxiv_id": "2412.11358",
+    "arxiv_version": 1,
+    "arxiv_categories": [
+      "math.CO",
+      "math.GR",
+      "math.NT"
+    ],
+    "arxiv_tag": "math.CO",
+    "answer_type": "expression"
+  },
+  {
+    "id": "realmathbenchmark-00226",
+    "link": "http://arxiv.org/abs/2412.02123v3",
+    "arxiv_id": "2412.02123",
+    "arxiv_version": 3,
+    "arxiv_categories": [
+      "math.CA",
+      "math.MG"
+    ],
+    "arxiv_tag": "math.CA",
+    "answer_type": "expression"
+  },
+  {
+    "id": "realmathbenchmark-00232",
+    "link": "http://arxiv.org/abs/2412.11933v2",
+    "arxiv_id": "2412.11933",
+    "arxiv_version": 2,
+    "arxiv_categories": [
+      "math.NT"
+    ],
+    "arxiv_tag": "math.NT",
+    "answer_type": "number"
+  },
+  {
+    "id": "realmathbenchmark-00296",
+    "link": "http://arxiv.org/abs/2205.13318v1",
+    "arxiv_id": "2205.13318",
+    "arxiv_version": 1,
+    "arxiv_categories": [
+      "math.AG"
+    ],
+    "arxiv_tag": "math.AG",
+    "answer_type": "expression"
+  },
+  {
+    "id": "realmathbenchmark-00330",
+    "link": "http://arxiv.org/abs/2412.07483v1",
+    "arxiv_id": "2412.07483",
+    "arxiv_version": 1,
+    "arxiv_categories": [
+      "math.AG"
+    ],
+    "arxiv_tag": "math.AG",
+    "answer_type": "expression"
+  },
+  {
+    "id": "realmathbenchmark-00396",
+    "link": "http://arxiv.org/abs/2412.06635v1",
+    "arxiv_id": "2412.06635",
+    "arxiv_version": 1,
+    "arxiv_categories": [
+      "math.AG",
+      "math.KT",
+      "math.NT"
+    ],
+    "arxiv_tag": "math.AG",
+    "answer_type": "number"
+  },
+  {
+    "id": "realmathbenchmark-00589",
+    "link": "http://arxiv.org/abs/2412.16993v1",
+    "arxiv_id": "2412.16993",
+    "arxiv_version": 1,
+    "arxiv_categories": [
+      "math.AG"
+    ],
+    "arxiv_tag": "math.AG",
+    "answer_type": "expression"
+  },
+  {
+    "id": "realmathbenchmark-00591",
+    "link": "http://arxiv.org/abs/2412.07483v1",
+    "arxiv_id": "2412.07483",
+    "arxiv_version": 1,
+    "arxiv_categories": [
+      "math.AG"
+    ],
+    "arxiv_tag": "math.AG",
+    "answer_type": "number"
+  },
+  {
+    "id": "realmathbenchmark-00621",
+    "link": "http://arxiv.org/abs/2412.06635v1",
+    "arxiv_id": "2412.06635",
+    "arxiv_version": 1,
+    "arxiv_categories": [
+      "math.AG",
+      "math.KT",
+      "math.NT"
+    ],
+    "arxiv_tag": "math.AG",
+    "answer_type": "expression"
+  },
+  {
+    "id": "realmathbenchmark-00266",
+    "link": "http://arxiv.org/abs/2205.11120v1",
+    "arxiv_id": "2205.11120",
+    "arxiv_version": 1,
+    "arxiv_categories": [
+      "math.GT"
+    ],
+    "arxiv_tag": "math.GT",
+    "answer_type": "expression"
+  },
+  {
+    "id": "realmathbenchmark-00360",
+    "link": "http://arxiv.org/abs/2205.14255v2",
+    "arxiv_id": "2205.14255",
+    "arxiv_version": 2,
+    "arxiv_categories": [
+      "math.GT",
+      "math.CO"
+    ],
+    "arxiv_tag": "math.GT",
+    "answer_type": "number"
+  },
+  {
+    "id": "realmathbenchmark-00405",
+    "link": "http://arxiv.org/abs/2205.01013v3",
+    "arxiv_id": "2205.01013",
+    "arxiv_version": 3,
+    "arxiv_categories": [
+      "math.GT"
+    ],
+    "arxiv_tag": "math.GT",
+    "answer_type": "number"
+  },
+  {
+    "id": "realmathbenchmark-00428",
+    "link": "http://arxiv.org/abs/2205.11120v1",
+    "arxiv_id": "2205.11120",
+    "arxiv_version": 1,
+    "arxiv_categories": [
+      "math.GT"
+    ],
+    "arxiv_tag": "math.GT",
+    "answer_type": "number"
+  },
+  {
+    "id": "realmathbenchmark-00423",
+    "link": "http://arxiv.org/abs/2205.04574v2",
+    "arxiv_id": "2205.04574",
+    "arxiv_version": 2,
+    "arxiv_categories": [
+      "math.AP",
+      "math.DG"
+    ],
+    "arxiv_tag": "math.AP",
+    "answer_type": "expression"
+  },
+  {
+    "id": "realmathbenchmark-00564",
+    "link": "http://arxiv.org/abs/2205.02467v1",
+    "arxiv_id": "2205.02467",
+    "arxiv_version": 1,
+    "arxiv_categories": [
+      "math.AP",
+      "math.FA"
+    ],
+    "arxiv_tag": "math.AP",
+    "answer_type": "expression"
+  },
+  {
+    "id": "realmathbenchmark-00586",
+    "link": "http://arxiv.org/abs/2412.18968v1",
+    "arxiv_id": "2412.18968",
+    "arxiv_version": 1,
+    "arxiv_categories": [
+      "math.AP"
+    ],
+    "arxiv_tag": "math.AP",
+    "answer_type": "number"
+  },
+  {
+    "id": "realmathbenchmark-00430",
+    "link": "http://arxiv.org/abs/2205.15369v1",
+    "arxiv_id": "2205.15369",
+    "arxiv_version": 1,
+    "arxiv_categories": [
+      "math.GR"
+    ],
+    "arxiv_tag": "math.GR",
+    "answer_type": "expression"
+  },
+  {
+    "id": "realmathbenchmark-00501",
+    "link": "http://arxiv.org/abs/2205.02578v2",
+    "arxiv_id": "2205.02578",
+    "arxiv_version": 2,
+    "arxiv_categories": [
+      "math.GR"
+    ],
+    "arxiv_tag": "math.GR",
+    "answer_type": "expression"
+  },
+  {
+    "id": "realmathbenchmark-00508",
+    "link": "http://arxiv.org/abs/2412.13675v1",
+    "arxiv_id": "2412.13675",
+    "arxiv_version": 1,
+    "arxiv_categories": [
+      "math.GR"
+    ],
+    "arxiv_tag": "math.GR",
+    "answer_type": "expression"
+  },
+  {
+    "id": "realmathbenchmark-00516",
+    "link": "http://arxiv.org/abs/2412.17480v1",
+    "arxiv_id": "2412.17480",
+    "arxiv_version": 1,
+    "arxiv_categories": [
+      "math.GR",
+      "math.RA"
+    ],
+    "arxiv_tag": "math.GR",
+    "answer_type": "number"
+  },
+  {
+    "id": "realmathbenchmark-00538",
+    "link": "http://arxiv.org/abs/2205.00438v1",
+    "arxiv_id": "2205.00438",
+    "arxiv_version": 1,
+    "arxiv_categories": [
+      "math.GR",
+      "math.CO"
+    ],
+    "arxiv_tag": "math.GR",
+    "answer_type": "expression"
+  },
+  {
+    "id": "realmathbenchmark-00580",
+    "link": "http://arxiv.org/abs/2205.15024v1",
+    "arxiv_id": "2205.15024",
+    "arxiv_version": 1,
+    "arxiv_categories": [
+      "math.GR",
+      "math.RA"
+    ],
+    "arxiv_tag": "math.GR",
+    "answer_type": "number"
+  },
+  {
+    "id": "realmathbenchmark-00236",
+    "link": "http://arxiv.org/abs/2412.19752v1",
+    "arxiv_id": "2412.19752",
+    "arxiv_version": 1,
+    "arxiv_categories": [
+      "math.PR",
+      "math.CO"
+    ],
+    "arxiv_tag": "math.PR",
+    "answer_type": "number"
+  },
+  {
+    "id": "realmathbenchmark-00255",
+    "link": "http://arxiv.org/abs/2412.19752v1",
+    "arxiv_id": "2412.19752",
+    "arxiv_version": 1,
+    "arxiv_categories": [
+      "math.PR",
+      "math.CO"
+    ],
+    "arxiv_tag": "math.PR",
+    "answer_type": "number"
+  },
+  {
+    "id": "realmathbenchmark-00453",
+    "link": "http://arxiv.org/abs/2412.15626v1",
+    "arxiv_id": "2412.15626",
+    "arxiv_version": 1,
+    "arxiv_categories": [
+      "math.PR"
+    ],
+    "arxiv_tag": "math.PR",
+    "answer_type": "number"
+  },
+  {
+    "id": "realmathbenchmark-00456",
+    "link": "http://arxiv.org/abs/2412.16437v1",
+    "arxiv_id": "2412.16437",
+    "arxiv_version": 1,
+    "arxiv_categories": [
+      "math.PR",
+      "math.DS"
+    ],
+    "arxiv_tag": "math.PR",
+    "answer_type": "number"
+  },
+  {
+    "id": "realmathbenchmark-00462",
+    "link": "http://arxiv.org/abs/2412.19752v1",
+    "arxiv_id": "2412.19752",
+    "arxiv_version": 1,
+    "arxiv_categories": [
+      "math.PR",
+      "math.CO"
+    ],
+    "arxiv_tag": "math.PR",
+    "answer_type": "number"
+  },
+  {
+    "id": "realmathbenchmark-00629",
+    "link": "http://arxiv.org/abs/2205.10645v3",
+    "arxiv_id": "2205.10645",
+    "arxiv_version": 3,
+    "arxiv_categories": [
+      "math.PR",
+      "math.CO"
+    ],
+    "arxiv_tag": "math.PR",
+    "answer_type": "expression"
+  },
+  {
+    "id": "realmathbenchmark-00300",
+    "link": "http://arxiv.org/abs/2205.08453v3",
+    "arxiv_id": "2205.08453",
+    "arxiv_version": 3,
+    "arxiv_categories": [
+      "math.AT"
+    ],
+    "arxiv_tag": "math.AT",
+    "answer_type": "expression"
+  },
+  {
+    "id": "realmathbenchmark-00549",
+    "link": "http://arxiv.org/abs/2412.12921v2",
+    "arxiv_id": "2412.12921",
+    "arxiv_version": 2,
+    "arxiv_categories": [
+      "math.AT"
+    ],
+    "arxiv_tag": "math.AT",
+    "answer_type": "expression"
+  },
+  {
+    "id": "realmathbenchmark-00346",
+    "link": "http://arxiv.org/abs/2412.14059v1",
+    "arxiv_id": "2412.14059",
+    "arxiv_version": 1,
+    "arxiv_categories": [
+      "math.CA",
+      "math.NT",
+      "math.SP"
+    ],
+    "arxiv_tag": "math.CA",
+    "answer_type": "number"
+  },
+  {
+    "id": "realmathbenchmark-00397",
+    "link": "http://arxiv.org/abs/2412.15866v1",
+    "arxiv_id": "2412.15866",
+    "arxiv_version": 1,
+    "arxiv_categories": [
+      "math.CA",
+      "cs.LG"
+    ],
+    "arxiv_tag": "math.CA",
+    "answer_type": "expression"
+  },
+  {
+    "id": "realmathbenchmark-00502",
+    "link": "http://arxiv.org/abs/2412.07314v1",
+    "arxiv_id": "2412.07314",
+    "arxiv_version": 1,
+    "arxiv_categories": [
+      "math.CA"
+    ],
+    "arxiv_tag": "math.CA",
+    "answer_type": "number"
+  },
+  {
+    "id": "realmathbenchmark-00348",
+    "link": "http://arxiv.org/abs/2412.06123v1",
+    "arxiv_id": "2412.06123",
+    "arxiv_version": 1,
+    "arxiv_categories": [
+      "math.RA",
+      "math.RT"
+    ],
+    "arxiv_tag": "math.RA",
+    "answer_type": "expression"
+  },
+  {
+    "id": "realmathbenchmark-00620",
+    "link": "http://arxiv.org/abs/2205.15728v1",
+    "arxiv_id": "2205.15728",
+    "arxiv_version": 1,
+    "arxiv_categories": [
+      "math.RA"
+    ],
+    "arxiv_tag": "math.RA",
+    "answer_type": "expression"
+  },
+  {
+    "id": "realmathbenchmark-00573",
+    "link": "http://arxiv.org/abs/2412.08621v2",
+    "arxiv_id": "2412.08621",
+    "arxiv_version": 2,
+    "arxiv_categories": [
+      "math.AC",
+      "math.GR",
+      "math.RT"
+    ],
+    "arxiv_tag": "math.AC",
+    "answer_type": "expression"
+  }
+]

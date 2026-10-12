@@ -1,0 +1,90 @@
+model,exception,count
+DeepSeek V3.2,AttributeError,1
+DeepSeek V3.2,SignalError,10
+DeepSeek V3.2,SympifyError,1
+DeepSeek V3.2,ZeroDivisionError,1
+DeepSeek V3.2,code_error,506
+DeepSeek V3.2,invalid_runner_output,1
+DeepSeek V3.2,runtime_crash,37
+DeepSeek V3.2,timeout,33
+DeepSeek V4 Flash,NotImplementedError,1
+DeepSeek V4 Flash,code_error,273
+DeepSeek V4 Flash,invalid_runner_output,1
+DeepSeek V4 Flash,runtime_crash,1
+DeepSeek V4 Flash,timeout,54
+DeepSeek V4 Pro,NotImplementedError,1
+DeepSeek V4 Pro,code_error,174
+DeepSeek V4 Pro,invalid_runner_output,1
+DeepSeek V4 Pro,timeout,65
+Fugu-Ultra,code_error,46
+Fugu-Ultra,timeout,47
+Gemini 3.5 Flash,SignalError,13
+Gemini 3.5 Flash,code_error,243
+Gemini 3.5 Flash,invalid_runner_output,2
+Gemini 3.5 Flash,runtime_crash,3
+Gemini 3.5 Flash,timeout,58
+Gemini 3.1 Pro,SignalError,9
+Gemini 3.1 Pro,code_error,155
+Gemini 3.1 Pro,runtime_crash,6
+Gemini 3.1 Pro,timeout,67
+GLM 5.2,SignalError,3
+GLM 5.2,code_error,146
+GLM 5.2,runtime_crash,3
+GLM 5.2,timeout,322
+GPT-5.5,SignalError,2
+GPT-5.5,code_error,43
+GPT-5.5,invalid_runner_output,2
+GPT-5.5,timeout,30
+GPT-5.6 Luna,SignalError,2
+GPT-5.6 Luna,code_error,38
+GPT-5.6 Luna,timeout,320
+GPT-5.6 Sol,code_error,19
+GPT-5.6 Sol,timeout,484
+GPT-5.6 Terra,code_error,8
+GPT-5.6 Terra,timeout,456
+Grok 4.3,AssertionError,2
+Grok 4.3,SignalError,4
+Grok 4.3,code_error,328
+Grok 4.3,runtime_crash,3
+Grok 4.3,timeout,6
+Kimi K2.7,AssertionError,1
+Kimi K2.7,SignalError,11
+Kimi K2.7,SympifyError,1
+Kimi K2.7,code_error,363
+Kimi K2.7,runtime_crash,6
+Kimi K2.7,timeout,357
+Kimi K2.7,unclassified,1
+Kimi K3,NotImplementedError,1
+Kimi K3,SignalError,1
+Kimi K3,ZeroDivisionError,1
+Kimi K3,code_error,86
+Kimi K3,runtime_crash,3
+Kimi K3,timeout,618
+MiniMax M3,AssertionError,1
+MiniMax M3,NotImplementedError,2
+MiniMax M3,code_error,221
+MiniMax M3,runtime_crash,1
+MiniMax M3,timeout,125
+Mistral 3.5,code_error,237
+Mistral 3.5,runtime_crash,1
+Mistral 3.5,timeout,8
+Opus 4.7,SignalError,4
+Opus 4.7,ValueError,1
+Opus 4.7,code_error,33
+Opus 4.7,runtime_crash,4
+Opus 4.7,timeout,27
+Opus 4.8,SignalError,9
+Opus 4.8,ZeroDivisionError,2
+Opus 4.8,code_error,37
+Opus 4.8,runtime_crash,8
+Opus 4.8,timeout,109
+Qwen 3.7 Max,NotImplementedError,1
+Qwen 3.7 Max,SignalError,9
+Qwen 3.7 Max,code_error,151
+Qwen 3.7 Max,timeout,163
+Qwen 3.7 Max,unclassified,1
+Sonnet 5,SignalError,4
+Sonnet 5,code_error,68
+Sonnet 5,runtime_crash,3
+Sonnet 5,timeout,355
+Sonnet 5,unclassified,17
